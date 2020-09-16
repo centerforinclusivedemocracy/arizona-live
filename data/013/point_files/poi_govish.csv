@@ -1,0 +1,269 @@
+,osm_id,code,fclass,name,lon,lat
+0,359292726,2005,post_office,McDowell Post Office,-112.02443,33.46598
+1,2303440690,2001,police,,-112.03695,33.53056
+2,366219795,2002,fire_station,Phoenix Fire Station Number 19,-112.00559,33.43424
+3,3095026888,2001,police,Phoenix PD Airport Bureau,-112.00871,33.43625
+4,5257164765,2002,fire_station,Peoria Fire-Medical Station 199,-112.25011,33.85017
+5,359286753,2005,post_office,Downtown Station Post Office,-112.0747,33.45443
+6,359292719,2005,post_office,Downtown Phoenix Post Office,-112.07426,33.45444
+7,2470706342,2008,town_hall,City of Phoenix,-112.07734,33.44857
+8,4950087307,2007,library,Superior Court Law Library Resource Center,-112.07554,33.44674
+9,779471821,2002,fire_station,Scottsdale Fire Station Number 1,-111.91709,33.4683
+10,1698684164,2002,fire_station,,-111.92882,33.4397
+11,4157105961,2002,fire_station,,-111.92831,33.43988
+12,366219595,2099,public_building,Goldfield Administrative Site,-111.6168,33.55504
+13,5182626015,2001,police,Sheriff's Aid Station,-111.53755,33.57483
+14,366220022,2008,town_hall,Glendale City Hall,-112.18518,33.53893
+15,5259165243,2002,fire_station,Arizona Fire Medical Authority Fire Station 231,-111.88423,33.21586
+16,5259157045,2002,fire_station,Arizona Fire Medical Authority Fire Station 232,-111.85895,33.21945
+17,5330373330,2005,post_office,The UPS Store,-111.86038,33.23302
+18,1798894136,2005,post_office,Pecos Post Office,-112.06248,33.293
+19,359286829,2005,post_office,Surprise Post Office,-112.3376,33.62786
+20,366219389,2099,public_building,Maricopa County Municipal Water Conservation District Number One,-112.38058,33.66122
+21,366220019,2008,town_hall,Surprise Town Hall,-112.33655,33.62948
+22,768058150,2002,fire_station,,-112.38456,33.62452
+23,5237321214,2002,fire_station,Arizona Fire Medical Authority Fire Station 101,-112.34988,33.65721
+24,5237321215,2002,fire_station,Arizona Fire Medical Authority Fire Station 102,-112.37104,33.67229
+25,5237350347,2002,fire_station,Surprise Fire Medical Fire Station 304,-112.41039,33.71031
+26,6956815856,2002,fire_station,Surprise Fire - Medical Station 302,-112.37768,33.6532
+27,359286743,2005,post_office,Chandler Heights Post Office,-111.63541,33.24783
+28,5257237007,2002,fire_station,Queek Creek Fire & Medical Station 411,-111.63714,33.24495
+29,366220012,2008,town_hall,Cave Creek Town Hall,-111.95626,33.82754
+30,2335097807,2002,fire_station,Phoenix Fire Station #56,-112.12906,33.80106
+31,5237375276,2002,fire_station,,-112.11381,33.8581
+32,5237397132,2002,fire_station,Daisy Mountain Fire Station 145,-112.0881,33.84295
+33,5819923958,2005,post_office,United States Postal Service,-111.94399,33.83319
+34,6250034017,2005,post_office,Power Postal at Las Sendas,-111.6855,33.46698
+35,359286712,2005,post_office,Aguila Post Office,-113.16797,33.94225
+36,359286838,2005,post_office,Wickenburg Post Office,-112.72823,33.96947
+37,366220017,2008,town_hall,Wickenburg Town Hall,-112.72796,33.97003
+38,1815690247,2005,post_office,Wittmann Post Office,-112.53398,33.78066
+39,5237321208,2002,fire_station,Circle City / Morristown Fire Station 765,-112.62008,33.85556
+40,5237321209,2002,fire_station,Wickenburg Fire Station 751,-112.74369,33.96647
+41,5237350340,2002,fire_station,Arizona Fire Medical Authority Fire Station 106,-112.50064,33.73836
+42,6965433927,2002,fire_station,Circle City Morristown Fire Station 766,-112.58038,33.81538
+43,6965433934,2002,fire_station,Arizona Fire Medical Authority Annex Building,-112.5302,33.77801
+44,3101296808,2001,police,Tempe Police Substation & Traffic Bureau,-111.90547,33.41156
+45,2764862002,2009,courthouse,Maricopa County Juvenile Court,-111.82942,33.38216
+46,5004421385,2001,police,Maricopa County Sheriff,-111.83017,33.38144
+47,5004481315,2009,courthouse,Maricopa County Family Court,-111.8273,33.38116
+48,5004481316,2009,courthouse,Maricopa County Superior Court Clerk,-111.82657,33.38111
+49,5162182914,2005,post_office,The UPS Store,-111.84299,33.38028
+50,1237871440,2007,library,Cholla Branch (Phoenix Public Library),-112.12004,33.57802
+51,6292297579,2005,post_office,The UPS Store,-112.12514,33.58138
+52,359292712,2005,post_office,Chandler Andersen Springs Post Office,-111.87559,33.31142
+53,1931551473,2007,library,Chandler Public Library,-111.83799,33.3034
+54,5243624562,2002,fire_station,Chandler Fire Health & Medical Station 281,-111.83241,33.29299
+55,5243660320,2002,fire_station,Chandler Fire Health & Medical Station 288,-111.8514,33.29842
+56,359286740,2005,post_office,Cave Creek Post Office,-111.94737,33.83143
+57,2520612185,2007,library,Desert Broom Library,-111.99215,33.75441
+58,3189354392,2005,post_office,,-111.99102,33.75193
+59,4459851791,2002,fire_station,,-111.84497,33.73719
+60,366219740,2002,fire_station,Phoenix Fire Station Number 48,-112.17309,33.71288
+61,5243871637,2002,fire_station,Glendale Fire Station 154,-112.15478,33.58151
+62,2846018962,2005,post_office,The UPS Store,-112.15432,33.5234
+63,1657184297,2007,library,Cesar Chavez Library,-112.13861,33.37682
+64,323176942,2001,police,Avondale Police Department,-112.30459,33.44299
+65,323176943,2009,courthouse,Avondale City Courts,-112.30397,33.44348
+66,359286719,2005,post_office,Avondale Post Office,-112.34186,33.43515
+67,359286737,2005,post_office,Cashion Post Office,-112.2999,33.43513
+68,359286772,2005,post_office,Goodyear Post Office,-112.35794,33.43588
+69,359286833,2005,post_office,Tolleson Post Office,-112.25793,33.45004
+70,366220018,2008,town_hall,Tolleson Town Hall,-112.2661,33.44953
+71,366220031,2008,town_hall,Avondale Town Hall,-112.34905,33.44088
+72,814577470,2001,police,Goodyear Police Department,-112.37013,33.44725
+73,814577474,2009,courthouse,Goodyear Magistrate Court,-112.37053,33.4486
+74,1656317859,2005,post_office,,-112.2515,33.45017
+75,1659459162,2007,library,,-112.30278,33.44509
+76,3178246267,2002,fire_station,Tolleson Fire Station 161,-112.25732,33.4494
+77,2908188832,2005,post_office,The UPS Store,-111.7916,33.23454
+78,366220020,2008,town_hall,Peoria Town Hall,-112.23983,33.57625
+79,5237321211,2002,fire_station,Sun City Fire & Medical Department Fire Station 132,-112.27211,33.58775
+80,5257120308,2002,fire_station,Peoria Fire-Medical Station 193,-112.23829,33.60667
+81,4892098456,2002,fire_station,Gila River Indian Community Fire Dept. Station 429,-111.9752,33.26329
+82,6515217958,2005,post_office,Pakmail,-111.9978,33.30323
+83,2104765115,2005,post_office,,-112.42739,33.53763
+84,5235893219,2002,fire_station,Luke AFB Fire Station 361,-112.36589,33.53977
+85,5244987053,2002,fire_station,Luke AFB Fire Station 362,-112.37659,33.53355
+86,6852562273,2007,library,White Tank Library,-112.49804,33.56709
+87,6956878721,2002,fire_station,Surprise Fire - Medical Department Fire Station 307,-112.40702,33.59464
+88,366219668,2002,fire_station,Phoenix Fire Station Number 33,-112.1107,33.59613
+89,366219666,2002,fire_station,Phoenix Fire Station Number 35,-112.06595,33.63327
+90,359286814,2005,post_office,Sherwood Post Office,-111.80458,33.41199
+91,359292736,2005,post_office,Pioneer Carrier Annex Post Office,-111.80504,33.41203
+92,2814336946,2005,post_office,Mesa Mountain View,-111.77242,33.42212
+93,2814336953,2005,post_office,,-111.77026,33.40947
+94,5257358735,2002,fire_station,Salt River Fire Station 294,-111.80545,33.47443
+95,359286756,2005,post_office,El Mirage Post Office,-112.31768,33.60853
+96,359286842,2005,post_office,Youngtown Post Office,-112.30016,33.59254
+97,366220016,2008,town_hall,Youngtown City Hall,-112.30155,33.59421
+98,1350492044,2007,library,El Mirage Library,-112.32575,33.61113
+99,4320868764,2001,police,Maricopa County Sherriff,-112.34142,33.63802
+100,5237321213,2002,fire_station,El Mirage Fire Staion 121,-112.32428,33.60754
+101,5237321529,2002,fire_station,Arizona Fire Medical Authority Fire Station 104,-112.31731,33.71016
+102,5237369396,2002,fire_station,Surprise Fire - Medical Station 301,-112.32713,33.63628
+103,5257153786,2002,fire_station,Peoria Fire-Medical Station 195,-112.27778,33.69289
+104,5257164752,2002,fire_station,Peoria Fire-Medical Station 196,-112.32468,33.73886
+105,6258953808,2005,post_office,The UPS Store,-112.28772,33.56427
+106,6956810629,2002,fire_station,Arizona Fire Medical Authority Fire Station 103,-112.35425,33.68233
+107,6956810649,2002,fire_station,Sun City Fire & Medical Department Fire Station 133,-112.29916,33.60448
+108,359286811,2005,post_office,Scottsdale Post Office,-111.92545,33.48732
+109,4840570425,2005,post_office,The UPS Store,-111.92641,33.50044
+110,359292698,2005,post_office,Arcadia Post Office,-111.99714,33.48057
+111,366219695,2002,fire_station,Phoenix Fire Station Number 13,-111.97873,33.4795
+112,359292747,2005,post_office,Tempe Post Office,-111.93555,33.39206
+113,1698683460,2007,library,Tempe Public Library,-111.92798,33.39151
+114,5269184027,2002,fire_station,,-111.9518,33.39548
+115,5237397141,2002,fire_station,Daisy Mountain Fire Station 146,-112.12782,33.92074
+116,5237425874,2002,fire_station,Daisy Mountain Fire Station 141,-112.07294,33.88317
+117,359292739,2005,post_office,Rio Salado Post Office,-112.05102,33.43612
+118,366219665,2002,fire_station,Phoenix Fire Station Number 36,-112.08544,33.68203
+119,359286797,2005,post_office,Northeast Station Post Office,-112.03181,33.49504
+120,359292728,2005,post_office,Northeast Post Office,-112.03828,33.51032
+121,366219701,2002,fire_station,Phoenix Fire Station Number 12,-112.01249,33.49866
+122,366219786,2002,fire_station,Phoenix Fire Station Number 17,-112.04838,33.51623
+123,366219941,2007,library,Little Library of Love,-111.98848,33.5098
+124,3111890473,2001,police,Mesa Police Dobson Station,-111.87893,33.37033
+125,3111898650,2002,fire_station,Mesa Fire Station 207,-111.87896,33.37016
+126,5243631113,2002,fire_station,Chandler Fire Health & Medical Station 282,-111.85843,33.33285
+127,5243656030,2002,fire_station,Chandler Fire Health & Medical Station 286,-111.828,33.31958
+128,5243751798,2002,fire_station,Gilbert Fire & Rescue Station 257,-111.80626,33.35418
+129,5243800075,2002,fire_station,Gilbert Fire & Rescue Station 2510,-111.81872,33.36468
+130,359287670,2005,post_office,Salt River Post Office,-111.86403,33.46671
+131,993732553,2002,fire_station,,-111.8237,33.41759
+132,1664695100,2001,police,,-111.86266,33.48731
+133,1664695172,2002,fire_station,Salt River Fire Station 291,-111.86201,33.48726
+134,2249777151,2007,library,,-111.82961,33.41823
+135,4326475906,2005,post_office,Mesa Post Office,-111.8309,33.41769
+136,5257346661,2002,fire_station,Salt River Fire Station 294,-111.83159,33.49465
+137,359292703,2005,post_office,Boulder Hills Post Office,-112.02758,33.67738
+138,359292707,2005,post_office,Cactus Post Office,-112.01901,33.62576
+139,366219766,2002,fire_station,Phoenix Fire Station Number 27,-112.01297,33.60044
+140,366219934,2007,library,George L Campbell Library,-112.01235,33.64878
+141,1779786772,2005,post_office,The UPS Store,-112.01103,33.64011
+142,366219854,2007,library,Century Branch Library,-112.04342,33.50596
+143,359286792,2005,post_office,McDowell Station Post Office,-112.02459,33.46532
+144,366219828,2007,library,Phoenix Library for the Blind and Physically Handicapped,-112.01332,33.45973
+145,366219866,2007,library,Phoenix Talking Book Library,-112.01319,33.45973
+146,5243729305,2002,fire_station,Gilbert Fire & Rescue Station 252,-111.72784,33.36441
+147,5243731292,2002,fire_station,Gilbert Fire & Rescue Station 253,-111.76935,33.36421
+148,359286781,2005,post_office,Laveen Post Office,-112.16886,33.36261
+149,366219679,2002,fire_station,Phoenix Fire Station Number 58,-112.16115,33.36334
+150,359286732,2005,post_office,Capitol Station Post Office,-112.11396,33.4517
+151,359292710,2005,post_office,Capitol Post Office,-112.13509,33.44717
+152,366219719,2002,fire_station,Phoenix Fire Station Number 14,-112.12746,33.46396
+153,420474721,2008,town_hall,Arizona State Land Department,-112.09388,33.44945
+154,420474722,2009,courthouse,Arizona Supreme Court,-112.09243,33.44747
+155,4533056486,2008,town_hall,Arizona Department of Administration,-112.09265,33.44889
+156,4533056487,2008,town_hall,Arizona Department of Revenue,-112.095,33.45046
+157,359286788,2005,post_office,Maryvale Post Office,-112.173,33.50054
+158,366219667,2002,fire_station,Phoenix Fire Station Number 34,-112.16948,33.44904
+159,366219860,2007,library,Arizona State Library Archives and Public Records Building,-112.173,33.4542
+160,4131708786,2009,courthouse,Maryvale Justice Court,-112.15964,33.49547
+161,359286778,2005,post_office,Indian School Station Post Office,-112.06362,33.50532
+162,359286823,2005,post_office,Sun City Post Office,-112.2711,33.63871
+163,3198055891,2005,post_office,FedEx Kinkos,-112.23446,33.6377
+164,5237321210,2002,fire_station,Sun City Fire & Medical Department Fire Station 131,-112.27382,33.63899
+165,5243934009,2002,fire_station,Glendale Fire Station 159,-112.19472,33.64026
+166,366219926,2007,library,Harmon Branch Library Phoenix City Public Library,-112.07992,33.43575
+167,366220021,2008,town_hall,Goodyear Town Hall,-112.35794,33.43588
+168,608480783,2002,fire_station,,-112.35854,33.48681
+169,609509890,2001,police,City of Goodyear,-112.35793,33.43624
+170,814577462,2002,fire_station,Goodyear Fire Department,-112.36932,33.44838
+171,4973255292,2007,library,Goodyear Branch Library,-112.36941,33.44934
+172,359292751,2005,post_office,Tempe South Station Post Office,-111.96252,33.34096
+173,1675449428,2002,fire_station,Phoenix Fire Department,-111.97846,33.33286
+174,1799680649,2005,post_office,Ahwatukee Post Office,-111.97583,33.34666
+175,2111568631,2005,post_office,The UPS Store,-111.92589,33.31912
+176,5244878486,2002,fire_station,Guadalupe Fire Station 241,-111.96288,33.3695
+177,6515263089,2005,post_office,PostNet,-111.98361,33.30445
+178,5462332029,2011,embassy,Honorary Consulate of the Czech Republic,-111.93067,33.58111
+179,366219633,2099,public_building,Gompers Rehabilitation Center,-112.06432,33.54226
+180,366219799,2002,fire_station,Phoenix Fire Station Number 20,-112.0835,33.53863
+181,4438369511,2007,library,Fountain Hills Branch Library,-111.72183,33.60283
+182,4728413696,2001,police,Maricopa County Sheriff's Office,-111.72096,33.6046
+183,5237425875,2002,fire_station,Fort McDowell Fire Station 401,-111.67852,33.58437
+184,5257293328,2002,fire_station,Rio Verde Fire Station 441,-111.67188,33.71858
+185,6019970897,2005,post_office,The UPS Store,-111.72777,33.61051
+186,6028575093,2002,fire_station,Rural/Metro Fire Station 822,-111.72512,33.61077
+187,2122860834,2005,post_office,The UPS Store,-111.8593,33.27461
+188,316881560,2001,police,ASU Police Department,-111.93434,33.41434
+189,366219939,2007,library,Noble Science Library,-111.9306,33.42
+190,5938102742,2005,post_office,The UPS Store,-111.93205,33.4225
+191,2871604699,2001,police,Community Police Station,-112.08336,33.5825
+192,5243668498,2002,fire_station,Chandler Fire Health & Medical Station 2510,-111.82331,33.23031
+193,359286818,2005,post_office,South Central Post Office,-112.06737,33.39255
+194,366219396,2099,public_building,South Phoenix Adult Center,-112.07034,33.38921
+195,366219663,2002,fire_station,Phoenix Fire Station Number 39,-112.10743,33.39253
+196,366219907,2007,library,Ocotillo Branch Library,-112.07617,33.39264
+197,366219958,2099,public_building,Phoenix South Mountain Park Headquarters,-112.08829,33.35548
+198,5243741275,2002,fire_station,Gilbert Fire & Rescue Station 254,-111.77086,33.32069
+199,359292696,2005,post_office,Airpark Post Office,-111.90467,33.61599
+200,975966345,2005,post_office,,-111.92167,33.69065
+201,2624164271,2008,town_hall,DMV (Department of Motor Vehicles),-111.92129,33.63264
+202,5819923963,2005,post_office,The UPS Store,-111.88835,33.6989
+203,6765225501,2005,post_office,The UPS Store,-111.89638,33.61957
+204,359292724,2005,post_office,Hopi Post Office,-111.89283,33.55355
+205,4029305322,2002,fire_station,,-111.87447,33.59762
+206,5257330256,2002,fire_station,Salt River Fire Station 293,-111.8684,33.53907
+207,366219669,2002,fire_station,Phoenix Fire Station Number 31,-111.9574,33.6119
+208,366219395,2099,public_building,Salt River Power Operations Department,-111.95209,33.44616
+209,5243650308,2002,fire_station,Chandler Fire Health & Medical Station 285,-111.87148,33.26117
+210,3384168460,2005,post_office,Glendale Post Office,-112.1878,33.58079
+211,5243833773,2002,fire_station,Glendale Fire Station 153,-112.18544,33.61378
+212,5243917013,2002,fire_station,Glendale Fire Station 157,-112.18709,33.57404
+213,366219737,2002,fire_station,Phoenix Fire Station Number 41,-112.11279,33.64855
+214,366219940,2007,library,Juniper Branch Library,-112.09837,33.65447
+215,2696565515,2005,post_office,Sierra Adobe Post Office,-112.10035,33.65526
+216,5243895814,2002,fire_station,Glendale Fire Station 155,-112.19409,33.65382
+217,5243896630,2001,police,Glendale Police Foothills Station,-112.19436,33.65368
+218,5243916881,2002,fire_station,GLendale Fire Station 156,-112.20585,33.68141
+219,5257121619,2002,fire_station,Peoria Fire-Medical Station 192,-112.25108,33.65189
+220,5257180332,2002,fire_station,Peoria Fire-Medical Station 197,-112.22661,33.72543
+221,1775759445,2007,library,Chandler Public Library-Hamilton Branch,-111.84286,33.25283
+222,3434687303,2002,fire_station,Chandler Fire Health & Medical Station 284,-111.94514,33.30719
+223,5243616890,2002,fire_station,Chandler Fire Health & Medical Station 283,-111.88475,33.29936
+224,5247682488,2005,post_office,The UPS Store,-111.89098,33.31889
+225,3449240428,2005,post_office,The UPS Store,-111.6345,33.37746
+226,359286728,2005,post_office,Buckhorn Post Office,-111.70347,33.41588
+227,359286749,2005,post_office,Desert Sage Post Office,-111.65208,33.41477
+228,4587504893,2005,post_office,,-111.73609,33.44214
+229,366219652,2002,fire_station,Phoenix Fire Station #28,-112.04705,33.37926
+230,5706203080,2005,post_office,The UPS Store,-112.03108,33.37935
+231,359286722,2005,post_office,Boys Ranch Post Office,-111.65069,33.26505
+232,1213828986,2005,post_office,Higley Post Office,-111.71853,33.32174
+233,4734645381,2005,post_office,The UPS Store,-111.72026,33.29068
+234,5243706470,2002,fire_station,Gilbert Fire & Rescue Station 251,-111.73132,33.30737
+235,5243745555,2002,fire_station,Gilbert Fire & Rescue Station 255,-111.70964,33.2782
+236,5243796125,2002,fire_station,Gilbert Fire and Rescue Station 9,-111.71735,33.24799
+237,5257259273,2002,fire_station,Queen Creek Fire & Medical Station 413,-111.67046,33.26387
+238,359286800,2005,post_office,Northwest Station Post Office,-112.11821,33.50838
+239,312813341,2005,post_office,Buckeye Post Office,-112.59133,33.36993
+240,312907553,2001,police,Buckeye Police Department,-112.57266,33.37237
+241,312907554,2009,courthouse,Buckeye Court House,-112.57274,33.3721
+242,312916369,2007,library,Kay Blanton Library,-112.58323,33.37274
+243,359286715,2005,post_office,Arlington Post Office,-112.76323,33.32504
+244,359286760,2005,post_office,Gila Bend Post Office,-112.71794,32.94782
+245,359286836,2005,post_office,Tonopah Post Office,-112.93907,33.47782
+246,366220023,2008,town_hall,Gila Bend Town Hall,-112.72016,32.94866
+247,366220027,2008,town_hall,Buckeye City Hall,-112.58405,33.37088
+248,835071670,2009,courthouse,Estrella Mountain Justice Court,-112.5176,33.43445
+249,1683568266,2005,post_office,"Tonopah, AZ",-112.93665,33.49212
+250,5237292334,2002,fire_station,Buckeye Valley Fire Station 327,-112.53958,33.42098
+251,5237292335,2002,fire_station,Buckeye Fire Medical-Rescue Station 702,-112.53844,33.42896
+252,5237321202,2002,fire_station,Buckeye Valley Fire Station 328,-112.69655,33.45283
+253,5237321207,2002,fire_station,Buckeye Valley Fire Station 329,-112.61353,33.67335
+254,5237425876,2002,fire_station,Gila Bend Fire Rescue Fire Station 381,-112.72137,32.94682
+255,5244894982,2002,fire_station,Harquahala Fire Station 371,-113.16243,33.43689
+256,5244939175,2002,fire_station,Harquahala Fire Station 372,-113.21845,33.3624
+257,5259169958,2002,fire_station,Arizona Fire Medical Authority Fire Station 341,-112.83913,33.40902
+258,5529535666,2007,library,Public Library,-112.5173,33.43448
+259,340139551,2005,post_office,,-111.75477,33.34595
+260,5257265498,2002,fire_station,Queen Creek Fire & Medical Station 412,-111.66852,33.22337
+261,366219870,2007,library,Phoenix Public Library,-112.07306,33.46251
+262,366219937,2007,library,Maricopa County Medical Society Medical Library,-112.06812,33.46799
+263,366219676,2002,fire_station,Phoenix Fire Station Number 7,-112.06814,33.57115
+264,366219443,2099,public_building,Santa Maria Adult Day Health Care,-111.99985,33.62582
+265,366219664,2002,fire_station,Phoenix Fire Station Number 37,-111.99645,33.63736
+266,366219747,2002,fire_station,Phoenix Fire Station #52,-111.97681,33.68283
+267,6249811683,2005,post_office,The UPS Store,-111.97637,33.6128

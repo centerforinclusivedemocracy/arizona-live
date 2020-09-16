@@ -1,0 +1,1209 @@
+osm_id,code,fclass,name,lon,lat
+359242087,2110,hospital,Arizona State Hospital,-112.02864,33.45532
+359244747,2082,school,Creighton School,-112.02126,33.46615
+359247636,2082,school,Creighton School District Administration,-112.02293,33.48588
+359247638,2082,school,Larry C. Kennedy School,-112.0232,33.48838
+359248265,2082,school,Machan School,-112.03543,33.47699
+359251089,2082,school,Saint Thomas School,-112.03098,33.50421
+359253152,2082,school,Vista School,-112.01876,33.50282
+359253596,2082,school,Wilson School,-112.02987,33.43643
+359254284,2082,school,Hawkins Elementary School,-112.02959,33.43616
+359254765,2082,school,Phoenix Christian Grade School,-112.02515,33.4756
+359254868,2082,school,Saint Agnes School,-112.0307,33.47338
+359291764,2082,school,Compass Center,-112.02211,33.48901
+359293040,2082,school,Veritas Preparatory Academy,-112.03607,33.53809
+4095229678,2402,motel,Arizona Motel,-112.02541,33.45097
+4095229680,2402,motel,Knights Inn Phoenix East,-112.02804,33.45106
+4095229681,2402,motel,Sterling International Hotels,-112.03045,33.44607
+5917155515,2501,supermarket,Trader Joe's,-112.03783,33.50704
+5986784066,2303,cafe,Royal Coffee Bar,-112.02734,33.51015
+6169469090,2501,supermarket,Whole Foods Market,-112.03768,33.50634
+316912138,2501,supermarket,Fry's Food & Drug,-111.97686,33.3791
+359254208,2082,school,Frank Elementary School,-111.96233,33.37037
+359291744,2082,school,Charter For Excellence School,-111.95835,33.35457
+723485085,2081,university,University of Advancing Technology,-111.9759,33.37753
+1446769674,2501,supermarket,Fry's Supermarket,-111.91079,33.37939
+2325086801,2501,supermarket,Safeway,-111.98185,33.34797
+2627642620,2501,supermarket,Whole Foods Market,-111.9299,33.37955
+4095308339,2402,motel,Studio 6 Phoenix - Tempe,-111.96885,33.38174
+5032084336,2082,school,Gethsemane Lutheran School,-111.92516,33.36317
+5097459005,2084,college,Lamson College,-111.95273,33.34806
+6228273974,2110,hospital,Detox Body Cleanse,-111.92581,33.38232
+359254729,2082,school,Palomino School,-112.01959,33.63198
+359254927,2082,school,Desert Cove Elementary School,-112.02294,33.58736
+1680973812,2501,supermarket,Frys MarketPlace,-112.01108,33.64181
+2181863598,2501,supermarket,Bashas',-112.01174,33.5835
+2502345451,2303,cafe,Dutch Bros. Coffee,-112.01803,33.64031
+3784892678,2082,school,Paradise Valley Unified School District #69 Offices,-112.01365,33.62416
+4194666182,2501,supermarket,Yasha From Russia,-112.01332,33.58042
+359245781,2082,school,Fortieth Street School,-111.9957,33.41893
+359246213,2082,school,Griffith School,-111.98348,33.46893
+359253906,2082,school,Balsz School,-111.98903,33.46116
+359254087,2082,school,Crockett School,-112.00348,33.45449
+359254506,2082,school,Maricopa County Accommodation School,-111.99126,33.40949
+359254689,2082,school,Orangedale School,-111.97255,33.47356
+359254734,2082,school,Papago School,-112.00292,33.4706
+359254887,2082,school,Saint Theresa School,-111.9729,33.47318
+359291802,2082,school,David Crockett School,-112.00338,33.45461
+359292764,2082,school,Academy of Excellence,-112.00377,33.45345
+3972840012,2501,supermarket,Food City,-111.98554,33.46631
+4095229672,2402,motel,Phoenix Sunrise Motel,-112.00238,33.45145
+4095229673,2402,motel,Travel Inn Airport,-112.00518,33.45107
+4095229674,2402,motel,Best Inn & Suites,-112.00454,33.45104
+4095229685,2402,motel,Red Roof Inn Tempe - Phoenix Airport,-111.97151,33.41156
+6800616888,2303,cafe,Starbucks,-111.99419,33.43646
+6864230101,2303,cafe,Temporary Lounge,-111.99414,33.43628
+359293223,2082,school,Phoenix College Downtown Campus,-112.07552,33.45613
+621056819,2303,cafe,Cartel,-112.07235,33.44842
+680117394,2082,school,Phoenix School of Law,-112.07306,33.44851
+1146691869,2303,cafe,Starbucks,-112.07469,33.44793
+1146691919,2303,cafe,Starbucks,-112.07711,33.4488
+2059776852,2303,cafe,One Coffee Company,-112.07364,33.44867
+2469618335,2303,cafe,Starbucks,-112.07099,33.44951
+2470691130,2303,cafe,Jacquee's Espresso,-112.07448,33.44911
+3969725431,2402,motel,Hilton Garden Inn Phoenix Downtown,-112.07345,33.45024
+6365453469,2303,cafe,Hidden Track Cafe,-112.07562,33.4502
+6600083736,2501,supermarket,Fry's Food and Drug,-112.23918,33.49281
+347352129,2402,motel,Quality Suites Tempe,-111.92614,33.44818
+359254425,2082,school,Laird School,-111.92059,33.44627
+359255001,2082,school,Supai Middle School,-111.93705,33.45923
+359292921,2082,school,Peoria Horizons Charter School,-111.92074,33.46289
+1592989346,2501,supermarket,Smart & Final,-111.92568,33.47448
+4095418903,2402,motel,Magnuson Hotel Papago Inn,-111.92971,33.46541
+5474817300,2303,cafe,Patio Cafe,-111.94486,33.45989
+359276431,2082,school,Horse Mesa Accommodation School,-111.35346,33.58283
+529382308,2303,cafe,Lakeshore Restaurant,-111.53759,33.5738
+359254698,2082,school,Our Lady of Perpetual Help School,-112.22136,33.5455
+359293296,2082,school,Independence High School,-112.22154,33.53191
+2253094777,2501,supermarket,Walmart Neighborhood Market,-112.21887,33.53913
+359254588,2082,school,Mobile Elementary School,-112.2707,33.05644
+359246357,2082,school,Harold W Smith School,-112.19588,33.53236
+359291741,2082,school,Challenger Middle School,-112.20961,33.52993
+1661923643,2501,supermarket,Fry's Food,-112.20437,33.52507
+2305902966,2303,cafe,Shot of Java,-112.18318,33.53882
+2720661308,2402,motel,,-112.18724,33.54008
+4082288036,2303,cafe,5 Cafe,-112.19835,33.53783
+2291901702,2303,cafe,First Watch Daytime Cafe,-111.85806,33.2359
+5330372620,2083,kindergarten,Sunrise Preschools,-111.85652,33.23361
+5330373321,2082,school,Mix Cooking School,-111.85775,33.23324
+6077492368,2110,hospital,,-111.8581,33.23656
+359251065,2082,school,Saint Johns Indian School,-112.17348,33.29005
+359254230,2082,school,Gila Crossing Day School,-112.16765,33.2756
+1798894170,2501,supermarket,,-112.05388,33.3068
+597445227,2501,supermarket,Trader Joe's,-111.97905,33.58317
+2182234608,2501,supermarket,Sprouts Farmers Market,-112.04619,33.53769
+3725629977,2303,cafe,Starbucks,-112.01337,33.53141
+359293352,2082,school,Kingswood Elementary School,-112.38693,33.64171
+608480761,2082,school,Cimarron Springs Elementary School,-112.42579,33.62724
+608480798,2501,supermarket,Safeway,-112.42522,33.63732
+768228256,2303,cafe,Sunsational Coffee,-112.39317,33.62606
+1375306177,2501,supermarket,Albertsons,-112.41983,33.64029
+1739427528,2082,school,Valley Vista High School,-112.38575,33.62534
+1739836402,2082,school,Dysart Unified School District #89,-112.38412,33.62796
+1739836404,2082,school,Parkview Elementary School,-112.38349,33.62992
+1832660646,2303,cafe,Starbucks,-112.37491,33.66044
+2791861992,2501,supermarket,Fry's Food Store,-112.39538,33.64018
+3283348623,2303,cafe,Memo's Bistro,-112.35649,33.66304
+5315598094,2501,supermarket,Walmart Neighborhood Market,-112.39243,33.62268
+6849107347,2501,supermarket,Fry's Marketplace,-112.36151,33.61121
+359250256,2082,school,,-111.6343,33.26283
+2279247706,2303,cafe,Paradise Bakery & Cafe,-111.63878,33.25607
+359293012,2082,school,Stepping Stones Academy,-112.06643,33.80969
+359293093,2082,school,Desert Mountain Middle School,-112.07891,33.81061
+548022980,2501,supermarket,Safeway,-111.92237,33.78092
+1707643304,2501,supermarket,Safeway,-112.13899,33.86515
+1707643308,2501,supermarket,Frys Food,-112.13393,33.84451
+5819929054,2303,cafe,Starbucks,-111.96697,33.79962
+6852526321,2501,supermarket,Fry's Marketplace,-112.11949,33.78611
+3195398078,2082,school,,-111.69967,33.47632
+4915756053,2303,cafe,Cozy Corner Cafe,-111.70396,33.45065
+5315599425,2501,supermarket,Walmart Supercenter,-111.73367,33.44911
+5388455509,2501,supermarket,Target,-111.6827,33.45445
+6249984240,2303,cafe,Sunnyside Breakfast Lounge,-111.68247,33.4667
+6250033987,2501,supermarket,Bashas',-111.68571,33.46804
+6250034010,2303,cafe,Starbucks,-111.68558,33.46813
+6250034015,2082,school,Mathnasium - The Math Learning Center,-111.6855,33.46719
+6250034031,2303,cafe,Starbucks,-111.68448,33.46713
+6250109729,2501,supermarket,Sprouts Farmers Market,-111.70272,33.47366
+6835181765,2504,mall,The UPS Store,-111.68218,33.46555
+359248975,2082,school,Nadaburg School,-112.52458,33.7809
+359253819,2082,school,Aguila Elementary School,-113.1738,33.93892
+359254219,2082,school,Garcia School,-112.73629,33.96947
+359254498,2082,school,MacLennan School,-112.73518,33.96836
+359255123,2082,school,Wickenburg High School,-112.72796,33.96781
+359292876,2082,school,Nadaburg Elementary School,-112.52346,33.78156
+359293073,2082,school,Wickenburg High School,-112.7941,33.92082
+359293260,2082,school,Hassayampa Elementary School,-112.72829,33.9677
+848124837,2303,cafe,Fire Side,-112.69884,33.94269
+848128939,2402,motel,Wickenberg Inn,-112.71397,33.96107
+1752057908,2402,motel,Quality Suites,-112.71466,33.9626
+4032126120,2501,supermarket,Basha's,-112.73106,33.97112
+1656596124,2501,supermarket,Walmart Supercenter,-112.17992,33.5514
+359253877,2082,school,Apache Elementary School,-111.8957,33.46143
+359254093,2082,school,Curry Elementary School,-111.90098,33.40366
+359293132,2082,school,East Valley Academy,-111.89604,33.46111
+2819328559,2303,cafe,Coffee Bean & Tea Leaf,-111.90188,33.43399
+3983349968,2303,cafe,MAD Greens,-111.90162,33.43354
+4095260995,2402,motel,Rodeway Inn Near AZ State University,-111.89599,33.41448
+5233388028,2012,community_centre,Escalante Community Center,-111.89448,33.41917
+2627579470,2501,supermarket,Albertsons,-111.87614,33.37744
+3009699339,2303,cafe,Starbucks,-111.8746,33.38366
+3871697946,2402,motel,Extended Stay America,-111.87395,33.38276
+4209389591,2303,cafe,Starbucks,-111.85918,33.3785
+4263181390,2501,supermarket,Lotus International Market,-111.85838,33.37764
+4340197155,2501,supermarket,Baiz Fresh Foods,-111.87542,33.37961
+4795623327,2303,cafe,Millie's Cafe,-111.87589,33.37961
+359250932,2082,school,Royal Palm School,-112.10088,33.56123
+359254825,2082,school,Richard C Miller School,-112.10191,33.5632
+359293123,2082,school,Dragonfeye Science School,-112.10031,33.57908
+2859208011,2504,mall,Metrocenter Mall,-112.12154,33.57513
+3232612072,2501,supermarket,99¢ Store,-112.13541,33.5833
+359253625,2082,school,Winn School,-111.83986,33.29449
+359291795,2082,school,Coy Payne Learning Center,-111.84215,33.31416
+2053911209,2303,cafe,Yoli's Cafe,-111.84251,33.29987
+2291914192,2501,supermarket,Basha's,-111.87486,33.30736
+2291914196,2501,supermarket,Safeway,-111.86327,33.30393
+2291914197,2303,cafe,Starbucks,-111.87432,33.3073
+4415855690,2303,cafe,Original Chophouse,-111.84206,33.30214
+4557297093,2303,cafe,Peixoto Coffee,-111.84176,33.30189
+5061493688,2303,cafe,Starbucks,-111.86304,33.3054
+5315599459,2501,supermarket,Walmart Supercenter,-111.83801,33.28928
+6794219049,2303,cafe,Raw Organic Juice Bar,-111.87707,33.29817
+359260376,2082,school,Arizona Job College,-111.75598,33.89393
+359276396,2082,school,Cave Creek School,-111.94237,33.83282
+548022958,2082,school,Black Mtn Elmentary,-111.95387,33.79067
+548022962,2082,school,Desert Aroyo Middle School,-111.95845,33.78848
+548022965,2082,school,Cactus Shadows High School,-111.95661,33.7851
+5315596664,2501,supermarket,Walmart Supercenter,-111.96222,33.79664
+6274361808,2303,cafe,Pony Express Cafe,-111.84365,33.74123
+6791889234,2501,supermarket,Safeway,-111.99173,33.75766
+6791889237,2501,supermarket,Fry's Food And Drug,-111.99064,33.75249
+359291712,2082,school,Carden Elementary School,-112.16055,33.64697
+359293138,2082,school,E-Institute Charter Schools,-112.16277,33.647
+359293309,2082,school,International Studies Academy,-112.16164,33.64686
+2320292722,2501,supermarket,Walmart Neighborhood Market,-112.17001,33.56483
+2602777030,2081,university,Arizona State University West Campus,-112.15985,33.60791
+2810933508,2501,supermarket,Fry's,-112.15259,33.63794
+3662137253,2303,cafe,Starbucks,-112.14745,33.61047
+5315598847,2501,supermarket,Walmart Neighborhood Market,-112.15036,33.65607
+6219764306,2110,hospital,Daisy Family Health,-112.14785,33.5824
+359254251,2082,school,,-112.1648,33.54319
+2326123639,2501,supermarket,Fry's Food and Drug,-112.15306,33.55231
+359291731,2082,school,Cesar Chavez High School,-112.14592,33.37565
+359293432,2082,school,Maurice C Cash Elementary School,-112.14118,33.40011
+2398922106,2501,supermarket,Walmart Supercenter,-112.13689,33.39053
+359253010,2082,school,Union School,-112.25627,33.41091
+359253902,2082,school,Avondale Junior High School,-112.34932,33.44449
+359254386,2082,school,Juan Bautista de Anza High School,-112.25414,33.50262
+359254468,2082,school,Litchfield Park Elementary School,-112.3571,33.49226
+359255038,2082,school,Tolleson Elementary School,-112.25904,33.44865
+359255044,2082,school,Tolleson Unit II School,-112.25988,33.45282
+359293063,2082,school,Westwind Intermediate School,-112.25186,33.50225
+359293068,2082,school,Westwind Primary School,-112.25188,33.50297
+608414279,2082,school,Millenium High School,-112.37712,33.49444
+608630212,2501,supermarket,Safeway,-112.36414,33.48393
+1190803571,2501,supermarket,Bashas',-112.3393,33.50959
+1272552254,2303,cafe,Starbucks,-112.34157,33.50884
+1659450275,2501,supermarket,Fry's Food,-112.30445,33.43401
+1659450475,2303,cafe,Starbucks,-112.26985,33.42365
+1659450579,2303,cafe,Starbucks,-112.27195,33.42278
+1659542414,2501,supermarket,Walmart Supercenter,-112.33823,33.45927
+1847137429,2082,school,Westview High School,-112.29284,33.49018
+2136710480,2082,school,Garden Lakes Elementry,-112.29258,33.48711
+2256871854,2303,cafe,Starbucks,-112.27532,33.50798
+2293198535,2303,cafe,Starbucks,-112.30503,33.43416
+2837735469,2082,school,,-112.27865,33.41746
+2837775781,2303,cafe,,-112.35837,33.49375
+3139490972,2082,school,Tolleson Union High School,-112.26391,33.44839
+3630195377,2501,supermarket,Food City,-112.25353,33.48113
+4196403206,2303,cafe,Colados Crepes & Espresso,-112.2894,33.49234
+4706125182,2303,cafe,Starbucks,-112.28667,33.49322
+5315598289,2501,supermarket,Walmart Supercenter,-112.26729,33.51025
+5553178801,2082,school,,-112.27912,33.40116
+5833582823,2303,cafe,Starbucks,-112.3561,33.50988
+5833582846,2303,cafe,Starbucks,-112.35744,33.50894
+6648413217,2082,school,Arts Academy at Estrella Mountain,-112.25771,33.424
+6952672996,2082,school,Desert Oasis Elementary School,-112.25156,33.466
+359292559,2110,hospital,Banner Children’s at Cardon Children’s Medical Center,-111.87708,33.39055
+359292948,2082,school,Redwood Academy,-111.81661,33.38758
+359292966,2082,school,Sequoia School for the Deaf and Hard of Hearing,-111.81713,33.38743
+359293400,2082,school,Learning Crossroads Basic Academy,-111.81437,33.38857
+4095274364,2402,motel,Select Suites Peppertree - South Mesa,-111.84303,33.39184
+4095274365,2402,motel,Shorebird Suites,-111.84301,33.38963
+4277704154,2012,community_centre,,-111.84235,33.38916
+4983359021,2501,supermarket,Korea Mart,-111.8655,33.3891
+5949529824,2402,motel,Motel 6 Mesa South,-111.83991,33.3875
+6044947699,2110,hospital,Corebella Addiction Treatment & Suboxone Clinic,-111.88168,33.39341
+6277226964,2303,cafe,Boba Tree,-111.87316,33.39351
+6277226965,2501,supermarket,Asiana Market,-111.8731,33.39417
+6277226969,2082,school,Caregiver School,-111.87327,33.39465
+2143503024,2303,cafe,Starbucks,-111.79081,33.23423
+2835004833,2082,school,Jane D Hull Elementary School,-111.79915,33.21132
+2908170432,2083,kindergarten,La Petite Academy,-111.79116,33.26114
+2908238205,2083,kindergarten,Kids Incorporated,-111.79248,33.27201
+2909956131,2303,cafe,Starbucks,-111.78674,33.28073
+2909965264,2303,cafe,Starbucks,-111.789,33.2814
+3208496254,2082,school,,-111.78065,33.23866
+5341865765,2303,cafe,Starbucks,-111.79111,33.24614
+5825314761,2303,cafe,Starbucks,-111.78621,33.27928
+5827843219,2303,cafe,Starbucks,-111.79054,33.21786
+6312072095,2303,cafe,The Juice Kitchen,-111.79027,33.24602
+6593429504,2082,school,Haley Elementary School,-111.77558,33.25707
+359253981,2082,school,Central Elementary School,-112.23738,33.57893
+359254951,2082,school,Southwest Indian School,-112.21654,33.61337
+1370114851,2501,supermarket,Basha's,-112.22211,33.61141
+3085412780,2501,supermarket,Lee Lee International Supermarket,-112.22219,33.5948
+3511319318,2303,cafe,Dutch Bros. Coffee,-112.2399,33.60966
+3928042256,2501,supermarket,Safeway,-112.23969,33.59666
+3940870380,2501,supermarket,Sprouts Farmers Market,-112.23921,33.6087
+4166949389,2501,supermarket,Fry's Food and Drug,-112.25372,33.56473
+6213240330,2110,hospital,Cigna Medical Group,-112.25422,33.60916
+473599559,2501,supermarket,Fry's Marketplace,-111.99874,33.30361
+1798894131,2501,supermarket,Fry's Food and Drug,-112.00547,33.31683
+1799680651,2082,school,Kyrene de la Estrella Elementary School,-112.02719,33.29319
+1890314331,2303,cafe,Starbucks,-111.96822,33.3174
+4715694790,2082,school,,-111.99046,33.32591
+6750621532,2303,cafe,Pomegrante Cafe,-111.99455,33.30369
+6750621536,2083,kindergarten,Inspire Kids Montessori,-111.99465,33.30324
+1744790969,2082,school,Mountain View School,-112.45004,33.57711
+359255033,2082,school,Thunderbird High School,-112.09598,33.61337
+359292819,2082,school,Ascending Roots Scholastic and Athletic Premise School,-112.11846,33.60268
+359292870,2082,school,Mountain Sky Middle School,-112.0815,33.63207
+359293278,2082,school,Holy Cross Evangelical Lutheran School,-112.08777,33.60873
+1825669858,2082,school,Wee Learners Christian Preschool,-112.12068,33.62497
+2615665511,2084,college,Allen School of Health Sciences,-112.11729,33.62947
+3295632465,2303,cafe,Ashleigh's Cafe,-112.11939,33.58911
+4095205467,2402,motel,La Quinta Inn Phoenix North,-112.11467,33.62601
+359251034,2082,school,Sahuaro School,-112.12893,33.60299
+359292760,2082,school,Academy of Arizona North Campus,-112.12891,33.6023
+359292924,2082,school,Phoenix Bible College and Seminary,-112.13907,33.60419
+359293146,2082,school,Emmaus Evangelical Lutheran School,-112.14192,33.60292
+359254482,2082,school,Lookout Mountain School,-112.05737,33.62532
+631702487,2501,supermarket,Osco,-112.02959,33.65359
+2699343661,2501,supermarket,Fry's Grocery,-112.0643,33.63911
+6254635472,2501,supermarket,Safeway,-112.06713,33.6416
+359254741,2082,school,Parkway Special School,-111.79375,33.40005
+359254954,2082,school,Stapley Hall Special School,-111.80153,33.4256
+359292766,2082,school,Academy With Community Partners,-111.79329,33.42379
+359292806,2082,school,Arizona Connections Academy Charter School,-111.78916,33.39521
+359292854,2082,school,Montessori House,-111.80146,33.45938
+359293187,2082,school,Franklin East Elementary School,-111.79353,33.40017
+1084021430,2501,supermarket,Basha's,-111.78887,33.45304
+1084022122,2303,cafe,Dutch Bros. Coffee,-111.78805,33.45202
+3213862430,2082,school,Montessori International School,-111.7791,33.43684
+3777709334,2501,supermarket,Walmart Neighborhood Market,-111.77293,33.38032
+3777711652,2303,cafe,Starbucks,-111.79137,33.37725
+4095260997,2402,motel,The Frontier Motel,-111.80358,33.41494
+4095260998,2402,motel,Howard Johnson Mesa Gilbert,-111.79539,33.41459
+4095260999,2402,motel,Days Inn & Suites Mesa,-111.79293,33.41571
+4095274360,2402,motel,Super 8 Mesa Gilbert,-111.78973,33.38751
+4472275174,2501,supermarket,Fry's Food and Drug,-111.77231,33.40653
+4792392965,2501,supermarket,Fry's Market Place,-111.80303,33.45038
+5282952851,2501,supermarket,Food City,-111.80192,33.41602
+5315804772,2501,supermarket,Target,-111.78546,33.39449
+6169471485,2501,supermarket,Sprouts Farmers Market,-111.78675,33.38089
+359253519,2082,school,Whittier School,-112.04876,33.47032
+359291792,2082,school,Covenent Home School Resource Center,-112.05725,33.49703
+359292843,2082,school,Midtown Primary School,-112.0583,33.49333
+2989547007,2303,cafe,MacAlpine's,-112.06482,33.47323
+5267329521,2081,university,Argib Network University,-112.06236,33.49787
+5268764322,2082,school,Argib University,-112.06232,33.49737
+3137625589,2014,arts_centre,Sun Bowl Amphitheatre,-112.29091,33.57746
+3281294709,2303,cafe,Starbucks,-112.34988,33.65523
+3567495104,2303,cafe,Starbucks,-112.35321,33.661
+4305251715,2501,supermarket,Food City,-112.32617,33.61856
+4740549500,2082,school,Legacy Charter School,-112.37212,33.60322
+6258953843,2303,cafe,Starbucks,-112.28832,33.56405
+6484024041,2501,supermarket,Sprouts Farmers Market,-112.27766,33.71311
+6849107370,2501,supermarket,Safeway,-112.35754,33.61062
+6965989804,2082,school,Paramount Academy,-112.29677,33.56487
+359243435,2082,school,Brownmoor School,-111.94931,33.48865
+359247222,2082,school,Judson School,-111.93409,33.53602
+359249031,2082,school,Navajo School,-111.89883,33.50264
+359254397,2082,school,Kaibab Elementary School,-111.94737,33.49865
+359254715,2082,school,Paiute Elementary School,-111.94209,33.48754
+359254793,2082,school,Pima Elementary School,-111.9007,33.48838
+359292803,2082,school,Arcadia Neighborhood Learning Center,-111.94786,33.49982
+1079131234,2303,cafe,buzzberry,-111.89985,33.52357
+1079131256,2501,supermarket,Bashas',-111.89919,33.52272
+1560663801,2303,cafe,Echo Coffee,-111.93502,33.48049
+1592989381,2501,supermarket,Trader Joe's,-111.92746,33.52901
+2091649093,2501,supermarket,Walmart Supercenter,-111.88976,33.50775
+3531780608,2501,supermarket,Bashas',-111.90752,33.49362
+3531780609,2501,supermarket,Albertsons,-111.9243,33.47895
+4095415200,2402,motel,Motel 6 Scottsdale,-111.93293,33.50246
+4095415201,2402,motel,W Scottsdale,-111.924,33.5016
+4095415203,2402,motel,Aloft Scottsdale,-111.92107,33.50082
+4095415208,2402,motel,Travelodge Scottsdale,-111.93162,33.49604
+4095415213,2402,motel,Rodeway Inn Old Town Scottsdale,-111.92645,33.48166
+4764890874,2303,cafe,Cartel Coffee,-111.9276,33.49847
+4840570381,2303,cafe,Super Chunk,-111.9271,33.49906
+4840570389,2303,cafe,The Herb Box,-111.9278,33.49932
+5173661301,2303,cafe,Old Town Local,-111.92471,33.49239
+5667439322,2303,cafe,Scramble,-111.9261,33.53315
+359247445,2082,school,Kachina School,-111.9882,33.50282
+359248787,2082,school,Monte Vista School,-112.0057,33.48699
+359252024,2082,school,Squaw Peak School,-112.00904,33.50532
+359254354,2082,school,Ingleside Elementary School,-111.96445,33.4883
+359291657,2082,school,Bridgepoint Education Center,-111.99038,33.5104
+359292802,2082,school,Arcadia Music Academy,-111.96022,33.49024
+2903427480,2303,cafe,Starbucks,-111.9883,33.49525
+4452509033,2504,mall,Desert palm,-111.99798,33.47966
+359293032,2082,school,Tempe Preparatory Academy,-111.91861,33.39255
+359293060,2082,school,Westmark High School,-111.97185,33.39299
+401891360,2303,cafe,Xtreme Bean Coffee Co,-111.91102,33.3926
+2627617073,2303,cafe,Gold Bar Espresso,-111.90806,33.39467
+2627621124,2303,cafe,Starbucks,-111.9087,33.39381
+359286655,2082,school,Connolly Middle School,-111.89959,33.40449
+359293014,2082,school,Sterling Academy of Mathematics and Science,-111.91618,33.40037
+366219622,2014,arts_centre,Nelson Fine Arts Center,-111.9395,33.4187
+1698683371,2303,cafe,Bliss Frozen Yogurt,-111.9394,33.42381
+1698683443,2303,cafe,Starbucks,-111.94021,33.42564
+1698683445,2012,community_centre,Pyle Adult Recreation Center,-111.92936,33.39228
+1698683476,2303,cafe,Starbucks,-111.92599,33.40966
+1698683560,2501,supermarket,Safeway,-111.92392,33.40892
+2581978994,2501,supermarket,Fry's Food And Drug,-111.94119,33.39389
+2622791134,2303,cafe,Cartel Coffee Lab,-111.94257,33.42111
+2627623304,2303,cafe,Back East Bagel Company,-111.91223,33.39423
+2627719721,2501,supermarket,Sprouts Farmers Market,-111.91134,33.39419
+3007602346,2014,arts_centre,Edna Vihel Activity Center,-111.92726,33.39155
+3007635195,2501,supermarket,Fry's,-111.92457,33.39395
+3010073146,2303,cafe,Starbucks,-111.92457,33.39406
+3460939942,2081,university,"Barrett, the Honors College at ASU",-111.92744,33.41544
+3756594473,2501,supermarket,Food City,-111.91559,33.4154
+3983349967,2303,cafe,Nekter Juice Bar,-111.90164,33.4336
+4186084236,2501,supermarket,Smart & Final,-111.91052,33.40652
+4186118659,2303,cafe,Blend,-111.93479,33.42488
+5371545615,2303,cafe,Starbucks,-111.9652,33.40713
+5463115019,2081,university,Bryan University,-111.94494,33.43773
+5808316149,2303,cafe,The Human Bean,-111.91109,33.42153
+5986784057,2303,cafe,Royal Coffee Bar,-111.93517,33.42501
+359293267,2082,school,Heritage Elementary School,-112.34875,33.53232
+3387232809,2303,cafe,Opa Life Greek Cafe,-112.26179,33.53479
+4094830185,2303,cafe,It's A Grind Coffee House,-112.25766,33.55217
+359292953,2082,school,Sabis International School,-112.03999,33.3989
+359292983,2082,school,Sierra Vista Elementary School,-112.04646,33.3884
+2414094602,2082,school,South Pointe Elementary School,-112.0372,33.39225
+3081237008,2303,cafe,Starbucks,-112.00861,33.4376
+3081249903,2303,cafe,Starbucks,-112.00824,33.43544
+4636919407,2081,university,University of Phoenix,-112.01083,33.41481
+5294888969,2303,cafe,Yvonne's Cafe & Catering,-111.96724,33.42144
+2317807664,2303,cafe,Corner Bakery Cafe,-112.06956,33.45278
+359291806,2082,school,Deer Valley Charter School,-112.09217,33.67131
+359291812,2082,school,Deer Valley Middle School,-112.11898,33.67778
+359293039,2082,school,Valley Academy,-112.09239,33.67734
+359293108,2082,school,Desert Winds Elementary School,-112.09025,33.66754
+2554953941,2082,school,Sandra Day O'Conner High School,-112.13844,33.71855
+4095205471,2402,motel,"Country Inn & Suites By Carlson, Deer Valley",-112.12073,33.67021
+4095205472,2402,motel,Extended Stay America - Phoenix - Deer Valley,-112.11671,33.67624
+4095205474,2402,motel,Hampton Inn & Suites Phoenix North/Happy Valley,-112.11471,33.70721
+4095205475,2402,motel,Homewood Suites by Hilton Phoenix North - Happy Valley,-112.11338,33.70716
+4931775422,2501,supermarket,Walmart Supercenter,-112.11302,33.70845
+4936262650,2303,cafe,Rustic Cafe,-112.03048,33.67536
+5629979800,2303,cafe,Rinaldi's Deli,-112.09927,33.68262
+6590954403,2083,kindergarten,The Learning Experience,-112.0969,33.71353
+359293046,2082,school,Villa Montessori Charter School,-112.02144,33.50276
+366219886,2083,kindergarten,Biltmore Bible Day Care Center,-112.01041,33.50967
+903327798,2501,supermarket,Safeway,-112.01477,33.51122
+4581672289,2501,supermarket,Fry's,-112.04119,33.5069
+5987112043,2303,cafe,Starbucks,-112.04577,33.50863
+6839091698,2303,cafe,d'Lite,-112.01225,33.49548
+359293109,2082,school,Destiny Community School,-111.80739,33.33281
+748696013,2501,supermarket,Fry's Food and Drug,-111.80834,33.33408
+748696540,2303,cafe,Starbucks,-111.80896,33.33575
+1931366498,2303,cafe,Starbucks,-111.87768,33.33553
+1931376518,2501,supermarket,Fry's,-111.85797,33.34811
+1931376534,2303,cafe,Starbucks,-111.85855,33.34823
+1931545840,2082,school,Seton Catholic High School,-111.87748,33.32376
+1934233955,2501,supermarket,Fry's Food & Drug,-111.87488,33.32185
+1934510954,2501,supermarket,Sprouts Farmers Market,-111.8755,33.3189
+4186072556,2303,cafe,Bisbee Breakfast Club,-111.87608,33.36243
+5038728963,2303,cafe,SoZo Coffeehouse,-111.86081,33.3334
+5047705335,2303,cafe,Biscuits Cafe,-111.87707,33.33731
+5050157881,2501,supermarket,I-Mart,-111.85972,33.32275
+6092732365,2501,supermarket,Safeway,-111.82219,33.32215
+6590906013,2083,kindergarten,The Learning Experience,-111.84381,33.36492
+359245799,2082,school,Franklin School,-111.82458,33.41449
+359251118,2082,school,Salt River Indian Day School,-111.86375,33.46671
+359293265,2082,school,Heritage Academy,-111.83194,33.41416
+2361657815,2501,supermarket,Walmart Neighborhood Market,-111.81462,33.45239
+4095260996,2402,motel,Mesa Travelodge,-111.84039,33.41459
+359292909,2082,school,Palomino Intermediate School,-112.01829,33.63217
+359292926,2082,school,Phoenix First Pastors College,-112.03352,33.60819
+359292933,2082,school,Polaris High School,-112.01405,33.62309
+359293025,2082,school,Sunset Canyon School,-112.02327,33.65829
+359293137,2082,school,Echo Mountain Primary School,-112.04364,33.65081
+1140259217,2501,supermarket,Safeway,-112.01475,33.61051
+2317824572,2303,cafe,Hempful Farms Cafe,-112.03122,33.61906
+3161675985,2303,cafe,Starbucks,-112.01111,33.64011
+4196486501,2501,supermarket,Yusef's Middle Eastern Grocery and Deli,-112.03127,33.62571
+4196486502,2303,cafe,Yusef's Middle Eastern Restaurant,-112.03134,33.62566
+359248272,2082,school,Madison School Number One,-112.04626,33.51699
+5940094903,2303,cafe,Starbucks,-112.04718,33.5234
+359291592,2082,school,Augustus H Shaw Junior School,-112.05353,33.44919
+359291669,2082,school,Brunson-Lee Elementary School,-111.9795,33.46285
+359293007,2082,school,Starshine Academy,-112.01466,33.47878
+359293165,2082,school,Excelencia School,-112.0354,33.46495
+359293219,2082,school,Gateway School,-112.0069,33.46133
+894575727,2082,school,New Way Academy,-111.97207,33.47379
+1686021865,2501,supermarket,Fry's Food,-111.98415,33.47919
+1686021868,2303,cafe,Starbucks,-112.01334,33.48004
+1707814019,2082,school,Sage K-8 Charter School,-112.01335,33.48447
+4095229670,2402,motel,Western Lodge Phoenix,-112.00075,33.45086
+4095229671,2402,motel,Lone Star Motel,-112.00147,33.45118
+4095229675,2402,motel,Econo Lodge Airport,-112.01553,33.4511
+4095229676,2402,motel,Days Inn Phoenix Airport,-112.01856,33.45158
+4095229677,2402,motel,Deserama Motel,-112.01967,33.45148
+4095229679,2402,motel,Rodeway Inn,-112.02756,33.45109
+4095229682,2402,motel,Motel 6 Phoenix Airport - 24th Street,-112.03082,33.44513
+4452500459,2083,kindergarten,,-112.04424,33.47994
+4452509037,2501,supermarket,EL Super,-112.01426,33.48156
+359293038,2082,school,Towne Meadows Elementary School,-111.70402,33.37044
+359293225,2082,school,Gilbert Learning Center,-111.68406,33.36383
+1122779302,2082,school,Carol Rae Ranch Elementary School,-111.71062,33.37163
+5315597611,2501,supermarket,Walmart Neighborhood Market,-111.6542,33.36302
+359254438,2082,school,Laveen School,-112.16734,33.36227
+721155955,2501,supermarket,Safeway,-112.1662,33.37629
+1681214544,2501,supermarket,Fry's Food,-112.17034,33.37946
+6071897273,2082,school,,-112.15959,33.38577
+6239051185,2405,hostel,Laveen House,-112.21901,33.38329
+359243842,2082,school,Carl Hayden School,-112.13209,33.45838
+359246933,2082,school,Jackson School,-112.10154,33.44532
+359247622,2082,school,La Otra School,-112.13487,33.45532
+359248953,2082,school,Murphy School Number Two,-112.12709,33.4481
+359254365,2082,school,Jane Wayland Child Guidance Center,-112.1007,33.44615
+359254885,2082,school,Saint Matthews School,-112.10376,33.45199
+359291710,2082,school,Capitol Elementary School,-112.09493,33.45191
+359293076,2082,school,William R Sullivan Elementary School,-112.12617,33.44785
+1655437482,2501,supermarket,Food City,-112.13369,33.45274
+1659740781,2501,supermarket,Food City,-112.118,33.45058
+4094977814,2402,motel,Knights Inn Fairground-Phoenix,-112.11151,33.46726
+4094977815,2402,motel,The Sandman Motel,-112.10541,33.4515
+4717395008,2303,cafe,ThirdSpace,-112.08678,33.45524
+6600817686,2303,cafe,Trans Am Cafe,-112.09165,33.45922
+359243945,2082,school,Catalina Ventura School,-112.14144,33.53049
+359251486,2082,school,Sevilla Primary School,-112.14449,33.51599
+3110660793,2082,school,Alhambra High School,-112.14108,33.50769
+3936389289,2084,college,RCB Medical Arts Academy,-112.15038,33.52521
+3936389290,2082,school,,-112.15096,33.52538
+4374635741,2083,kindergarten,Sunrise Preschool,-112.14753,33.5535
+359250724,2082,school,Riverside School,-112.17009,33.4341
+359254292,2082,school,Heather Brae School,-112.21085,33.49934
+359291654,2082,school,Bret R Tarver School,-112.16932,33.49822
+359291698,2082,school,Camelback Academy,-112.22382,33.50929
+359291751,2082,school,Cholla Academy,-112.20256,33.49646
+359293152,2082,school,Epworth United Methodist Day School and Day Care Center,-112.18744,33.50844
+359293175,2082,school,Flor Del Sol School,-112.20412,33.49242
+359293324,2082,school,James Sandoval Preparatory High School,-112.20412,33.49233
+359293410,2082,school,Liberty Traditional Charter School,-112.15544,33.49453
+1655626368,2501,supermarket,Ranch Market,-112.20414,33.51068
+1656471455,2501,supermarket,Fry's Food Store,-112.20169,33.49316
+1659598962,2501,supermarket,Food City,-112.20205,33.48135
+1681965365,2501,supermarket,El Super,-112.2215,33.48155
+2390059246,2501,supermarket,Food City,-112.1503,33.46493
+2720106607,2082,school,Andalucia Middle School,-112.16156,33.50307
+2999125091,2501,supermarket,El Super,-112.17068,33.49371
+3132626452,2082,school,Long F John School,-112.17624,33.50121
+3136430294,2082,school,Trevor Brown High School,-112.21872,33.48348
+3194995089,2082,school,,-112.14792,33.45389
+4001763238,2084,college,Western School,-112.20019,33.49365
+4578867304,2082,school,Bret R. Tarver Elementary School,-112.17164,33.49834
+4578867305,2082,school,Marc T. Atkinson Middle School,-112.17169,33.49882
+4808482882,2303,cafe,Starbucks,-112.22135,33.466
+4951819535,2402,motel,Sav-On Motel,-112.16957,33.43637
+5315601399,2501,supermarket,Walmart Supercenter,-112.22318,33.47055
+359242562,2082,school,Bethany Bible School,-112.08296,33.52552
+359248267,2082,school,Madison Meadows School,-112.07626,33.53338
+359292789,2082,school,All Saints Episcopal Church Day School,-112.07563,33.52969
+359293172,2082,school,First United Methodist Church of Phoenix Weekday School,-112.07437,33.51691
+2733156308,2303,cafe,Starbucks,-112.08281,33.51635
+4015696484,2501,supermarket,AJ's,-112.0719,33.51006
+4265677430,2402,motel,hotel 502 on Camelback,-112.08065,33.50988
+5817116653,2082,school,Valley Lutheran High School,-112.08263,33.51467
+5817184953,2082,school,Flames,-112.08196,33.51215
+6816511292,2501,supermarket,Fry's Food and Drug,-112.08549,33.51117
+359250870,2082,school,Rose Lane Junior High School,-112.05709,33.52671
+359293290,2082,school,Humanities and Sciences Academy of the United States,-112.06389,33.51271
+359293303,2082,school,International Commerce Institute Phoenix,-112.06389,33.51269
+359293306,2082,school,International Commerce Secondary School,-112.06389,33.51268
+2315133795,2501,supermarket,Basha's,-112.06328,33.51764
+597445223,2501,supermarket,Trader Joe's,-112.2265,33.63928
+2256783365,2501,supermarket,Walmart Supercenter,-112.18474,33.63652
+2718606654,2501,supermarket,Sprouts Farmers Market,-112.18078,33.63738
+4395641514,2303,cafe,Starbucks,-112.22802,33.63591
+359244475,2082,school,Coe School,-112.1421,33.47838
+359246451,2082,school,Heard School,-112.10915,33.47975
+359249844,2082,school,Phoenix Christian High School,-112.09715,33.49437
+359253875,2082,school,American Evangelist Day School,-112.09891,33.49954
+359254701,2082,school,P T Coe School,-112.14154,33.47782
+359254767,2082,school,Phoenix College,-112.08871,33.48332
+359254873,2082,school,Saint Gregory School,-112.09872,33.48849
+359291716,2082,school,Career Success High School Main Campus,-112.11764,33.49163
+359292773,2082,school,Ace Elementary School,-112.10904,33.47887
+359292833,2082,school,Metro Technology High School,-112.101,33.48158
+359292910,2082,school,Pan-American Elementary Charter School,-112.12383,33.49447
+3141287166,2082,school,Desiderata Program,-112.13319,33.4815
+3233832458,2501,supermarket,Latino Market,-112.09098,33.49474
+4094977811,2402,motel,La Quinta Inn Phoenix Thomas Road,-112.11176,33.47943
+4094977812,2402,motel,Vacation Inn Phoenix,-112.11169,33.48101
+4094977813,2402,motel,EZ Inn Motel,-112.11147,33.47599
+5307334623,2082,school,West Phoenix High School,-112.14223,33.47989
+6501153922,2303,cafe,Starbucks,-112.11208,33.48022
+359242567,2082,school,Bethune School,-112.09154,33.43366
+359243867,2082,school,Carver High School,-112.0682,33.4406
+359245823,2082,school,G S Skiff School,-112.04404,33.43477
+359246127,2082,school,Grant School,-112.07987,33.4406
+359246170,2082,school,Gray School,-112.07098,33.42921
+359246504,2082,school,Herrera School,-112.05931,33.43366
+359247837,2082,school,Lincoln School,-112.05959,33.43616
+359248169,2082,school,Lowell School,-112.07623,33.43651
+359248952,2082,school,Murphy School,-112.11569,33.43635
+359252098,2082,school,Stevenson School,-112.0557,33.43004
+359254643,2082,school,Murphy School Three,-112.10376,33.42977
+359292783,2082,school,Alfred F Garcia School,-112.11596,33.43534
+359292817,2082,school,Arthur M Hamilton School,-112.10328,33.43037
+359293149,2082,school,Enterprise Academy,-112.08046,33.44078
+359293241,2082,school,Gospel Center School,-112.06165,33.43106
+359293321,2082,school,Jack L Kuban Elementary School,-112.12815,33.43929
+359293430,2082,school,Mary McLeod Bethune School,-112.09233,33.43444
+5557466623,2110,hospital,Haven Senior Horizons of Phoenix,-112.08138,33.43599
+359254451,2082,school,Liberty Elementary School,-112.48612,33.37901
+359254898,2082,school,Scott Libby Elementary School,-112.46238,33.47865
+359291815,2082,school,Desert Edge High School,-112.39896,33.43781
+506497091,2082,school,Copper Trails Elementary School,-112.42124,33.44255
+506498945,2082,school,Wildflower Elementary School,-112.40686,33.44326
+607940965,2501,supermarket,Super Target,-112.42132,33.4377
+607960549,2501,supermarket,Safeway,-112.39444,33.45128
+608630211,2501,supermarket,,-112.41136,33.43742
+1657408076,2501,supermarket,Fry's,-112.33907,33.46296
+1667816804,2501,supermarket,Safeway,-112.42841,33.35771
+2585464847,2501,supermarket,Sprouts Farmers Market,-112.33959,33.46821
+2831094825,2082,school,,-112.37001,33.49212
+3818084980,2082,school,,-112.38642,33.44252
+4973255293,2081,university,Franklin Pierce University at Goodyear,-112.37029,33.44929
+5833582822,2501,supermarket,Fry's Food and Drug,-112.3557,33.5099
+6571250265,2082,school,St. John Vianney Catholic School,-112.35085,33.44369
+6862260967,2303,cafe,Dutch Bros. Coffee,-112.3635,33.48636
+359293378,2082,school,Kyrene de las Manitas School,-111.95798,33.32352
+1675449695,2501,supermarket,,-111.97846,33.33037
+1799680648,2082,school,Ahwatukee Foothills Preparatory School,-111.97531,33.35409
+2139628008,2504,mall,,-111.96709,33.33938
+2139628066,2504,mall,,-111.96879,33.33971
+2139628097,2504,mall,,-111.96837,33.33998
+2627653934,2303,cafe,Starbucks,-111.92954,33.37908
+2669336620,2501,supermarket,Albertsons,-111.9299,33.36485
+5264713683,2303,cafe,Starbucks,-111.97745,33.3323
+5726952676,2501,supermarket,AJ’s Fine Foods,-111.96433,33.31812
+6237135030,2501,supermarket,Sprouts Farmers Market,-111.98152,33.31782
+6515263090,2303,cafe,Starbucks,-111.9835,33.30446
+6780182025,2303,cafe,Starbucks,-111.96712,33.33493
+359291755,2082,school,Cochise Elementary School,-111.89827,33.57094
+359292768,2082,school,Accelerated Learning Center,-111.99292,33.58223
+707448102,2501,supermarket,Whole Foods Market,-111.97907,33.5851
+4095415193,2402,motel,Extended Stay America - Phoenix - Scottsdale,-111.93308,33.58373
+359242564,2082,school,Bethel School,-112.08821,33.5406
+359251728,2082,school,Simis School,-112.06209,33.54226
+2746642278,2303,cafe,Dutch Bros. Coffee,-112.05601,33.538
+4438369512,2012,community_centre,Fountain Hills Community Center,-111.72091,33.60344
+4638630709,2012,community_centre,Fountain Hills Activity Center,-111.72169,33.6033
+5072866538,2303,cafe,Starbucks,-111.72821,33.60968
+5406715587,2303,cafe,Starbucks,-111.71819,33.57365
+6028574353,2501,supermarket,Bashas',-111.72202,33.60794
+6034969907,2303,cafe,Starbucks,-111.71952,33.57476
+402998198,2501,supermarket,Fry's Food and Drug,-111.86083,33.27561
+2142792395,2303,cafe,Starbucks,-111.84098,33.28469
+5260413868,2012,community_centre,,-111.88194,33.27508
+5399230157,2303,cafe,,-111.855,33.27756
+359293354,2082,school,Kyrene Akimel A-al Middle School,-112.02431,33.29369
+359293376,2082,school,Kyrene de las Lomas School,-111.99529,33.33961
+366219478,2083,kindergarten,Family of Christ Child Development Center,-112.00754,33.3048
+473852564,2501,supermarket,Trader Joe's,-111.9945,33.30403
+2169665274,2501,supermarket,Walmart Neighborhood Market,-112.02926,33.37605
+6515217970,2303,cafe,Cupz N' Crepes,-111.9916,33.30585
+6515217980,2083,kindergarten,A Step Ahead Childcare & Preschool,-111.9922,33.30463
+6750621513,2303,cafe,Starbucks,-111.9991,33.30382
+6750621524,2303,cafe,Starbucks,-111.99614,33.30334
+316878158,2082,school,School of Georaphical Sciences and Urban Planning,-111.93787,33.41937
+359242085,2082,school,Arizona State University - Tempe Campus,-111.93542,33.41727
+359254584,2012,community_centre,Mitchell School,-111.94848,33.42088
+359254696,2082,school,Our Lady of Mount Carmel School,-111.92487,33.40477
+775275980,2303,cafe,Einstein Bros and Bagels,-111.93469,33.41806
+797499498,2303,cafe,Starbucks,-111.93414,33.4166
+798622870,2303,cafe,Starbucks,-111.93184,33.418
+1698683394,2303,cafe,Crave cafe & lounge,-111.93991,33.4252
+2581979558,2303,cafe,Starbucks,-111.95192,33.42169
+4716174445,2303,cafe,Starbucks,-111.94094,33.42282
+5618861680,2303,cafe,Infusion Coffee and Tea,-111.9169,33.41948
+5811046353,2084,college,Student Pavilion,-111.93376,33.4187
+359248885,2082,school,Mountain View School,-112.09182,33.5756
+359292849,2082,school,Montessori Day Public School,-112.08192,33.57024
+359292872,2082,school,Mountain View Elementary School,-112.09196,33.57538
+359293066,2082,school,Westwind Middle School Academy (Closed),-112.10237,33.55259
+6193915985,2501,supermarket,Sprouts Farmers Market,-112.10099,33.55458
+1713373020,2501,supermarket,Fry's Marketplace,-111.82492,33.21736
+359249855,2082,school,Phoenix Police Academy,-112.08839,33.35446
+359250858,2082,school,Roosevelt School,-112.06626,33.39171
+359252196,2082,school,Sunland School,-112.08154,33.39699
+359252528,2082,school,Three D Street School,-112.06876,33.4106
+359254270,2082,school,Greenfield Junior High School,-112.05765,33.38171
+359254371,2082,school,John F Kennedy Middle School,-112.05765,33.38421
+359254830,2082,school,Rio Vista School,-112.06876,33.41088
+359255076,2082,school,Valley View School,-112.08376,33.37088
+359291622,2082,school,Bernard Black Elementary School,-112.11763,33.38753
+359291734,2082,school,Cesar E Chavez Community School,-112.0681,33.41099
+359293156,2082,school,Esperanza Montessori Academy,-112.07168,33.40315
+2689661981,2082,school,,-112.11767,33.39077
+2692926548,2082,school,,-112.0722,33.38814
+6038456023,2303,cafe,Starbucks,-112.10182,33.37884
+359243294,2082,school,Bourgade Catholic High School,-112.12683,33.50475
+359244580,2082,school,Cordova Middle School,-112.13301,33.51946
+359246040,2082,school,Grace Brethren School,-112.12237,33.52449
+359291617,2082,school,Bennett Academy,-112.12272,33.52459
+359292786,2082,school,All Aboard Charter School,-112.13359,33.52323
+2324983396,2501,supermarket,Ranch Market,-112.13297,33.53758
+2482210418,2501,supermarket,Foodcity,-112.13533,33.53985
+3152033439,2082,school,Cordova Primary School,-112.13322,33.51893
+3152037869,2082,school,Granada East School,-112.12426,33.50309
+3152043381,2082,school,Granada Primary School,-112.12779,33.50291
+4272615346,2303,cafe,Starbucks,-112.13111,33.52445
+359243229,2082,school,Booker T Washington School,-112.05598,33.44699
+359245403,2082,school,Edison School,-112.04404,33.4581
+359248098,2082,school,Longfellow School,-112.04237,33.45004
+359253237,2082,school,Washington School,-112.06181,33.44866
+359292636,2110,hospital,Saint Lukes Behavioral Health Center,-112.04242,33.4531
+2802765787,2303,cafe,Red Hut,-112.06554,33.45895
+3833145142,2303,cafe,Street Coffee,-112.0649,33.4555
+4094977818,2402,motel,Super 7 Motel,-112.05954,33.45094
+4094977819,2402,motel,HI Phoenix - The Metcalf House,-112.0624,33.45973
+5986784059,2303,cafe,Royal Coffee Bar & Roastery,-112.0657,33.44982
+359292970,2082,school,Settlers Point Elementary,-111.78143,33.32975
+3997714597,2303,cafe,Bergie's,-111.78923,33.35549
+5732963079,2501,supermarket,Fry's Food and Drug,-111.78798,33.30491
+5974254207,2501,supermarket,Gilbert Music & Lessons,-111.79542,33.32898
+5974254208,2501,supermarket,My First Piano,-111.79471,33.32884
+359289137,2082,school,Desert Canyon Middle School,-111.86237,33.62726
+359289140,2082,school,Desert Canyon Elementary School,-111.86237,33.62726
+359289154,2082,school,Copper Ridge Elementary School,-111.86542,33.66754
+359291595,2082,school,Aztec Elementary School,-111.86573,33.6095
+359292572,2110,hospital,Scottsdale Liberty Hospital,-111.89804,33.64366
+359293087,2082,school,Redfield Elementary School,-111.88564,33.61593
+359293244,2082,school,Grayhawk Elementary School,-111.91775,33.67502
+915172333,2501,supermarket,Safeway,-111.88829,33.67589
+3951939459,2303,cafe,Press Coffee,-111.92438,33.62362
+5434335921,2303,cafe,Starbucks,-111.90572,33.67236
+5819923971,2303,cafe,Starbucks,-111.92478,33.65209
+6574906606,2501,supermarket,Fry's Signature,-111.90447,33.67103
+6765225485,2303,cafe,Starbucks,-111.8919,33.62363
+359291749,2082,school,Cheyenne Traditional Elementary School,-111.8409,33.58901
+359292791,2082,school,Anasazi Elementary School,-111.81214,33.59622
+1079350210,2501,supermarket,Albertsons,-111.90626,33.53751
+2090547898,2303,cafe,Starbucks,-111.92514,33.53942
+3742487463,2110,hospital,Arizona Hearing Center,-111.92448,33.58385
+3768499149,2501,supermarket,Sprouts Farmers Market,-111.88074,33.58136
+6286880486,2303,cafe,Starbucks,-111.92548,33.58713
+6765227905,2303,cafe,Caribou Coffee,-111.8869,33.58003
+6787243685,2082,school,Phoenix Seminary,-111.91103,33.581
+359252552,2082,school,Thunderbird Academy,-111.91959,33.60976
+359291724,2082,school,Casy Country Day School,-111.92551,33.59368
+359292899,2082,school,Ottawa University,-111.92651,33.60785
+359292968,2082,school,Sequoya Elementary School,-111.94432,33.59391
+3247862312,2303,cafe,Starbucks,-111.92647,33.62372
+4989588958,2501,supermarket,Safeway,-111.9417,33.62411
+5819923966,2501,supermarket,Whole Foods Market,-111.92727,33.6538
+359291613,2082,school,Benchmark School,-111.99329,33.62009
+706931210,2082,school,Scottsdale Christian Academy,-111.97904,33.61808
+1641454234,2501,supermarket,Walmart Supercenter,-111.9818,33.63845
+6249811682,2501,supermarket,Smart & Final Extra!,-111.97634,33.61249
+6249811690,2303,cafe,Starbucks,-111.97729,33.6102
+6516441383,2501,supermarket,Safeway,-111.97897,33.62474
+359292981,2082,school,Sierra Vista Academy,-111.91898,33.47246
+1592989320,2501,supermarket,Fry's Food,-111.91269,33.46728
+4095418906,2402,motel,Motel 6 Scottsdale South,-111.92684,33.44748
+2143494926,2501,supermarket,Sprouts Farmers Market,-111.8563,33.26466
+2819617399,2082,school,,-111.85739,33.25389
+2053905827,2303,cafe,Starbucks,-111.86052,33.2612
+4734956271,2501,supermarket,Fresh and Easy,-111.88207,33.26091
+5335186014,2303,cafe,Black Rock Coffee Bar,-111.86608,33.2462
+5335186017,2303,cafe,Tropical Smoothies Cafe,-111.86656,33.24654
+5349784891,2083,kindergarten,Kinderbugs,-111.86143,33.26141
+359292954,2082,school,Sahuaro Ranch Elementary School,-112.19408,33.57966
+2299117935,2501,supermarket,Fry's,-112.184,33.60944
+2810720471,2501,supermarket,Safeway,-112.18427,33.61262
+3094986748,2303,cafe,Starbucks,-112.20228,33.58129
+3131231112,2501,supermarket,Walmart Neighborhood Market,-112.20188,33.58033
+3198055888,2303,cafe,Starbucks,-112.18554,33.61122
+6044970377,2110,hospital,Corebella Addiction Treatment & Suboxone Clinic,-112.18244,33.56776
+6320007022,2082,school,Legacy Traditional School,-112.20186,33.61197
+359291609,2082,school,Bell Canyon Charter School,-112.11596,33.65142
+359291784,2082,school,Cortez Park Charter Middle School,-112.11326,33.64969
+359293052,2082,school,West Gilbert Charter Elementary School,-112.11562,33.64982
+359293053,2082,school,West Gilbert Charter Middle School,-112.11555,33.64942
+359293097,2082,school,Desert Rose Community Church Christian College,-112.11691,33.64764
+359293131,2082,school,East Mesa Charter Elementary School,-112.11622,33.64976
+2120305890,2501,supermarket,Fry's MarketPlace,-112.12005,33.63844
+3093928259,2501,supermarket,Safeway,-112.13336,33.64069
+4095205469,2402,motel,Studio 6 Phoenix - Deer Valley,-112.11606,33.65312
+4095205470,2402,motel,Sleep Inn North,-112.11622,33.65269
+4914111416,2082,school,ACAA Elementary,-112.11967,33.6365
+359251674,2082,school,Sierra Vista School,-112.18418,33.6576
+359291772,2082,school,Copper Creek Elementary School,-112.21083,33.68454
+359291799,2082,school,Coyote Hills Elementary School,-112.24775,33.67556
+741133545,2082,school,West Wing Elementary School,-112.24548,33.72692
+2074003883,2303,cafe,Starbucks,-112.23347,33.65209
+2531809999,2082,school,Arrowhead Elementary School,-112.21904,33.65357
+2618173634,2501,supermarket,Fry's Food and Drug Store,-112.2015,33.71064
+2866643633,2082,school,,-112.2408,33.6766
+4321257026,2501,supermarket,Fry's Food,-112.25642,33.65135
+5315598089,2501,supermarket,Walmart Neighborhood Market,-112.20131,33.71379
+5526502306,2303,cafe,Starbucks,-112.27316,33.70765
+5264710584,2303,cafe,Starbucks,-111.8408,33.25096
+5266162990,2303,cafe,Bosa Donuts,-111.84071,33.24676
+315644078,2501,supermarket,Basha's,-111.91217,33.3333
+315703372,2303,cafe,Starbucks,-111.91167,33.32131
+315987032,2501,supermarket,Fry's Marketplace,-111.9303,33.3219
+467789726,2082,school,Kyrene de las Brisas Elementary School,-111.91743,33.31441
+467790031,2082,school,Kyrene Aprende Middle School,-111.91867,33.31543
+1931549990,2303,cafe,The Coffee Bean & Tea Leaf,-111.88901,33.30661
+1931560105,2303,cafe,Starbucks,-111.89142,33.31989
+1931560108,2501,supermarket,Whole Foods Market,-111.89279,33.31851
+5110668898,2501,supermarket,Ashoka Indian Groceries,-111.94848,33.306
+3460326508,2402,motel,,-112.08489,33.45295
+4094977816,2402,motel,Las Palmas Inn,-112.08474,33.45307
+4094977817,2402,motel,Travelodge Phoenix Downtown,-112.08153,33.45168
+158170307,2501,supermarket,Safeway,-112.08179,33.48855
+359291707,2082,school,Capital Academic Charter School,-112.07423,33.47449
+359292653,2110,hospital,Select Specialty Hospital - Phoenix,-112.07931,33.48112
+611897742,2303,cafe,,-112.07415,33.50082
+1887749279,2303,cafe,Lux Coffee,-112.07413,33.50046
+3108456386,2303,cafe,Cafe at the Heard Museum,-112.07278,33.47221
+3782832487,2303,cafe,Starbucks,-112.07503,33.4833
+5958599985,2303,cafe,,-112.08375,33.49399
+6361542655,2110,hospital,Kindred Hospital,-112.07193,33.4926
+504468253,2501,supermarket,Basha's,-111.63125,33.43558
+6968160286,2501,supermarket,American Discount Foods,-111.62856,33.41463
+2216786635,2303,cafe,Starbucks,-111.60069,33.38065
+2684615473,2303,cafe,BoSa Donuts,-111.59997,33.38283
+2722819134,2082,school,Desert Ridge High School,-111.61733,33.37012
+2722819136,2082,school,Desert Ridge Junior High,-111.6128,33.37054
+2860654967,2501,supermarket,Safeway,-111.62103,33.37767
+3449240425,2303,cafe,Starbucks,-111.63377,33.37789
+3449240427,2303,cafe,Starbucks,-111.63563,33.37744
+5285088392,2303,cafe,Starbucks,-111.60363,33.36539
+1651599398,2501,supermarket,AJ's Fine Foods,-111.75695,33.38201
+1651599566,2501,supermarket,Fry's Food & Drug,-111.75129,33.37849
+5321336251,2501,supermarket,Albertsons,-111.75207,33.42385
+6365438404,2303,cafe,Starbucks,-111.75344,33.38078
+319266039,2303,cafe,Starbucks,-111.68896,33.37831
+319583597,2303,cafe,Honey Baked Ham Co.,-111.68851,33.3799
+359291663,2082,school,Franklin Junior High School,-111.72502,33.39263
+359293198,2082,school,Franklin at Brimhall Elementary School,-111.72302,33.39312
+715736889,2501,supermarket,Fry's Marketplace,-111.73493,33.41705
+1651599488,2501,supermarket,Safeway,-111.72373,33.37754
+1651599516,2303,cafe,Starbucks,-111.7371,33.38406
+2713060858,2501,supermarket,Walmart Neighborhood Market,-111.7208,33.42378
+2713088056,2501,supermarket,Bashas' Supermarket,-111.72092,33.43517
+4095261000,2402,motel,Travelodge Suites Phoenix Mesa,-111.73909,33.41575
+4095261001,2402,motel,Economy Inn & Suites,-111.7145,33.41584
+4095261002,2402,motel,Westernaire Motel,-111.71415,33.41612
+4095261003,2402,motel,Days Inn East Mesa,-111.71194,33.41523
+4095261004,2402,motel,Colonade Motel,-111.71348,33.41603
+4095261005,2402,motel,Windemere Hotel and Conference Center,-111.70714,33.41647
+4095261006,2402,motel,Miles Motel,-111.70341,33.4153
+4095261007,2402,motel,Fountain Motel,-111.69615,33.41625
+4095261008,2402,motel,Trails West Motel,-111.69084,33.41604
+4095261009,2402,motel,Super 8 Mesa/Phoenix Power & Main,-111.68655,33.41534
+4095261010,2402,motel,Broadview Motel,-111.65844,33.41574
+4095261011,2402,motel,Sleep Inn,-111.6934,33.39245
+4996470316,2084,college,Pima Medical Institute – East Valley,-111.68956,33.37637
+5315597587,2501,supermarket,Walmart Supercenter,-111.73964,33.38453
+6172052520,2501,supermarket,,-111.71807,33.39192
+359247237,2082,school,Julian School,-112.03499,33.40295
+359249676,2082,school,Palmdale School,-112.01626,33.40421
+359254521,2082,school,Martin Luther King Junior School,-112.03302,33.40426
+359255014,2082,school,T G Barr School,-112.03681,33.38532
+359291666,2082,school,Brooks Academy,-112.01612,33.40403
+2169665272,2501,supermarket,Fry's,-112.03183,33.37942
+3051260297,2084,college,South Mountain Community College,-112.03333,33.3826
+5305894600,2303,cafe,Starbucks,-112.0307,33.37866
+359242083,2082,school,Canyon State Academy,-111.65124,33.26533
+1135153870,2082,school,Higley School District Offices,-111.70336,33.29737
+3208577939,2501,supermarket,Fry's,-111.71969,33.29048
+3239775911,2303,cafe,Starbucks,-111.68742,33.32565
+3838716379,2082,school,,-111.6968,33.286
+4682269190,2501,supermarket,Safeway,-111.68405,33.26488
+4734657527,2303,cafe,Bahama Bucks,-111.7231,33.29034
+5289046500,2303,cafe,Starbucks,-111.67719,33.30714
+5383648591,2303,cafe,Mesquite Café,-111.67584,33.30782
+5423730343,2303,cafe,Starbucks,-111.71942,33.29056
+5577427365,2303,cafe,Starbucks,-111.68994,33.3237
+5678565363,2303,cafe,The Coffee Shop,-111.72632,33.32188
+6353774928,2082,school,Highland Park Elementary,-111.71148,33.35475
+6717868763,2303,cafe,Black Rock Coffee,-111.68627,33.31859
+359292994,2082,school,Solon Academy of Arts and Sciences,-111.90974,33.32701
+3640284000,2303,cafe,Steve's Espresso,-111.90864,33.37718
+5047429900,2303,cafe,Seattle Espresso Inc,-111.90821,33.33581
+5605776293,2110,hospital,Dignity Health Arizona Specialty Hospital,-111.89139,33.33386
+359251091,2082,school,Salano School,-112.09265,33.51782
+359251732,2082,school,Simpson School,-112.1096,33.516
+359253388,2082,school,Westwood Christian School,-112.10882,33.51027
+359292620,2110,hospital,North Phoenix Heart Center,-112.09927,33.5172
+3103009734,2082,school,Imagine Camelback,-112.10029,33.51083
+320332895,2303,cafe,Millstone Cafe,-112.5797,33.37023
+359242106,2082,school,Arlington School,-112.78073,33.30143
+359253632,2082,school,Winter Wells School,-112.86823,33.42254
+359253885,2082,school,Arlington Elementary School,-112.77989,33.30143
+359253945,2082,school,Buckeye Union High School,-112.57617,33.37531
+359254226,2082,school,Gila Bend Elementary School,-112.71822,32.95143
+359254229,2082,school,Gila Bend High School,-112.71739,32.9531
+359254280,2082,school,Harquahala Valley School,-113.16519,33.43726
+359254862,2082,school,Ruth Fisher Elementary School,-112.87092,33.49247
+359254914,2082,school,Sentinel Elementary School,-113.21105,32.85976
+359255028,2082,school,Theba Elementary School,-112.88934,32.92088
+359291673,2082,school,Buckeye Middle School,-112.58295,33.36914
+359291676,2082,school,Buckeye Primary School,-112.5825,33.3684
+359293062,2082,school,Westpark Elementary School,-112.60614,33.42187
+808696346,2082,school,Sundance Elementary Schoo,-112.5628,33.43868
+808696354,2501,supermarket,Fry's,-112.55843,33.43422
+837839951,2082,school,Youngker High School,-112.57493,33.41869
+1167194371,2082,school,Inca Elementary School,-112.55847,33.42758
+1242495432,2501,supermarket,Walmart Supercenter,-112.56026,33.43696
+1595795175,2110,hospital,Abrazo Buckeye Emergency Center,-112.55448,33.44193
+1683602322,2402,motel,Motel,-112.93645,33.48923
+1684230316,2082,school,Festival Foothills Elementary School,-112.61447,33.66682
+1687397334,2501,supermarket,,-112.60341,33.40301
+3413732137,2082,school,Tonopah Valley High School,-112.87333,33.49146
+4393778590,2303,cafe,verrado coffee co,-112.50391,33.46732
+4636130080,2501,supermarket,Micky's Mini Mart,-112.58619,33.37967
+4917628752,2402,motel,Knights Inn,-112.70313,32.95019
+4917628917,2501,supermarket,Gilla Bend Food Market,-112.71785,32.9475
+2247627655,2501,supermarket,Sprouts Farmers Market,-111.75774,33.3034
+4434642918,2501,supermarket,Fry's Grocery Store,-111.75717,33.33744
+4735039763,2303,cafe,Starbucks,-111.74344,33.30782
+5483244694,2303,cafe,HG Roastery & Cafe,-111.75608,33.30384
+5483617188,2303,cafe,First Watch,-111.75479,33.30552
+6365441729,2303,cafe,Coffee Rush,-111.75497,33.35112
+1592989364,2501,supermarket,Sprouts Farmers Market,-111.91912,33.50095
+4095415202,2402,motel,BEST WESTERN PLUS Sundial,-111.92249,33.50254
+4186088071,2303,cafe,Coffee Bean & Tea Leaf,-111.91769,33.49473
+4382906189,2501,supermarket,Safeway,-111.91037,33.51057
+4452508384,2501,supermarket,Frys,-111.95039,33.48081
+4785053907,2303,cafe,MERCI French Cafe and Patisserie,-111.91676,33.4966
+4840570433,2303,cafe,Juice Core,-111.92714,33.49953
+359248406,2082,school,Maryland Avenue School,-112.10321,33.53226
+359248790,2082,school,Montebello School,-112.11627,33.5217
+359249431,2082,school,Orangewood School,-112.09755,33.54497
+359251085,2082,school,Saint Simon and Jude School,-112.11555,33.53088
+359253230,2082,school,Washington High School,-112.10629,33.53761
+359291777,2082,school,Cornerstone Charter School,-112.1117,33.54022
+359292632,2110,hospital,Saint Joseph's Hospital Huger Mercy Living Center,-112.10993,33.54509
+2312468956,2402,motel,,-112.11331,33.53669
+2846065554,2504,mall,Christown Spectrum Mall,-112.09496,33.52234
+2855706510,2402,motel,,-112.11301,33.5353
+2921480627,2084,college,Carrington College,-112.11756,33.5235
+3009696977,2501,supermarket,Fry's Marketplace,-112.09832,33.53728
+359293075,2082,school,Wildfire Elementary School,-111.98789,33.69345
+956687409,2082,school,Explorer Middle School,-111.9854,33.68837
+1642744533,2501,supermarket,Albertsons,-111.97469,33.67871
+5031399523,2303,cafe,Sweet Tomatoes,-111.97611,33.67723
+359253989,2082,school,Chandler Heights School,-111.69069,33.21144
+359292919,2082,school,Patriot Academy,-111.67216,33.21173
+5823509760,2303,cafe,Starbucks,-111.72306,33.23216
+359292812,2082,school,Arizona School for the Arts,-112.07094,33.46303
+359292836,2082,school,Metropolitan Arts Institute,-112.083,33.46672
+1699117997,2082,school,Arizona School for the Arts,-112.06975,33.46453
+2699056309,2303,cafe,Starbucks,-112.08286,33.46545
+3114198471,2082,school,Kenilworth School,-112.08095,33.46222
+3609574405,2303,cafe,Adobo Dragon Restaurant,-112.07343,33.45838
+3609574406,2303,cafe,DCM Coffe and Tea,-112.07359,33.45828
+3609574407,2303,cafe,DCM The Burger Joint,-112.07353,33.45834
+3609574409,2303,cafe,Radish,-112.07332,33.45837
+3609574411,2303,cafe,Walrus and the Pearl,-112.07353,33.45824
+3609574412,2303,cafe,Yard Bird + The Larder,-112.07354,33.45837
+4598939578,2303,cafe,Vovomeena,-112.08235,33.46551
+4713668941,2303,cafe,Lola Coffee,-112.07738,33.45877
+5127678008,2303,cafe,Fair Trade Cafe,-112.07424,33.45935
+5509461984,2303,cafe,jobot,-112.0696,33.45847
+359252753,2082,school,Trinity School,-112.06654,33.56365
+2321311630,2303,cafe,Soup and Sausage,-112.06564,33.60677
+2321311644,2303,cafe,Starbucks,-112.06565,33.60725
+2493829141,2501,supermarket,Frys Market,-112.06097,33.57238
+3040314980,2501,supermarket,Walmart Neighborhood Market,-112.07219,33.56649
+3802495962,2303,cafe,Bamboo House,-112.06624,33.60803
+3802495964,2303,cafe,Moon Valley Cafe,-112.06641,33.60803
+359292844,2082,school,Milestone Charter School,-111.97877,33.65092
+359292890,2082,school,North Ranch Elementary School,-111.94977,33.6354
+706931745,2501,supermarket,Sprouts Farmers Market,-111.97875,33.5995
+1641454714,2504,mall,Paradise Valley Mall,-111.98363,33.60217
+1642750860,2501,supermarket,Walmart Supercenter,-111.97863,33.59615
+3399307617,2303,cafe,Rainbow Donuts,-111.99853,33.6117
+3909149990,2082,school,,-112.0011,33.68089
+4989597947,2501,supermarket,Fry's Food And Drug,-111.94461,33.62464
+6518801043,2082,school,Saint John XXIII Catholic School Community,-111.95068,33.63449
+359292726,2005,post_office,McDowell Post Office,-112.02443,33.46598
+2303440690,2001,police,,-112.03695,33.53056
+366219795,2002,fire_station,Phoenix Fire Station Number 19,-112.00559,33.43424
+3095026888,2001,police,Phoenix PD Airport Bureau,-112.00871,33.43625
+5257164765,2002,fire_station,Peoria Fire-Medical Station 199,-112.25011,33.85017
+359286753,2005,post_office,Downtown Station Post Office,-112.0747,33.45443
+359292719,2005,post_office,Downtown Phoenix Post Office,-112.07426,33.45444
+2470706342,2008,town_hall,City of Phoenix,-112.07734,33.44857
+4950087307,2007,library,Superior Court Law Library Resource Center,-112.07554,33.44674
+779471821,2002,fire_station,Scottsdale Fire Station Number 1,-111.91709,33.4683
+1698684164,2002,fire_station,,-111.92882,33.4397
+4157105961,2002,fire_station,,-111.92831,33.43988
+366219595,2099,public_building,Goldfield Administrative Site,-111.6168,33.55504
+5182626015,2001,police,Sheriff's Aid Station,-111.53755,33.57483
+366220022,2008,town_hall,Glendale City Hall,-112.18518,33.53893
+5259165243,2002,fire_station,Arizona Fire Medical Authority Fire Station 231,-111.88423,33.21586
+5259157045,2002,fire_station,Arizona Fire Medical Authority Fire Station 232,-111.85895,33.21945
+5330373330,2005,post_office,The UPS Store,-111.86038,33.23302
+1798894136,2005,post_office,Pecos Post Office,-112.06248,33.293
+359286829,2005,post_office,Surprise Post Office,-112.3376,33.62786
+366219389,2099,public_building,Maricopa County Municipal Water Conservation District Number One,-112.38058,33.66122
+366220019,2008,town_hall,Surprise Town Hall,-112.33655,33.62948
+768058150,2002,fire_station,,-112.38456,33.62452
+5237321214,2002,fire_station,Arizona Fire Medical Authority Fire Station 101,-112.34988,33.65721
+5237321215,2002,fire_station,Arizona Fire Medical Authority Fire Station 102,-112.37104,33.67229
+5237350347,2002,fire_station,Surprise Fire Medical Fire Station 304,-112.41039,33.71031
+6956815856,2002,fire_station,Surprise Fire - Medical Station 302,-112.37768,33.6532
+359286743,2005,post_office,Chandler Heights Post Office,-111.63541,33.24783
+5257237007,2002,fire_station,Queek Creek Fire & Medical Station 411,-111.63714,33.24495
+366220012,2008,town_hall,Cave Creek Town Hall,-111.95626,33.82754
+2335097807,2002,fire_station,Phoenix Fire Station #56,-112.12906,33.80106
+5237375276,2002,fire_station,,-112.11381,33.8581
+5237397132,2002,fire_station,Daisy Mountain Fire Station 145,-112.0881,33.84295
+5819923958,2005,post_office,United States Postal Service,-111.94399,33.83319
+6250034017,2005,post_office,Power Postal at Las Sendas,-111.6855,33.46698
+359286712,2005,post_office,Aguila Post Office,-113.16797,33.94225
+359286838,2005,post_office,Wickenburg Post Office,-112.72823,33.96947
+366220017,2008,town_hall,Wickenburg Town Hall,-112.72796,33.97003
+1815690247,2005,post_office,Wittmann Post Office,-112.53398,33.78066
+5237321208,2002,fire_station,Circle City / Morristown Fire Station 765,-112.62008,33.85556
+5237321209,2002,fire_station,Wickenburg Fire Station 751,-112.74369,33.96647
+5237350340,2002,fire_station,Arizona Fire Medical Authority Fire Station 106,-112.50064,33.73836
+6965433927,2002,fire_station,Circle City Morristown Fire Station 766,-112.58038,33.81538
+6965433934,2002,fire_station,Arizona Fire Medical Authority Annex Building,-112.5302,33.77801
+3101296808,2001,police,Tempe Police Substation & Traffic Bureau,-111.90547,33.41156
+2764862002,2009,courthouse,Maricopa County Juvenile Court,-111.82942,33.38216
+5004421385,2001,police,Maricopa County Sheriff,-111.83017,33.38144
+5004481315,2009,courthouse,Maricopa County Family Court,-111.8273,33.38116
+5004481316,2009,courthouse,Maricopa County Superior Court Clerk,-111.82657,33.38111
+5162182914,2005,post_office,The UPS Store,-111.84299,33.38028
+1237871440,2007,library,Cholla Branch (Phoenix Public Library),-112.12004,33.57802
+6292297579,2005,post_office,The UPS Store,-112.12514,33.58138
+359292712,2005,post_office,Chandler Andersen Springs Post Office,-111.87559,33.31142
+1931551473,2007,library,Chandler Public Library,-111.83799,33.3034
+5243624562,2002,fire_station,Chandler Fire Health & Medical Station 281,-111.83241,33.29299
+5243660320,2002,fire_station,Chandler Fire Health & Medical Station 288,-111.8514,33.29842
+359286740,2005,post_office,Cave Creek Post Office,-111.94737,33.83143
+2520612185,2007,library,Desert Broom Library,-111.99215,33.75441
+3189354392,2005,post_office,,-111.99102,33.75193
+4459851791,2002,fire_station,,-111.84497,33.73719
+366219740,2002,fire_station,Phoenix Fire Station Number 48,-112.17309,33.71288
+5243871637,2002,fire_station,Glendale Fire Station 154,-112.15478,33.58151
+2846018962,2005,post_office,The UPS Store,-112.15432,33.5234
+1657184297,2007,library,Cesar Chavez Library,-112.13861,33.37682
+323176942,2001,police,Avondale Police Department,-112.30459,33.44299
+323176943,2009,courthouse,Avondale City Courts,-112.30397,33.44348
+359286719,2005,post_office,Avondale Post Office,-112.34186,33.43515
+359286737,2005,post_office,Cashion Post Office,-112.2999,33.43513
+359286772,2005,post_office,Goodyear Post Office,-112.35794,33.43588
+359286833,2005,post_office,Tolleson Post Office,-112.25793,33.45004
+366220018,2008,town_hall,Tolleson Town Hall,-112.2661,33.44953
+366220031,2008,town_hall,Avondale Town Hall,-112.34905,33.44088
+814577470,2001,police,Goodyear Police Department,-112.37013,33.44725
+814577474,2009,courthouse,Goodyear Magistrate Court,-112.37053,33.4486
+1656317859,2005,post_office,,-112.2515,33.45017
+1659459162,2007,library,,-112.30278,33.44509
+3178246267,2002,fire_station,Tolleson Fire Station 161,-112.25732,33.4494
+2908188832,2005,post_office,The UPS Store,-111.7916,33.23454
+366220020,2008,town_hall,Peoria Town Hall,-112.23983,33.57625
+5237321211,2002,fire_station,Sun City Fire & Medical Department Fire Station 132,-112.27211,33.58775
+5257120308,2002,fire_station,Peoria Fire-Medical Station 193,-112.23829,33.60667
+4892098456,2002,fire_station,Gila River Indian Community Fire Dept. Station 429,-111.9752,33.26329
+6515217958,2005,post_office,Pakmail,-111.9978,33.30323
+2104765115,2005,post_office,,-112.42739,33.53763
+5235893219,2002,fire_station,Luke AFB Fire Station 361,-112.36589,33.53977
+5244987053,2002,fire_station,Luke AFB Fire Station 362,-112.37659,33.53355
+6852562273,2007,library,White Tank Library,-112.49804,33.56709
+6956878721,2002,fire_station,Surprise Fire - Medical Department Fire Station 307,-112.40702,33.59464
+366219668,2002,fire_station,Phoenix Fire Station Number 33,-112.1107,33.59613
+366219666,2002,fire_station,Phoenix Fire Station Number 35,-112.06595,33.63327
+359286814,2005,post_office,Sherwood Post Office,-111.80458,33.41199
+359292736,2005,post_office,Pioneer Carrier Annex Post Office,-111.80504,33.41203
+2814336946,2005,post_office,Mesa Mountain View,-111.77242,33.42212
+2814336953,2005,post_office,,-111.77026,33.40947
+5257358735,2002,fire_station,Salt River Fire Station 294,-111.80545,33.47443
+359286756,2005,post_office,El Mirage Post Office,-112.31768,33.60853
+359286842,2005,post_office,Youngtown Post Office,-112.30016,33.59254
+366220016,2008,town_hall,Youngtown City Hall,-112.30155,33.59421
+1350492044,2007,library,El Mirage Library,-112.32575,33.61113
+4320868764,2001,police,Maricopa County Sherriff,-112.34142,33.63802
+5237321213,2002,fire_station,El Mirage Fire Staion 121,-112.32428,33.60754
+5237321529,2002,fire_station,Arizona Fire Medical Authority Fire Station 104,-112.31731,33.71016
+5237369396,2002,fire_station,Surprise Fire - Medical Station 301,-112.32713,33.63628
+5257153786,2002,fire_station,Peoria Fire-Medical Station 195,-112.27778,33.69289
+5257164752,2002,fire_station,Peoria Fire-Medical Station 196,-112.32468,33.73886
+6258953808,2005,post_office,The UPS Store,-112.28772,33.56427
+6956810629,2002,fire_station,Arizona Fire Medical Authority Fire Station 103,-112.35425,33.68233
+6956810649,2002,fire_station,Sun City Fire & Medical Department Fire Station 133,-112.29916,33.60448
+359286811,2005,post_office,Scottsdale Post Office,-111.92545,33.48732
+4840570425,2005,post_office,The UPS Store,-111.92641,33.50044
+359292698,2005,post_office,Arcadia Post Office,-111.99714,33.48057
+366219695,2002,fire_station,Phoenix Fire Station Number 13,-111.97873,33.4795
+359292747,2005,post_office,Tempe Post Office,-111.93555,33.39206
+1698683460,2007,library,Tempe Public Library,-111.92798,33.39151
+5269184027,2002,fire_station,,-111.9518,33.39548
+5237397141,2002,fire_station,Daisy Mountain Fire Station 146,-112.12782,33.92074
+5237425874,2002,fire_station,Daisy Mountain Fire Station 141,-112.07294,33.88317
+359292739,2005,post_office,Rio Salado Post Office,-112.05102,33.43612
+366219665,2002,fire_station,Phoenix Fire Station Number 36,-112.08544,33.68203
+359286797,2005,post_office,Northeast Station Post Office,-112.03181,33.49504
+359292728,2005,post_office,Northeast Post Office,-112.03828,33.51032
+366219701,2002,fire_station,Phoenix Fire Station Number 12,-112.01249,33.49866
+366219786,2002,fire_station,Phoenix Fire Station Number 17,-112.04838,33.51623
+366219941,2007,library,Little Library of Love,-111.98848,33.5098
+3111890473,2001,police,Mesa Police Dobson Station,-111.87893,33.37033
+3111898650,2002,fire_station,Mesa Fire Station 207,-111.87896,33.37016
+5243631113,2002,fire_station,Chandler Fire Health & Medical Station 282,-111.85843,33.33285
+5243656030,2002,fire_station,Chandler Fire Health & Medical Station 286,-111.828,33.31958
+5243751798,2002,fire_station,Gilbert Fire & Rescue Station 257,-111.80626,33.35418
+5243800075,2002,fire_station,Gilbert Fire & Rescue Station 2510,-111.81872,33.36468
+359287670,2005,post_office,Salt River Post Office,-111.86403,33.46671
+993732553,2002,fire_station,,-111.8237,33.41759
+1664695100,2001,police,,-111.86266,33.48731
+1664695172,2002,fire_station,Salt River Fire Station 291,-111.86201,33.48726
+2249777151,2007,library,,-111.82961,33.41823
+4326475906,2005,post_office,Mesa Post Office,-111.8309,33.41769
+5257346661,2002,fire_station,Salt River Fire Station 294,-111.83159,33.49465
+359292703,2005,post_office,Boulder Hills Post Office,-112.02758,33.67738
+359292707,2005,post_office,Cactus Post Office,-112.01901,33.62576
+366219766,2002,fire_station,Phoenix Fire Station Number 27,-112.01297,33.60044
+366219934,2007,library,George L Campbell Library,-112.01235,33.64878
+1779786772,2005,post_office,The UPS Store,-112.01103,33.64011
+366219854,2007,library,Century Branch Library,-112.04342,33.50596
+359286792,2005,post_office,McDowell Station Post Office,-112.02459,33.46532
+366219828,2007,library,Phoenix Library for the Blind and Physically Handicapped,-112.01332,33.45973
+366219866,2007,library,Phoenix Talking Book Library,-112.01319,33.45973
+5243729305,2002,fire_station,Gilbert Fire & Rescue Station 252,-111.72784,33.36441
+5243731292,2002,fire_station,Gilbert Fire & Rescue Station 253,-111.76935,33.36421
+359286781,2005,post_office,Laveen Post Office,-112.16886,33.36261
+366219679,2002,fire_station,Phoenix Fire Station Number 58,-112.16115,33.36334
+359286732,2005,post_office,Capitol Station Post Office,-112.11396,33.4517
+359292710,2005,post_office,Capitol Post Office,-112.13509,33.44717
+366219719,2002,fire_station,Phoenix Fire Station Number 14,-112.12746,33.46396
+420474721,2008,town_hall,Arizona State Land Department,-112.09388,33.44945
+420474722,2009,courthouse,Arizona Supreme Court,-112.09243,33.44747
+4533056486,2008,town_hall,Arizona Department of Administration,-112.09265,33.44889
+4533056487,2008,town_hall,Arizona Department of Revenue,-112.095,33.45046
+359286788,2005,post_office,Maryvale Post Office,-112.173,33.50054
+366219667,2002,fire_station,Phoenix Fire Station Number 34,-112.16948,33.44904
+366219860,2007,library,Arizona State Library Archives and Public Records Building,-112.173,33.4542
+4131708786,2009,courthouse,Maryvale Justice Court,-112.15964,33.49547
+359286778,2005,post_office,Indian School Station Post Office,-112.06362,33.50532
+359286823,2005,post_office,Sun City Post Office,-112.2711,33.63871
+3198055891,2005,post_office,FedEx Kinkos,-112.23446,33.6377
+5237321210,2002,fire_station,Sun City Fire & Medical Department Fire Station 131,-112.27382,33.63899
+5243934009,2002,fire_station,Glendale Fire Station 159,-112.19472,33.64026
+366219926,2007,library,Harmon Branch Library Phoenix City Public Library,-112.07992,33.43575
+366220021,2008,town_hall,Goodyear Town Hall,-112.35794,33.43588
+608480783,2002,fire_station,,-112.35854,33.48681
+609509890,2001,police,City of Goodyear,-112.35793,33.43624
+814577462,2002,fire_station,Goodyear Fire Department,-112.36932,33.44838
+4973255292,2007,library,Goodyear Branch Library,-112.36941,33.44934
+359292751,2005,post_office,Tempe South Station Post Office,-111.96252,33.34096
+1675449428,2002,fire_station,Phoenix Fire Department,-111.97846,33.33286
+1799680649,2005,post_office,Ahwatukee Post Office,-111.97583,33.34666
+2111568631,2005,post_office,The UPS Store,-111.92589,33.31912
+5244878486,2002,fire_station,Guadalupe Fire Station 241,-111.96288,33.3695
+6515263089,2005,post_office,PostNet,-111.98361,33.30445
+5462332029,2011,embassy,Honorary Consulate of the Czech Republic,-111.93067,33.58111
+366219633,2099,public_building,Gompers Rehabilitation Center,-112.06432,33.54226
+366219799,2002,fire_station,Phoenix Fire Station Number 20,-112.0835,33.53863
+4438369511,2007,library,Fountain Hills Branch Library,-111.72183,33.60283
+4728413696,2001,police,Maricopa County Sheriff's Office,-111.72096,33.6046
+5237425875,2002,fire_station,Fort McDowell Fire Station 401,-111.67852,33.58437
+5257293328,2002,fire_station,Rio Verde Fire Station 441,-111.67188,33.71858
+6019970897,2005,post_office,The UPS Store,-111.72777,33.61051
+6028575093,2002,fire_station,Rural/Metro Fire Station 822,-111.72512,33.61077
+2122860834,2005,post_office,The UPS Store,-111.8593,33.27461
+316881560,2001,police,ASU Police Department,-111.93434,33.41434
+366219939,2007,library,Noble Science Library,-111.9306,33.42
+5938102742,2005,post_office,The UPS Store,-111.93205,33.4225
+2871604699,2001,police,Community Police Station,-112.08336,33.5825
+5243668498,2002,fire_station,Chandler Fire Health & Medical Station 2510,-111.82331,33.23031
+359286818,2005,post_office,South Central Post Office,-112.06737,33.39255
+366219396,2099,public_building,South Phoenix Adult Center,-112.07034,33.38921
+366219663,2002,fire_station,Phoenix Fire Station Number 39,-112.10743,33.39253
+366219907,2007,library,Ocotillo Branch Library,-112.07617,33.39264
+366219958,2099,public_building,Phoenix South Mountain Park Headquarters,-112.08829,33.35548
+5243741275,2002,fire_station,Gilbert Fire & Rescue Station 254,-111.77086,33.32069
+359292696,2005,post_office,Airpark Post Office,-111.90467,33.61599
+975966345,2005,post_office,,-111.92167,33.69065
+2624164271,2008,town_hall,DMV (Department of Motor Vehicles),-111.92129,33.63264
+5819923963,2005,post_office,The UPS Store,-111.88835,33.6989
+6765225501,2005,post_office,The UPS Store,-111.89638,33.61957
+359292724,2005,post_office,Hopi Post Office,-111.89283,33.55355
+4029305322,2002,fire_station,,-111.87447,33.59762
+5257330256,2002,fire_station,Salt River Fire Station 293,-111.8684,33.53907
+366219669,2002,fire_station,Phoenix Fire Station Number 31,-111.9574,33.6119
+366219395,2099,public_building,Salt River Power Operations Department,-111.95209,33.44616
+5243650308,2002,fire_station,Chandler Fire Health & Medical Station 285,-111.87148,33.26117
+3384168460,2005,post_office,Glendale Post Office,-112.1878,33.58079
+5243833773,2002,fire_station,Glendale Fire Station 153,-112.18544,33.61378
+5243917013,2002,fire_station,Glendale Fire Station 157,-112.18709,33.57404
+366219737,2002,fire_station,Phoenix Fire Station Number 41,-112.11279,33.64855
+366219940,2007,library,Juniper Branch Library,-112.09837,33.65447
+2696565515,2005,post_office,Sierra Adobe Post Office,-112.10035,33.65526
+5243895814,2002,fire_station,Glendale Fire Station 155,-112.19409,33.65382
+5243896630,2001,police,Glendale Police Foothills Station,-112.19436,33.65368
+5243916881,2002,fire_station,GLendale Fire Station 156,-112.20585,33.68141
+5257121619,2002,fire_station,Peoria Fire-Medical Station 192,-112.25108,33.65189
+5257180332,2002,fire_station,Peoria Fire-Medical Station 197,-112.22661,33.72543
+1775759445,2007,library,Chandler Public Library-Hamilton Branch,-111.84286,33.25283
+3434687303,2002,fire_station,Chandler Fire Health & Medical Station 284,-111.94514,33.30719
+5243616890,2002,fire_station,Chandler Fire Health & Medical Station 283,-111.88475,33.29936
+5247682488,2005,post_office,The UPS Store,-111.89098,33.31889
+3449240428,2005,post_office,The UPS Store,-111.6345,33.37746
+359286728,2005,post_office,Buckhorn Post Office,-111.70347,33.41588
+359286749,2005,post_office,Desert Sage Post Office,-111.65208,33.41477
+4587504893,2005,post_office,,-111.73609,33.44214
+366219652,2002,fire_station,Phoenix Fire Station #28,-112.04705,33.37926
+5706203080,2005,post_office,The UPS Store,-112.03108,33.37935
+359286722,2005,post_office,Boys Ranch Post Office,-111.65069,33.26505
+1213828986,2005,post_office,Higley Post Office,-111.71853,33.32174
+4734645381,2005,post_office,The UPS Store,-111.72026,33.29068
+5243706470,2002,fire_station,Gilbert Fire & Rescue Station 251,-111.73132,33.30737
+5243745555,2002,fire_station,Gilbert Fire & Rescue Station 255,-111.70964,33.2782
+5243796125,2002,fire_station,Gilbert Fire and Rescue Station 9,-111.71735,33.24799
+5257259273,2002,fire_station,Queen Creek Fire & Medical Station 413,-111.67046,33.26387
+359286800,2005,post_office,Northwest Station Post Office,-112.11821,33.50838
+312813341,2005,post_office,Buckeye Post Office,-112.59133,33.36993
+312907553,2001,police,Buckeye Police Department,-112.57266,33.37237
+312907554,2009,courthouse,Buckeye Court House,-112.57274,33.3721
+312916369,2007,library,Kay Blanton Library,-112.58323,33.37274
+359286715,2005,post_office,Arlington Post Office,-112.76323,33.32504
+359286760,2005,post_office,Gila Bend Post Office,-112.71794,32.94782
+359286836,2005,post_office,Tonopah Post Office,-112.93907,33.47782
+366220023,2008,town_hall,Gila Bend Town Hall,-112.72016,32.94866
+366220027,2008,town_hall,Buckeye City Hall,-112.58405,33.37088
+835071670,2009,courthouse,Estrella Mountain Justice Court,-112.5176,33.43445
+1683568266,2005,post_office,"Tonopah, AZ",-112.93665,33.49212
+5237292334,2002,fire_station,Buckeye Valley Fire Station 327,-112.53958,33.42098
+5237292335,2002,fire_station,Buckeye Fire Medical-Rescue Station 702,-112.53844,33.42896
+5237321202,2002,fire_station,Buckeye Valley Fire Station 328,-112.69655,33.45283
+5237321207,2002,fire_station,Buckeye Valley Fire Station 329,-112.61353,33.67335
+5237425876,2002,fire_station,Gila Bend Fire Rescue Fire Station 381,-112.72137,32.94682
+5244894982,2002,fire_station,Harquahala Fire Station 371,-113.16243,33.43689
+5244939175,2002,fire_station,Harquahala Fire Station 372,-113.21845,33.3624
+5259169958,2002,fire_station,Arizona Fire Medical Authority Fire Station 341,-112.83913,33.40902
+5529535666,2007,library,Public Library,-112.5173,33.43448
+340139551,2005,post_office,,-111.75477,33.34595
+5257265498,2002,fire_station,Queen Creek Fire & Medical Station 412,-111.66852,33.22337
+366219870,2007,library,Phoenix Public Library,-112.07306,33.46251
+366219937,2007,library,Maricopa County Medical Society Medical Library,-112.06812,33.46799
+366219676,2002,fire_station,Phoenix Fire Station Number 7,-112.06814,33.57115
+366219443,2099,public_building,Santa Maria Adult Day Health Care,-111.99985,33.62582
+366219664,2002,fire_station,Phoenix Fire Station Number 37,-111.99645,33.63736
+366219747,2002,fire_station,Phoenix Fire Station #52,-111.97681,33.68283
+6249811683,2005,post_office,The UPS Store,-111.97637,33.6128
