@@ -1,0 +1,105 @@
+osm_id,code,fclass,name,lon,lat
+359281965,2082,school,Harding School,-111.1104,33.28783
+359281981,2082,school,J F Kennedy Elementary School,-111.11012,33.27811
+359282042,2082,school,Roosevelt Elementary School,-111.09984,33.29478
+359282052,2082,school,Superior High School,-111.09456,33.29506
+1772500468,2082,school,Peralta Trail Elementary School,-111.42786,33.34283
+3548854105,2012,community_centre,Boys & Girls Clubs of the East Valley Apache Junction Branch,-111.54476,33.43057
+3661315352,2083,kindergarten,Little Einstein Preschool,-111.5485,33.41215
+3661315359,2303,cafe,Starbucks,-111.54439,33.41397
+6359224299,2083,kindergarten,Head Start,-111.55077,33.42356
+6426933333,2303,cafe,Table of Grace,-111.54533,33.40542
+683859830,2501,supermarket,Fry's Marketplace,-111.56578,33.2181
+6359224086,2083,kindergarten,J.O. Combs Head Start,-111.56123,33.21971
+359260402,2082,school,Community Service Center and School,-111.88486,33.11727
+359260489,2082,school,Maricopa High School,-112.05403,33.05394
+359260492,2082,school,Maricopa Unified School,-112.04986,33.05422
+1736709413,2501,supermarket,Basha's,-112.0468,33.07117
+3733400662,2082,school,,-112.021,33.08638
+3733418763,2082,school,,-112.01487,33.04722
+198707526,2084,college,Central Arizona College Signal Peak Campus,-111.65222,32.95775
+359244123,2082,school,Central School,-111.75402,32.87895
+359245353,2082,school,East School,-111.7415,32.87308
+359249897,2082,school,Pima Central School,-111.73965,33.08074
+359251083,2082,school,Saint Peters Mission School,-111.87486,33.13616
+359251229,2082,school,Santan Day School,-111.76652,33.13978
+359251929,2082,school,South School,-111.75836,32.87168
+359252641,2082,school,Toltec School,-111.62113,32.78369
+359260392,2082,school,Casa Grande Junior High School,-111.75541,32.88784
+359260524,2082,school,North Junior High School,-111.75541,32.88811
+359260596,2082,school,Sacaton Public School,-111.75819,33.07922
+359260598,2082,school,Saguaro School,-111.75399,32.89047
+359260624,2082,school,Sawtooth School,-111.67235,32.57757
+359260638,2082,school,Toltec Elementary School,-111.61981,32.78416
+359260659,2082,school,Villa School,-111.61985,32.78978
+359261159,2082,school,Evergreen School,-111.7368,32.88422
+359261167,2082,school,Union High School,-111.74763,32.88034
+442339396,2082,school,Casa Grande Union High School,-111.7372,32.93525
+2079380135,2303,cafe,Starbucks,-111.7413,32.89543
+2686023484,2082,school,,-111.73486,32.90996
+3158796084,2501,supermarket,Safeway,-111.74156,32.89531
+3158804907,2082,school,,-111.71195,32.89296
+4240730294,2303,cafe,Kowee Coffee,-111.76006,33.06966
+4714049290,2402,motel,Quality Inn,-111.67149,32.81459
+359244383,2082,school,Clark School,-110.58871,32.65757
+359250352,2082,school,Ray Unified School District High School,-110.91261,33.06451
+359253094,2082,school,Vale District School,-110.59621,32.86646
+359260572,2082,school,Ray Unified School District Elementary School,-110.90983,33.06284
+359282032,2082,school,Oracle Middle School,-110.8005,32.61607
+2958081740,2084,college,Central Arizona College Aravaipa Campus,-110.70281,32.84875
+4862371346,2082,school,Ray Unified School District Middle School,-110.91159,33.06326
+4862371420,2303,cafe,Cosmic Coffee,-110.90536,33.05908
+4862372348,2303,cafe,West End Cafe,-110.91471,33.05342
+5326607254,2402,motel,San Manuel Lodge,-110.63182,32.61395
+6359224096,2083,kindergarten,Mammoth Head Start,-110.64999,32.72886
+359244118,2082,school,Central School,-111.55306,32.75432
+359245444,2082,school,Eleven Mile Corner School,-111.56735,32.89256
+359247500,2082,school,Kenilworth School,-111.48207,32.97451
+359251221,2082,school,Santa Cruz Valley High School,-111.5554,32.75951
+359251930,2082,school,South School,-111.52124,32.97617
+359253358,2082,school,West School,-111.52929,32.97451
+359260388,2082,school,Blackwater Community Center and School,-111.59624,33.03173
+359260416,2082,school,Curiel Elementary School Annex,-111.55929,32.74034
+359260418,2082,school,Curiel School,-111.55999,32.75985
+359260431,2082,school,Eloy Intermediate Elementary School,-111.54818,32.75979
+359260434,2082,school,Eloy Junior High School,-111.54846,32.75645
+359260442,2082,school,Florence Elementary School,-111.38484,33.02784
+359260446,2082,school,Florence Union High School,-111.37151,33.02256
+359260544,2082,school,Picacho Elementary School,-111.4979,32.71729
+457057970,2501,supermarket,,-111.56018,33.16062
+672990484,2501,supermarket,Safeway,-111.52164,32.99385
+6359224122,2083,kindergarten,Head Start,-111.55644,32.74924
+3218316183,2002,fire_station,,-111.46422,33.35453
+3047161500,2005,post_office,Postal Depot,-111.55096,33.41446
+3049352586,2008,town_hall,Apache Junction City Hall,-111.54286,33.42346
+913954079,2002,fire_station,Golder Ranch FD,-110.86666,32.55322
+3409870284,2001,police,Pinal County Sheriff's Office Saddlebrooke,-110.88763,32.53531
+1806454393,2008,town_hall,City of Maricopa - Temporary Town Hall,-112.05309,33.06126
+3733388579,2008,town_hall,City of Maricopa City Hall,-111.99437,33.04662
+3733388585,2001,police,Maricopa Police Department,-111.99379,33.04599
+5129896257,2001,police,Maricopa Police Station,-112.04452,33.04292
+5129896258,2002,fire_station,Maricopa Fire/Medical Department Station 574,-112.05032,33.048
+5129896259,2002,fire_station,Maricopa Fire/Medical Department Station 575,-112.0587,33.06505
+5483279878,2002,fire_station,Ak-Chin Firestation #561,-112.05549,33.02846
+2531368487,2007,library,Family History Library,-111.72785,32.89164
+2627705073,2008,town_hall,District 4 Service Center,-111.80279,33.16145
+3160587762,2002,fire_station,,-111.72347,32.88199
+3242616361,2005,post_office,United States Post Office,-111.75643,32.89657
+3409870278,2001,police,Pinal County Sheriff's Office Arizona City,-111.67166,32.75377
+3409870279,2001,police,Pinal County Sheriff's Office Casa Grande,-111.74275,32.89508
+4301467002,2007,library,Vista Grande Library,-111.71282,32.89366
+3409870281,2009,courthouse,Pinal County Court House Kearny,-110.9063,33.0592
+3409870283,2001,police,Pinal County Sheriff's Office Oracle,-110.7642,32.61409
+3409870285,2001,police,Pinal County Sheriff's Office San Manuel,-110.63031,32.61601
+4301467000,2001,police,Mammoth Police Department,-110.64136,32.72188
+4301467001,2007,library,Mammoth Public Library,-110.64117,32.72179
+4862371411,2005,post_office,Kearny Post Office,-110.90646,33.06021
+366219441,2099,public_building,Bureau of Indian Affairs Coolidge Office,-111.51846,32.97617
+3591728183,2005,post_office,,-111.33087,32.58137
+4301466999,2007,library,Florence Community Library,-111.38812,33.03904
+4709997561,2002,fire_station,Avra Valley Fire Station #194,-111.34343,32.56836
+4719302853,2002,fire_station,Eloy Fire District,-111.55082,32.74142
+4960220416,2009,courthouse,Coolidge Municipal Court,-111.51649,32.97789
+4960220418,2008,town_hall,City Hall,-111.51684,32.97787
+6166458445,2002,fire_station,Avra Valley Fire Station #193,-111.24402,32.55532
+6970789221,2002,fire_station,,-111.48416,33.05209

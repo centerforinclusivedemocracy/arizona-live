@@ -1,0 +1,51 @@
+osm_id,code,fclass,name,lon,lat
+359247042,2082,school,John F Kennedy School,-110.17177,33.89949
+359258545,2082,school,Rice Public School,-110.45288,33.35617
+305490161,2402,motel,Days Inn,-111.32278,34.23837
+359258423,2082,school,Central Heights School,-110.8115,33.41311
+359271062,2082,school,Pleasant Valley School,-110.96457,34.10032
+359280133,2082,school,Bullion Plaza School,-110.87122,33.39394
+359280343,2082,school,East Globe Elementary School,-110.77678,33.39506
+359280390,2082,school,Gila Community College - Gila Pueblo Campus,-110.76733,33.36478
+359280397,2082,school,Globe High School,-110.78122,33.39394
+359280474,2082,school,Inspiration School,-110.874,33.3945
+359280595,2082,school,Miami High School,-110.83456,33.41033
+359280602,2082,school,Middle School,-110.78329,33.39362
+359280609,2082,school,Midland School,-110.82289,33.40894
+359280654,2082,school,Oak Street School,-110.84039,33.407
+359280666,2082,school,Packard Elementary School,-111.31346,33.87115
+359280676,2082,school,Payson High School,-111.33264,34.2367
+359280683,2082,school,Payson Junior High School,-111.33097,34.23642
+359281487,2082,school,Blue Ridge Elementary School,-110.96874,34.1481
+359281490,2082,school,Blue Ridge Junior High School,-110.97596,34.15254
+761392678,2501,supermarket,Basha's,-111.32114,34.24222
+1615804927,2501,supermarket,Safeway,-111.31764,34.23973
+3868455298,2013,nursing_home,Copper Communities Hospice,-110.78718,33.39554
+4800520109,2402,motel,Knights Inn Payson,-111.33145,34.22624
+4800521345,2402,motel,Budget Inn,-111.32354,34.23725
+4800521347,2402,motel,Majestic Mountain Inn,-111.31384,34.24188
+6078136665,2303,cafe,Starbucks,-110.81672,33.42011
+6078137103,2402,motel,El Rey Motel,-110.7751,33.3954
+6561476916,2303,cafe,Starbucks,-111.31975,34.2411
+359258489,2082,school,Hayden Unified School,-110.7715,32.99035
+359258509,2082,school,Leonor Hamble Junior High School,-110.77038,32.99395
+359258596,2082,school,Winkelman Elementary School,-110.77149,32.99034
+359285913,2082,school,Hayden High School,-110.77149,32.99312
+6359223863,2083,kindergarten,Winkelman Head Start,-110.77157,32.99013
+359280698,2082,school,Pine School,-111.45514,34.38781
+359287038,2005,post_office,Peridot Post Office,-110.4543,33.31466
+359287047,2005,post_office,San Carlos Post Office,-110.45149,33.352
+366219428,2099,public_building,San Carlos Indian Agency,-110.45177,33.35172
+366219917,2001,police,San Carlos Police Station,-110.46649,33.35367
+359274162,2005,post_office,Tonto Basin Post Office,-111.30124,33.83949
+359287018,2005,post_office,Claypool Post Office,-110.84317,33.41033
+359287032,2005,post_office,Miami Post Office,-110.86622,33.40033
+359287043,2005,post_office,Punkin Center Post Office,-111.31374,33.87282
+366219783,2002,fire_station,Payson Fire Station,-111.3311,34.23146
+366219911,2007,library,Old Dominion Library,-110.79178,33.40672
+1111886658,2002,fire_station,Payson Fire Dept Sta. #,-111.32197,34.25637
+5231509626,2002,fire_station,Tri-City Fire,-110.77274,33.38278
+5231510690,2002,fire_station,Tri-City Fire,-110.84322,33.41088
+5859881955,2007,library,Payson Public Library,-111.33208,34.24478
+4017568811,2001,police,Hayden Police Department,-110.78557,33.00488
+359287041,2005,post_office,Pine Post Office,-111.45514,34.3867

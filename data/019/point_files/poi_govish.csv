@@ -1,0 +1,65 @@
+,osm_id,code,fclass,name,lon,lat
+0,359286861,2005,post_office,Mount Lemmon Post Office,-110.76028,32.44513
+1,449539850,2002,fire_station,Rincon Valley,-110.68825,32.09093
+2,453952030,2002,fire_station,Mt Lemmon Fire Department,-110.75468,32.44884
+3,1735987085,2002,fire_station,,-110.771,31.96019
+4,1735987088,2005,post_office,,-110.77183,31.95857
+5,359286865,2005,post_office,Sahuarita Post Office,-110.95676,31.9573
+6,1735987086,2002,fire_station,,-110.79779,31.93931
+7,3793345933,2007,library,Pima County Library (Sahuarita),-110.98022,31.95673
+8,3795580949,2001,police,Town of Sahuarita,-110.97499,31.95641
+9,3795588558,2008,town_hall,Town of Sahuarita,-110.97556,31.95599
+10,3795588559,2008,town_hall,Town of Sahuarita Municipal Courthouse,-110.97538,31.95705
+11,4751683705,2007,library,Pima County Library,-110.8734,32.27519
+12,3050165439,2002,fire_station,Drexel Heights Fire Station #405,-111.11327,32.12075
+13,3789480680,2001,police,Pascua Yaqui Police,-111.06369,32.10976
+14,3789659973,2002,fire_station,Drexel Heights Fire Station #402,-111.07239,32.1362
+15,4198142826,2002,fire_station,Drexel Heights Fire Station #403,-111.02925,32.14328
+16,6166903643,2002,fire_station,Drexel Heights Fire Station #404,-111.08899,32.18408
+17,6166952186,2002,fire_station,Drexel Heights Fire Station #401,-111.10641,32.16009
+18,6166978913,2005,post_office,U.S. Post Office,-111.06489,32.13473
+19,3839954520,2005,post_office,Mail Well Shipping,-110.92051,32.48284
+20,4313766046,2007,library,Sun City Oro Valley Library,-110.94891,32.4619
+21,4840545642,2005,post_office,United States Post Office Contract Unit,-110.84642,32.30946
+22,359286873,2005,post_office,College Station,-110.95919,32.23205
+23,410423207,2007,library,Arizona Health Sciences Library,-110.94678,32.24001
+24,359286870,2005,post_office,Speedway Post Office,-110.92065,32.23674
+25,3162369561,2005,post_office,,-110.99486,32.42267
+26,4318911374,2002,fire_station,Golder Ranch Fire District Station 375,-110.96793,32.42571
+27,359286854,2005,post_office,Kino Post Office,-110.97981,32.2473
+28,5546715883,2005,post_office,PostNet,-110.94274,32.26006
+29,5843323485,2005,post_office,The UPS Store,-110.96298,32.2511
+30,359286845,2005,post_office,,-110.87703,32.22924
+31,359286852,2005,post_office,Emery Park Post Office,-110.96204,32.14036
+32,359286849,2005,post_office,Downtown Post Office,-110.96838,32.22044
+33,373884492,2007,library,Pima County Public Library (Joel D. Valdez Main Branch),-110.97195,32.22357
+34,2576112116,2002,fire_station,Tuscon Fire Department Station 1,-110.97182,32.21799
+35,2576118880,2001,police,Tucson Police Station,-110.97104,32.21759
+36,4423184136,2007,library,Pima Community College Downtown Library,-110.97293,32.23666
+37,366219923,2001,police,Pima County Sheriffs Office,-112.85765,32.38339
+38,366219905,2001,police,Arizona State Highway Patrol,-110.96037,32.2073
+39,4802852066,2005,post_office,Cherrybell Station,-110.94587,32.2044
+40,5072218287,2002,fire_station,,-110.99858,32.19897
+41,304811068,2002,fire_station,Picture Rock Fire Department Maintenance Shop,-111.21863,32.32476
+42,359286858,2005,post_office,Marana Post Office,-111.23538,32.45952
+43,366219401,2099,public_building,Papago Indian Tribal Council,-111.88262,31.91397
+44,366219402,2099,public_building,Papago Indian Agency,-111.8829,31.91202
+45,366219921,2001,police,Marana Sheriffs Office,-111.23455,32.45979
+46,1011975271,2002,fire_station,PIcture Rocks Fire Station,-111.21718,32.3387
+47,2372875721,2005,post_office,Sasabe Post Office,-111.54289,31.4881
+48,3789458696,2002,fire_station,Three Points Fire District - Station 302,-111.21664,32.13451
+49,3789458698,2001,police,Pima County Sheriff Outpost,-111.21866,32.31848
+50,3793072315,2002,fire_station,Northwest Fire Station,-111.213,32.45134
+51,3793081080,2008,town_hall,Marana,-111.21097,32.44776
+52,3793113726,2002,fire_station,Avra Valley Fire Station #191,-111.30276,32.44443
+53,4149746118,2002,fire_station,Three Points Fire District - Station 301,-111.26353,32.01412
+54,4150002289,2002,fire_station,Three Points Fire District - Station 303,-111.31901,32.06282
+55,6166443922,2002,fire_station,Avra Valley Fire Station #192,-111.3208,32.32101
+56,2807664862,2002,fire_station,,-111.02845,32.3369
+57,3789357777,2002,fire_station,Northwest Fire Station,-111.08084,32.443
+58,3789394213,2002,fire_station,Northwest Fire Station #39,-111.04721,32.42624
+59,3814303479,2002,fire_station,Northwest Fire District - Station 38,-111.06798,32.36077
+60,5002588296,2005,post_office,us post office,-111.04792,32.35086
+61,5041582854,2005,post_office,The UPS Store,-111.09865,32.34991
+62,3798785801,2002,fire_station,Northwest Fire District - Station #34,-111.11378,32.35558
+63,6167041909,2002,fire_station,Northwest Fire Station #41,-111.18579,32.42557

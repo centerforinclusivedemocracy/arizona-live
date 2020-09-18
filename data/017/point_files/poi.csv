@@ -1,0 +1,108 @@
+osm_id,code,fclass,name,lon,lat
+359242043,2082,school,Apache Mission School,-110.48178,34.02116
+359244346,2082,school,Cibecue Day School,-110.494,34.03394
+359273205,2082,school,Snowflake Junior High School,-110.08234,34.49059
+359281523,2082,school,Clay Springs School,-110.29789,34.27615
+359281747,2082,school,Pinedale School,-110.24873,34.30448
+359281816,2082,school,Whipple Ranch Elementary School,-110.04539,34.26143
+359281819,2082,school,Show Low Jr High School,-110.04868,34.25807
+359281823,2082,school,Nikolaus Homestead Elementary School,-110.034,34.24921
+359281827,2082,school,Sitgreaves School,-110.5529,34.38921
+359281831,2082,school,Sitgreaves School,-110.59624,34.42726
+359281836,2082,school,Snowflake Taylor Elementary School,-110.08595,34.46393
+359288112,2084,college,"Northland Pioneer College, White Mountain Campus",-110.05442,34.24314
+359288244,2082,school,Mogollon High School,-110.58512,34.43532
+4291392383,2303,cafe,Sugar Bears,-110.52687,34.39202
+4670167590,2501,supermarket,Walmart Supercenter,-110.08504,34.47358
+4800536528,2402,motel,Super 8 Show Low,-110.06042,34.23874
+4800536529,2402,motel,Days Inn Show Low,-110.04739,34.24843
+359248528,2082,school,Mennonite Mission,-109.87539,35.48474
+359246722,2082,school,Hotevilla School,-110.66708,35.92167
+359248820,2082,school,Kayenta High School,-110.24431,36.72833
+359250832,2082,school,Rocky Ridge School,-110.59319,36.07194
+359253410,2082,school,Whippoorwill School,-110.08068,36.02973
+359260114,2082,school,Kayenta Boarding School,-110.2527,36.72915
+359260120,2082,school,Kayenta Preschool,-110.25485,36.72472
+359260125,2082,school,Keams Canyon Boarding School,-110.1904,35.81028
+359260132,2082,school,Keams Canyon Day School,-110.18985,35.80973
+359260173,2082,school,Pinon Boarding School,-110.22402,36.10139
+359260184,2082,school,Polacca Day School,-110.38874,35.83056
+359260231,2082,school,Tribal Headstart Preschool,-110.49847,35.80501
+359261287,2082,school,Hopi Mission School,-110.60744,35.88023
+359261291,2082,school,Oraibi Day School,-110.61537,35.87595
+359285840,2082,school,Second Mesa Day School,-110.50604,35.79296
+359290707,2082,school,Jeddito Elementary Public School,-110.13889,35.77222
+434584010,2501,supermarket,Basha's,-110.25124,36.70955
+2174996410,2402,motel,Hopi Cultural Center,-110.52882,35.84395
+359241866,2082,school,Alchesay High School,-109.96871,33.83338
+359245334,2082,school,East Fork Mission School,-109.93204,33.79783
+359251404,2082,school,Sevenmile School,-109.96704,33.78922
+359252489,2082,school,Theodore Roosevelt Indian School,-109.98815,33.79005
+359260248,2082,school,Whiteriver Elementary School,-109.96816,33.83449
+359241760,2082,school,Seba Dalkai School,-110.44819,35.49973
+359245024,2082,school,Dilcon School,-110.33041,35.37001
+359245029,2082,school,Dilkon Indian Mission,-110.33457,35.33585
+359249022,2082,school,Navajo Mission School,-110.19423,34.88536
+359253702,2082,school,Yahta Indian School,-110.16316,34.90562
+359260087,2082,school,Holbrook Junior High School,-110.16318,34.90527
+359260096,2082,school,Hulet Elementary School,-110.16328,34.90486
+359260107,2082,school,Joseph City Elementary School,-110.32772,34.96596
+359260182,2082,school,Pittman Elementary School,-110.16734,34.90558
+359260196,2082,school,Roosevelt Elementary School,-110.69736,35.01669
+359260215,2082,school,Sheldon Elementary School,-110.1604,34.90253
+359260237,2082,school,Washington Elementary School,-110.69982,35.02643
+663822631,2402,motel,Econo Lodge,-110.72421,35.03588
+1984017668,2083,kindergarten,,-110.06344,34.96649
+1984017688,2083,kindergarten,,-110.04559,34.96649
+2471564112,2402,motel,Motel 6 Holbrook,-110.13552,34.93319
+2882822522,2501,supermarket,Safeway,-110.16731,34.9033
+4078299300,2402,motel,Golden Inn of Holbrook,-110.1338,34.93489
+4078299301,2402,motel,Howard Johnson Holbrook,-110.13288,34.93583
+4078299302,2402,motel,Quality Inn,-110.13324,34.93548
+4078299303,2402,motel,Travelodge Holbrook,-110.13719,34.93173
+4078299304,2402,motel,Econo Lodge,-110.14232,34.9278
+4078299305,2402,motel,Super 8 Holbrook,-110.14957,34.92061
+4120933477,2402,motel,Delta Motel,-110.7256,35.03614
+4120933478,2402,motel,Rodeway Inn,-110.71684,35.0339
+4120933479,2402,motel,Rest Inn,-110.71715,35.03189
+4120933480,2402,motel,Winslow Inn,-110.70441,35.02663
+4120933481,2402,motel,Motel 10,-110.70513,35.02693
+4120933482,2402,motel,Price Right Motel,-110.68619,35.02005
+4120933483,2402,motel,Desert Sun Motel,-110.68721,35.02041
+4415921193,2402,motel,Brad's Desert Inn,-110.16216,34.90183
+5126087426,2402,motel,Americas Best Value Inn,-110.15782,34.90638
+5126087436,2402,motel,Sahara Inn,-110.13856,34.93005
+359286693,2005,post_office,Aripine Post Office,-110.4029,34.37393
+359287135,2005,post_office,Clay Springs Post Office,-110.29651,34.36254
+359287161,2005,post_office,Overgaard Post Office,-110.55401,34.38893
+359287165,2005,post_office,Pinedale Post Office,-110.24956,34.30643
+366219771,2002,fire_station,Chuck Box Fire Station,-110.66984,34.24449
+366219774,2002,fire_station,Limestone Fire Station,-110.27317,34.18004
+359287145,2005,post_office,Hotevilla Post Office,-110.66847,35.9225
+359287152,2005,post_office,Kayenta Post Office,-110.25597,36.72417
+359287154,2005,post_office,Keams Canyon Post Office,-110.19707,35.81167
+359287158,2005,post_office,Oraibi Post Office,-110.61847,35.875
+359287170,2005,post_office,Pinon Post Office,-110.22652,36.10083
+359287174,2005,post_office,Polacca Post Office,-110.38096,35.8375
+359287177,2005,post_office,Second Mesa Post Office,-110.49569,35.79195
+366219435,2099,public_building,Hopi Tribal Offices - Polacca,-110.38124,35.83667
+366219616,2099,public_building,Hopi Tribal Offices,-110.62326,35.86855
+359287139,2005,post_office,Fort Apache Post Office,-109.9876,33.79088
+359287167,2005,post_office,Pinetop Post Office,-109.93733,34.12477
+359287184,2005,post_office,White Mountain Lake Post Office,-109.99233,34.3531
+359287186,2005,post_office,Whiteriver Post Office,-109.96454,33.83477
+366219658,2002,fire_station,Whiteriver Fire Station,-109.96621,33.83616
+366219997,2099,public_building,Arizona Game and Fish Region One Office,-109.92066,34.12421
+366220055,2008,town_hall,Whiteriver City Hall,-109.96454,33.83616
+4962957805,2001,police,,-109.97634,34.15245
+359287142,2005,post_office,Holbrook Post Office,-110.15679,34.90197
+359287149,2002,fire_station,Joseph City Fire District,-110.33399,34.9557
+359287190,2005,post_office,Winslow Post Office,-110.69681,35.02378
+366219841,2007,library,Winslow Public Library,-110.69847,35.03391
+366219848,2007,library,Holbrook Library,-110.16068,34.90503
+366220004,2099,public_building,Winslow Civic Center,-110.71625,35.01808
+366220044,2008,town_hall,Winslow City Hall,-110.69791,35.02224
+366220052,2008,town_hall,Holbrook City Hall,-110.16068,34.90558
+5129798295,2001,police,Sheriff Navajo County,-110.15919,34.90258
+5809473822,2005,post_office,UPS Sorting Center,-110.14448,34.92398
+6179214813,2005,post_office,Joseph City,-110.32539,34.95623

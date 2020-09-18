@@ -1,0 +1,75 @@
+osm_id,code,fclass,name,lon,lat
+359245902,2082,school,General Myers School,-110.35869,31.55259
+359257923,2082,school,Bella Vista School,-110.28147,31.56315
+359257927,2082,school,Benson Elementary School,-110.30063,31.96314
+359257929,2082,school,Benson High School,-110.30063,31.96536
+359257933,2082,school,Benson Junior High School,-110.2998,31.96425
+359258203,2082,school,Pomerene Elementary School,-110.28646,31.99869
+359258249,2082,school,Saint David Elementary School,-110.22007,31.90592
+359258252,2082,school,Saint David High School,-110.21924,31.90592
+359258359,2082,school,Walter J Meyer School,-110.06008,31.7162
+359263629,2082,school,Cascabel School,-110.38563,32.30202
+663041632,2501,supermarket,Commissary,-110.35067,31.55841
+2960336608,2501,supermarket,Fry's,-110.25355,31.55622
+3489125273,2303,cafe,Fat possum coffehouse,-110.30841,31.97091
+3880926786,2501,supermarket,Safeway,-110.27587,31.55301
+4593637366,2303,cafe,Broxton's Coffee,-110.28981,31.55346
+4651511283,2402,motel,Tombstone Sagebrush Inn,-110.06578,31.71591
+4651511284,2402,motel,Larian Motel,-110.06618,31.71373
+4651511285,2402,motel,Budget Host Inn Tombstone,-110.06527,31.71337
+4651511286,2402,motel,Bella Union's Adobe Lodge Motel,-110.06566,31.7128
+4651511287,2402,motel,Trail Rider's Inn Motel,-110.06347,31.7133
+4651511288,2402,motel,Katie's Cozy Cabins,-110.07176,31.71448
+5035649918,2501,supermarket,Food City,-110.25491,31.55347
+359244635,2082,school,Cottonwood Creek School,-109.12839,31.4501
+359245070,2082,school,Cochise SDA Christian School,-109.91956,31.39252
+359247833,2082,school,Lincoln School,-109.92723,31.44595
+359251080,2082,school,Saint Patrick School,-109.92175,31.44327
+359257857,2082,school,A Avenue School,-109.54451,31.34982
+359257861,2082,school,Apache Junior High School,-109.52896,31.35121
+359258006,2082,school,Douglas High School,-109.53784,31.35066
+359258091,2082,school,Joe Carlson School,-109.54451,31.34677
+359258170,2082,school,Old Bisbee High School,-109.91703,31.44296
+359258198,2082,school,Pirtleville School,-109.56868,31.36066
+359258261,2082,school,Sarah Marley School,-109.55034,31.34094
+3282464413,2303,cafe,Bisbee Coffee Company,-109.91485,31.44161
+4335719649,2501,supermarket,Safeway,-109.91723,31.40122
+359257950,2082,school,Bowie Elementary School,-109.48825,32.32412
+359257951,2082,school,Bowie High School,-109.48983,32.3253
+359258255,2082,school,San Simon Elementary School,-109.22414,32.26655
+359258259,2082,school,San Simon High School,-109.22287,32.26643
+1989900451,2501,supermarket,Safeway,-109.84236,32.26318
+2683250792,2082,school,Willcox Middle School,-109.84235,32.25769
+3487777687,2084,college,Cochise College Willcox Center,-109.84204,32.25876
+3487777688,2082,school,Willcox High School,-109.8421,32.25624
+5084581608,2012,community_centre,Bowie Community Center,-109.4891,32.32654
+359242141,2082,school,Ash Creek School,-109.63701,31.87676
+359245422,2082,school,El Dorado School,-109.40537,32.00622
+359250940,2082,school,Rucker School,-109.4802,31.7434
+359252182,2082,school,Sulphur Spring School,-109.77979,32.05147
+359253117,2082,school,Valley Union High School,-109.68174,31.68593
+359258013,2082,school,Elfrida Elementary School,-109.67979,31.6862
+359258192,2082,school,Pearce Elementary School,-109.82423,31.90148
+359287000,2005,post_office,Palominas Post Office,-110.12132,31.3793
+359287007,2005,post_office,Saint David Post Office,-110.22384,31.90547
+359287012,2005,post_office,Tombstone Post Office,-110.06591,31.71231
+366219996,2099,public_building,Coronado Memorial Headquarters,-110.2559,31.34601
+366220062,2008,town_hall,Benson City Hall,-110.29757,31.96508
+2960337839,2007,library,Sierra Vista Public Library,-110.27139,31.5653
+3857986657,2008,town_hall,,-110.29875,31.96674
+4082281926,2001,police,Benson Police Department,-110.29401,31.96484
+4622435266,2005,post_office,The UPS Store,-110.27635,31.55312
+359286977,2005,post_office,Bisbee Post Office,-109.91529,31.44153
+359286992,2005,post_office,Huachuca Terrace Post Office,-109.92785,31.39786
+359286998,2005,post_office,Naco Post Office,-109.94646,31.33566
+366219430,2011,embassy,Mexican Consulate,-109.55396,31.34399
+366220063,2008,town_hall,Bisbee City Hall,-109.91313,31.44177
+1086135407,2001,police,POE,-109.55976,31.33472
+4048434567,2007,library,Bisbee Public Library,-109.91542,31.44155
+5043881043,2001,police,Cochise County Sheriff’s Office,-109.8718,31.43284
+5043881044,2009,courthouse,Bisbee Justice Court,-109.87186,31.43268
+5084582733,2009,courthouse,Bowie Justice Court Precinct #6,-109.4869,32.32746
+359286995,2005,post_office,McNeal Post Office,-109.66979,31.60065
+359287003,2005,post_office,Pearce Post Office,-109.82979,31.9362
+3542898198,2007,library,Alice Woods Library,-109.63648,31.87684
+6323198246,2002,fire_station,Elfrida Fire Station,-109.68691,31.67929

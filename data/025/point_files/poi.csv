@@ -1,0 +1,151 @@
+osm_id,code,fclass,name,lon,lat
+359261970,2082,school,Beaver Creek School,-111.76515,34.65641
+359263526,2082,school,South Verde High School,-111.85421,34.56279
+359263973,2082,school,Christian Indian School,-111.89043,34.75196
+359264356,2082,school,Cottonwood-Oak Creek School,-112.02405,34.74058
+359269541,2082,school,Montezuma School,-112.00155,34.68252
+359270145,2082,school,Oak Creek School,-111.90321,34.73946
+359274812,2082,school,Verde Valley School,-111.80599,34.80474
+359278624,2082,school,Camp Verde Elementary School,-111.86071,34.58891
+359278671,2082,school,Clarkdale Elementary School,-112.05294,34.7728
+359278674,2082,school,Clarkdale Junior High School,-112.05599,34.77113
+359278679,2082,school,Clemenceau Public School,-112.02627,34.7403
+359278903,2082,school,Indian Bible Academy,-112.02682,34.73252
+359279247,2082,school,Seventh Day Adventist School,-112.01738,34.74391
+591063824,2303,cafe,Starbucks,-111.88189,34.57557
+996920679,2402,motel,Days Inn Kokopelli,-111.76246,34.78169
+996920681,2303,cafe,Desert Flour Bistro & Bakery,-111.76343,34.78176
+996920682,2303,cafe,Red Rock Cafe,-111.76426,34.77885
+2915063801,2303,cafe,Wild Rose Tea House,-112.02721,34.74961
+5797702757,2501,supermarket,Bashas,-111.86472,34.56701
+6504524300,2303,cafe,Firecreek Coffee,-111.76338,34.77902
+6512421540,2303,cafe,Miley's Cafe,-111.76405,34.7752
+6719099273,2303,cafe,Starbucks,-112.00294,34.7214
+6974966485,2501,supermarket,Family Dollar,-111.90059,34.71726
+359257405,2082,school,Seligman Elementary and High School,-112.87407,35.32973
+359278483,2082,school,Ash Fork Elementary School,-112.4874,35.22223
+359278486,2082,school,Ash Fork High School,-112.48629,35.22084
+359279438,2082,school,West Sedona Elementary School,-112.78824,34.86391
+1183476189,2402,motel,,-112.87244,35.32631
+1183477758,2402,motel,,-112.87416,35.32625
+1183479535,2402,motel,,-112.88227,35.32846
+2886441229,2501,supermarket,,-112.87543,35.32733
+3630546867,2303,cafe,Roadrunner,-112.87598,35.32662
+359278893,2082,school,Humboldt Elementary School,-112.23905,34.50447
+359279026,2082,school,Mayer Elementary School,-112.24183,34.40003
+359279029,2082,school,Mayer High School,-112.2435,34.40142
+359279154,2082,school,Prescott Old Junior High School,-112.266,34.54141
+359279540,2082,school,Yarbo School,-112.15766,34.54947
+2172279233,2501,supermarket,Safeway,-112.3299,34.58724
+2915013714,2303,cafe,Red Rooster Cafe,-112.02712,34.74689
+2915059719,2303,cafe,Old Town Cafe,-112.02715,34.74867
+2915063601,2303,cafe,Crema Cafe,-112.02714,34.7474
+2915384001,2501,supermarket,Food City,-112.0104,34.72734
+3291490360,2012,community_centre,CASA Senior & Community Center,-112.30124,34.61059
+3660665441,2402,motel,Pines Motel,-112.00636,34.72276
+3660689953,2501,supermarket,Safeway,-112.00782,34.72742
+4599133499,2082,school,Orme School,-112.07083,34.43197
+4917628751,2303,cafe,Blur Hills Cafe,-112.25082,34.54731
+4917628955,2402,motel,America's Best Value Inn,-112.32044,34.58464
+6698110611,2303,cafe,Dutch Bros. Coffee,-112.01084,34.72833
+6719099272,2402,motel,Super 8,-112.00789,34.72509
+6719099277,2501,supermarket,Fry's Food & Drug,-112.00318,34.71836
+6719102664,2303,cafe,Jerona,-112.02166,34.73905
+359249802,2082,school,Peeples Valley School,-112.72184,34.28391
+359252511,2082,school,Thompson Valley School,-112.91546,34.42169
+359257090,2082,school,Bagdad Elementary School,-113.18186,34.57363
+359257092,2082,school,Bagdad High School,-113.18242,34.57502
+359257184,2082,school,Congress School,-112.84713,34.16114
+359257203,2082,school,Daniel C Lincoln Elementary School,-113.17242,34.5803
+359273140,2082,school,Skull Valley Ranch School,-112.69129,34.47364
+359278928,2082,school,Kirkland Elementary School,-112.71129,34.41836
+359279262,2082,school,Skull Valley Elementary School,-112.67018,34.50169
+359279481,2082,school,Williamson Valley School,-112.87907,34.80391
+3157641801,2303,cafe,,-112.85258,34.16189
+4102571582,2402,motel,Southwest Inn at Sedona,-111.81724,34.86117
+4102571583,2402,motel,Sedona Real Inn and Suites,-111.81596,34.8609
+6086213205,2303,cafe,Starbucks,-111.80062,34.86469
+6502805968,2303,cafe,Starbucks,-111.79301,34.86354
+359266856,2082,school,Hicks School,-112.47239,34.57252
+359268083,2082,school,Liberty Traditional School,-112.33489,34.59114
+359278659,2082,school,Chino Valley School,-112.45378,34.74613
+1946567102,2082,school,Mountain Oak School,-112.481,34.5689
+1973196873,2303,cafe,Method Coffee,-112.45686,34.60036
+4098955780,2402,motel,Antelope Hills Inn,-112.43301,34.64443
+4580020401,2501,supermarket,Fry's Food,-112.34165,34.58823
+5098155778,2303,cafe,Open Book Cafe & Coffeehouse,-112.33508,34.59522
+5154581896,2303,cafe,Eagles Cafe,-112.4192,34.64814
+5315598201,2501,supermarket,Walmart Supercenter,-112.3414,34.59245
+6374869760,2303,cafe,Dutch Bros. Coffee,-112.45822,34.598
+6374869764,2501,supermarket,Sprouts Farmers Market,-112.36398,34.57439
+359264866,2082,school,Dexter School,-112.47156,34.55086
+359268257,2082,school,Lincoln School,-112.47628,34.54082
+359269442,2082,school,Miller Valley School,-112.48267,34.5578
+359271276,2082,school,Prescott High School,-112.47711,34.56308
+359271279,2082,school,Mile High Middle School,-112.47156,34.53752
+359271288,2082,school,Primavera School,-112.49823,34.52586
+359272359,2082,school,Sacred Heart School,-112.47406,34.54364
+359274937,2082,school,Washington Traditional School,-112.46521,34.54228
+359275578,2084,college,Yavapai College,-112.4549,34.54726
+1973196887,2501,supermarket,Fry's Food Store,-112.48244,34.55428
+1976214121,2303,cafe,Dinner Bell Cafe,-112.47255,34.54176
+1976214124,2303,cafe,Gurley Street Coffee,-112.47239,34.54209
+1993114050,2501,supermarket,Sprouts Farmers Market,-112.46769,34.5467
+1993114056,2303,cafe,Yogurtz,-112.46851,34.54575
+1995762077,2501,supermarket,Safeway,-112.48446,34.56147
+3007453223,2082,school,,-112.42773,34.55732
+4917628748,2402,motel,Motel 6,-112.45577,34.54432
+5143469021,2084,college,Prescott College,-112.47669,34.54504
+5144026321,2303,cafe,Crossoads Cafe,-112.47716,34.54508
+5917161038,2501,supermarket,Trader Joe's,-112.40531,34.5487
+5989522695,2303,cafe,Starbucks,-112.4694,34.54667
+359257382,2082,school,Rincon School,-112.74351,34.03225
+359244203,2082,school,Champie School,-112.35012,34.01952
+359257124,2082,school,Black Canyon School,-112.1546,34.0717
+3054672098,2402,motel,,-112.15623,34.19396
+3729436246,2402,motel,Bradshaw Mountain Guest Ranch,-112.33911,34.20586
+359274898,2082,school,Walnut Grove School,-112.54962,34.28197
+359278705,2082,school,Crown King Elementary School,-112.33916,34.20751
+3726140134,2402,motel,Bradshaw Mountain Guest Ranch,-112.33826,34.20505
+3729436247,2402,motel,Crown King Saloon,-112.33905,34.20609
+359286703,2005,post_office,Rimrock Post Office,-111.7851,34.64488
+359286892,2005,post_office,Camp Verde Post Office,-111.86141,34.56528
+359286906,2005,post_office,Cornville Post Office,-111.92302,34.71743
+359286908,2005,post_office,Cottonwood Post Office,-112.02127,34.74002
+359286928,2005,post_office,Lake Montezuma Post Office,-111.77737,34.63224
+996714697,2002,fire_station,Sedona Fire District Station #3 Village of Oak Creek,-111.76487,34.7798
+996731453,2001,police,Yavapai County Sheriff,-111.7641,34.78182
+2915032301,2008,town_hall,City Hall,-112.0271,34.74664
+3847417730,2002,fire_station,Camp Verde Fire Station #83,-111.8549,34.55511
+359286882,2005,post_office,Ash Fork Post Office,-112.48573,35.22307
+359286914,2005,post_office,Dewey Post Office,-112.24238,34.52947
+359286917,2005,post_office,Humboldt Post Office,-112.23877,34.50141
+359286924,2005,post_office,Jerome Post Office,-112.11668,34.75155
+359286932,2005,post_office,Mayer Post Office,-112.23711,34.39808
+366220040,2008,town_hall,Jerome Town Hall,-112.1141,34.7483
+4423010992,2005,post_office,The UPS Store,-112.32938,34.58712
+6097092577,2001,police,,-112.05742,34.77227
+359286885,2005,post_office,Bagdad Post Office,-113.17992,34.57419
+359286902,2005,post_office,Congress Post Office,-112.8524,34.16169
+359286945,2005,post_office,Yarnell Post Office,-112.74754,34.22182
+942898065,2001,police,Sedona Police,-111.81391,34.86291
+942899778,2001,police,,-111.81391,34.86291
+3571217193,2009,courthouse,Sedona Magistrate Court,-111.81371,34.86273
+3571217194,2008,town_hall,Sedona City Hall,-111.81372,34.86286
+359286895,2005,post_office,Chino Valley Post Office,-112.46573,34.75336
+359286921,2005,post_office,Iron Springs Post Office,-112.57323,34.5853
+3291492164,2007,library,Prescott Valley Public Library,-112.33486,34.59522
+3291492167,2008,town_hall,Town of Prescott Valley,-112.33395,34.59581
+4640687543,2005,post_office,,-112.3335,34.63524
+359286935,2005,post_office,Miller Valley Post Office,-112.47838,34.54805
+359286938,2005,post_office,Prescott Post Office,-112.46913,34.53969
+2457071218,2002,fire_station,Prescott Fire Department Station #75,-112.40378,34.55022
+5160126010,2007,library,Ft Whipple Library,-112.45267,34.55539
+5160126011,2005,post_office,Post Office / Mailroom,-112.45307,34.55537
+5160126125,2001,police,Police / Security / Logistics,-112.45246,34.55173
+5716409015,2002,fire_station,Central Yavapai Fire District Station #52,-112.56396,34.56391
+359286889,2005,post_office,Black Canyon City Post Office,-112.15122,34.06564
+359286911,2005,post_office,Crown King Post Office,-112.33878,34.20559
+3722356072,2002,fire_station,,-112.33911,34.20574
+5140680189,2001,police,Yavapai County Sheriff's Sub-Station,-112.14313,34.06135
+5237375277,2002,fire_station,Daisy Mountain Fire Station 143,-112.1472,34.05922

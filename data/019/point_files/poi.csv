@@ -1,0 +1,312 @@
+osm_id,code,fclass,name,lon,lat
+359252347,2082,school,Tanque Verde School,-110.75536,32.2498
+359265578,2082,school,Empire School,-110.70564,31.7812
+359276730,2082,school,Emily Gray Junior High School,-110.7562,32.28591
+449537596,2082,school,Pima Community College,-110.72212,32.05709
+453950697,2303,cafe,Mt. Lemmon Cookie Cabin,-110.75991,32.44146
+605219255,2501,supermarket,Fry's Food,-110.77379,32.10511
+1735987884,2082,school,Corona Foothills Middle School,-110.7709,31.95296
+1735987889,2082,school,Sycamore Elementary,-110.77115,31.95357
+2738791943,2501,supermarket,Walmart Supercenter,-110.77587,32.08499
+4281325966,2012,community_centre,Civano Community Buildingv,-110.76861,32.15552
+5315596687,2501,supermarket,Walmart Supercenter,-110.7703,32.19089
+359255439,2082,school,McGee School,-111.18104,31.89477
+359273245,2082,school,Sopori School,-111.18676,31.70287
+359276685,2082,school,Continental School,-110.95759,31.84203
+359277016,2082,school,Sahuarita High School,-110.97676,31.96036
+359277020,2082,school,Sahuarita Junior High School,-110.98176,31.95925
+359285909,2082,school,Old Sopori School,-111.18621,31.70259
+1242698909,2303,cafe,Gelato Shop,-110.97541,31.85536
+4113906677,2012,community_centre,Green Valley Recreation Center,-110.98798,31.87008
+4955869009,2501,supermarket,Safeway,-110.99248,31.90097
+5315601741,2501,supermarket,Walmart Supercenter,-110.98259,31.91217
+6426452731,2303,cafe,Country Wide RV Service,-110.84546,31.97316
+6896199282,2082,school,Copper Ridge Elementary School,-110.80074,31.93502
+359275073,2082,school,Wetmore School,-110.98259,32.28563
+359276611,2082,school,Catalina Foothills School,-110.94037,32.28758
+359276678,2082,school,Collier Elementary School,-110.79925,32.27646
+359276795,2082,school,Iola Frans School,-110.99565,32.27508
+837524481,2303,cafe,Caffé Lucé,-110.94438,32.28348
+1225954623,2303,cafe,Starbucks Cafe,-110.94495,32.28781
+1235442103,2303,cafe,Starbucks,-110.9657,32.28698
+1677184724,2303,cafe,Starbucks,-110.9734,32.29725
+2305939782,2501,supermarket,Albertsons,-110.99652,32.2989
+6633097492,2303,cafe,Starbuck (Target),-110.97656,32.28055
+359251032,2082,school,Sahuaro School,-111.08521,32.24044
+359289379,2082,school,Johnson Primary School,-111.07308,32.14196
+359289403,2082,school,Robins Elementary School,-111.05197,32.27785
+3070905444,2303,cafe,Starbucks,-111.04993,32.21595
+3264605161,2082,school,Cooper Center for Environmental Learning,-111.08047,32.24168
+3789659340,2303,cafe,The Cottonwood (snacks),-111.16773,32.24275
+5315598828,2501,supermarket,Walmart Neighborhood Market,-111.02674,32.13287
+6166930825,2012,community_centre,Southwest Community Center,-111.02923,32.14407
+6166994998,2082,school,Academy Del Sol,-111.11709,32.13058
+359276689,2082,school,Coronado K-8 School,-110.92031,32.47561
+2557706937,2501,supermarket,Bashas',-110.92035,32.48352
+6324320201,2501,supermarket,Rancheros Market,-110.92537,32.49931
+359248683,2082,school,Miles Exploratory Learning Center,-110.95037,32.22091
+371385504,2303,cafe,Caffé Lucé,-110.95688,32.23224
+371386297,2303,cafe,Espresso Art,-110.95719,32.23154
+391934287,2303,cafe,Canyon Cafe & Bistro,-110.95243,32.23225
+5041469926,2303,cafe,Starbucks,-110.95244,32.23295
+5430261948,2303,cafe,Slot Canyon Cafe,-110.95513,32.2281
+6311856885,2303,cafe,The Scented Leaf,-110.95702,32.23186
+6363661830,2303,cafe,Woops!,-110.95851,32.23188
+359252796,2082,school,Tucson Country Day School,-110.91287,32.22924
+359289339,2082,school,Artworks Academy,-110.91553,32.22186
+359289359,2082,school,Broadway Alternative Middle School,-110.94083,32.22139
+359289396,2082,school,Pace Alternative High School,-110.94361,32.21417
+359289398,2082,school,PASS Alternative High School,-110.94083,32.22139
+403824175,2501,supermarket,Rincon Market,-110.93482,32.22814
+407163492,2303,cafe,Seven Cups,-110.93473,32.22769
+3774351500,2303,cafe,Starbucks,-110.92722,32.23642
+4117665325,2402,motel,La Quinta Inn & Suites Tucson - Reid Park,-110.90862,32.22401
+4435292717,2303,cafe,Starbucks,-110.94441,32.22183
+5315598159,2501,supermarket,Walmart Supercenter,-110.91887,32.22364
+6679446386,2303,cafe,Starbucks,-110.91828,32.22212
+359244005,2082,school,Cavett Elementary School,-110.93981,32.18841
+359250875,2082,school,C E Rose Elementary School,-110.97926,32.17119
+359251068,2082,school,Saint Johns School,-110.97843,32.17869
+359253188,2082,school,Wakefield Middle School,-110.9712,32.1848
+359255240,2082,school,Convert School,-110.97426,32.19091
+990565226,2501,supermarket,Fry's,-110.98259,32.18031
+3212818848,2402,motel,Econo Lodge,-110.96917,32.18832
+4117665302,2402,motel,Budget Inn Motel,-110.96814,32.18827
+4117665303,2402,motel,Economy Inn,-110.96583,32.1859
+4117665304,2402,motel,Lazy 8 Motel,-110.96477,32.18572
+4117665305,2402,motel,Americas Best Value Inn,-110.95727,32.18171
+4117665306,2402,motel,Motel 6 Tucson Airport,-110.95808,32.18628
+4117665307,2402,motel,Knights Inn Tucson,-110.95411,32.18092
+4117665309,2402,motel,Days Inn Tucson Airport,-110.91668,32.16426
+4117665310,2402,motel,Crossland Economy Studios - Tucson - Butterfield Drive,-110.91542,32.16455
+4117665311,2402,motel,Comfort Inn & Suites,-110.91509,32.16378
+4117665312,2402,motel,Studio 6 Tucson,-110.91978,32.1624
+4117665313,2402,motel,Red Roof Inn Tucson South,-110.91355,32.16192
+4117665314,2402,motel,Quality Inn & Suites Airport North,-110.91869,32.15736
+4973557825,2303,cafe,Starbucks,-110.94821,32.1829
+5623667505,2501,supermarket,Target,-110.99022,32.16045
+5623667508,2501,supermarket,Food City,-110.99047,32.16139
+5623667509,2303,cafe,Starbucks,-110.99029,32.16248
+359261585,2082,school,Arizona Desert School,-110.9501,32.35091
+359276695,2082,school,Cross Junior High School,-110.9866,32.34494
+359277063,2082,school,Suffolk Hills School,-110.96204,32.3523
+359277070,2082,school,Sunrise Drive School,-110.87954,32.31063
+359286658,2082,school,Winifred Harelson Elementary School,-110.984,32.34502
+1114002064,2303,cafe,Starbucks,-110.89207,32.30648
+1114003002,2501,supermarket,Safeway,-110.89136,32.30742
+1229573397,2303,cafe,Starbucks,-110.92862,32.32191
+1237980126,2501,supermarket,Safeway,-110.95954,32.4268
+1664410430,2501,supermarket,Walmart Neighborhood Market,-110.97717,32.35084
+2600441661,2501,supermarket,Walmart Supercenter,-110.9409,32.42607
+3171090228,2501,supermarket,Safeway,-110.97499,32.33597
+3262518518,2501,supermarket,Trader Joe's,-110.97326,32.3505
+3903813469,2303,cafe,Starbucks,-110.95613,32.40173
+4317792879,2501,supermarket,Kroger,-110.99375,32.39648
+4934625921,2501,supermarket,AJ's Fine Foods,-110.93135,32.32432
+5652487825,2082,school,Copper Creek Elementary School,-110.98631,32.418
+6374448185,2501,supermarket,Natural Grocers,-110.97333,32.3216
+6412907386,2501,supermarket,Sprouts Farmers Market (natural & organic groceries),-110.97797,32.34677
+6633097491,2303,cafe,Néktər,-110.92969,32.32513
+359250625,2082,school,Richey Elementary School,-110.98287,32.24841
+359261323,2082,school,Academy of the Sacred Heart,-110.96271,32.26523
+4117663277,2402,motel,Amazon Motel,-110.98954,32.26083
+4117663278,2402,motel,Riviera Motor Lodge,-110.98104,32.2606
+4117663279,2402,motel,Sunland Motel,-110.97991,32.26071
+4394454168,2402,motel,Terrace Motel,-110.98206,32.26068
+4394560772,2402,motel,Mountain View Motel,-110.9837,32.26056
+4403378343,2402,motel,Tiki Motel,-110.97868,32.25554
+4414099031,2303,cafe,Cafe Marcel Creperie and Espresso Bar,-110.97855,32.24903
+4414112353,2402,motel,No-Tel Motel,-110.97836,32.25121
+4821533421,2303,cafe,Chatime,-110.94475,32.26416
+4823802921,2303,cafe,CORE Nutrition,-110.94425,32.26239
+4831815823,2014,arts_centre,Clay Art Center,-110.94572,32.26515
+5265318680,2012,community_centre,Hellenic Community Center,-110.95392,32.26548
+5315596715,2501,supermarket,Walmart Neighborhood Market,-110.9586,32.2656
+5315598835,2501,supermarket,Walmart Neighborhood Market,-110.9088,32.25197
+6482793987,2303,cafe,néktər,-110.93506,32.25067
+359242096,2082,school,Arizona Sunshine School,-110.87425,32.24258
+359250592,2082,school,Reina Cleri Seminary,-110.8037,32.20369
+359251840,2082,school,Sonoran Science Academy Davis-Monthan,-110.86925,32.18174
+359255213,2082,school,Carson Middle School,-110.82564,32.18563
+359255348,2082,school,Gump School,-110.88342,32.22841
+359289343,2082,school,Aztec Middle College East,-110.8325,32.1675
+457767210,2303,cafe,KG's Eastside Cafe,-110.80577,32.22156
+2386956339,2501,supermarket,Trader Joe's,-110.85861,32.23729
+2440954311,2084,college,Art Institute of Tucson,-110.88477,32.25126
+2611724530,2303,cafe,Starbucks,-110.89142,32.25173
+4117665327,2402,motel,Ramada Tucson East,-110.84399,32.24978
+4825609988,2501,supermarket,Fry's,-110.84257,32.19032
+4825609989,2501,supermarket,Fry's,-110.84245,32.20469
+4825609990,2501,supermarket,Safeway,-110.85613,32.19037
+4828062198,2303,cafe,Starbucks,-110.84328,32.20562
+4975009540,2303,cafe,Starbucks,-110.86668,32.22046
+6270162510,2303,cafe,Crave Coffee Bar,-110.89594,32.22114
+6359077085,2303,cafe,Crave Coffee Bar,-110.89585,32.22115
+6566253185,2303,cafe,Starbucks,-110.78897,32.20814
+6655998585,2303,cafe,Crossroads Coffe Co,-110.80284,32.25755
+6944062585,2303,cafe,Fruit Shack Smoothies,-110.87676,32.22087
+6978521450,2303,cafe,Coffee X Change,-110.84633,32.25059
+359248733,2082,school,Mission Manor School,-110.9812,32.14202
+359255563,2082,school,Santa Clara School,-110.98259,32.12619
+4054692746,2402,motel,Travel Inn,-110.86047,32.11717
+4117665315,2402,motel,Scotsman Motel,-110.91661,32.15085
+4117665319,2402,motel,Holiday Inn Express Tucson Airport,-110.93318,32.13003
+5264478177,2501,supermarket,Fry's,-111.00456,32.13187
+359241889,2082,school,All Saints School,-110.96827,32.21675
+359255550,2013,nursing_home,Saint Luke’s Home,-110.96188,32.24123
+371423979,2501,supermarket,Food Conspiracy Co-op,-110.96548,32.22697
+398313867,2303,cafe,Café Zopé,-110.96539,32.22618
+402334092,2303,cafe,Café Milano,-110.97185,32.22194
+2338427805,2303,cafe,Exo Roast Co.,-110.96878,32.22652
+2867368709,2303,cafe,Cartel Coffee Lab,-110.96641,32.22099
+3358774189,2303,cafe,Gemstone Cafe,-110.97315,32.23766
+3408046499,2303,cafe,Shot in the Dark Cafe,-110.96796,32.22138
+3447320340,2402,motel,Ramada Limited Tucson West,-110.98415,32.2312
+3637339423,2402,motel,University Inn Tucson,-110.97138,32.23382
+4117663284,2402,motel,Hacienda Motel,-110.9776,32.2432
+4117663285,2402,motel,Oasis Motel (Rodeway Inn),-110.97842,32.24303
+4117663286,2402,motel,Quail Inn Motel,-110.97756,32.24236
+4117663288,2402,motel,Copper Cactus Inn,-110.97536,32.23912
+4117665289,2402,motel,Quality Inn Flamingo,-110.97161,32.23883
+4117665290,2402,motel,Stone Inn,-110.9714,32.23821
+4117665291,2402,motel,BEST WESTERN Royal Sun Inn & Suites,-110.97208,32.23505
+4117665294,2405,hostel,RoadRunner Hostel,-110.96441,32.22009
+4117665296,2402,motel,Days Inn Tucson Convention Center,-110.98071,32.21938
+4155150376,2402,motel,Econo Lodge University / Downtown,-110.9714,32.23693
+4392921086,2402,motel,La Siesta Motel,-110.97756,32.24191
+4392935761,2402,motel,Highland Tower Motel,-110.9788,32.24563
+4392974732,2082,school,The Partnership Learning Campus,-110.97073,32.23929
+4400646651,2082,school,First Southern Christian School,-110.96492,32.23646
+4431515373,2303,cafe,The Hub Ice Cream Factory,-110.96754,32.2222
+4858539742,2303,cafe,Caffe Luce,-110.96726,32.22219
+4858572055,2501,supermarket,Johnny Gibson's Downtown Market,-110.96845,32.22177
+6212061896,2303,cafe,Hatch,-110.96929,32.22186
+6377043332,2303,cafe,Eleven Cafe,-110.97219,32.22261
+6389660485,2303,cafe,Presta Coffee Roasters,-110.9858,32.2199
+6401686785,2303,cafe,Starbucks,-110.96843,32.23643
+6904051185,2303,cafe,The Scented Leaf Teahouse,-110.96664,32.22201
+359247508,2082,school,Kerwo Day School,-112.57348,32.0609
+359255519,2082,school,Pisinimo School,-112.31774,32.03714
+359288393,2082,school,San Simon High School,-112.40681,32.18673
+4291786839,2501,supermarket,Olsens Marketplace,-112.87289,32.39226
+4291786840,2303,cafe,Roadrunner Java,-112.87226,32.38033
+5540802037,2012,community_centre,Ajo Community Center,-112.86328,32.38357
+402839301,2501,supermarket,17th Street Market,-110.95865,32.213
+4117665297,2402,motel,Quality Inn,-110.98138,32.20716
+4117665298,2402,motel,Super 8,-110.9814,32.20638
+4117665299,2402,motel,Regal Inn,-110.98044,32.20572
+4117665300,2402,motel,Travel Inn,-110.98057,32.20386
+4117665301,2402,motel,Silver Bells Inn,-110.98017,32.19995
+359245452,2110,hospital,Casa de Vida,-111.0087,32.23591
+359289394,2082,school,Oyama Elementary School,-111.01167,32.19139
+3658399587,2501,supermarket,Safeway,-111.01252,32.2523
+3782089735,2402,motel,Holiday Inn Express Hotel & Suites Tucson,-110.99927,32.25274
+3782147479,2402,motel,Comfort Inn Tucson,-110.99896,32.25207
+4117663280,2402,motel,Super 8 Tucson/Grant Road Area,-110.99896,32.25153
+359246870,2082,school,Indian Oasis School,-111.82401,31.81425
+359248403,2082,school,Altar Valley Middle School (Mary E Dill School),-111.31483,32.0773
+359251227,2082,school,Santa Rosa Ranch School,-111.68151,32.11896
+359255430,2082,school,Marana Elementary School,-111.20859,32.45424
+359255570,2082,school,Santa Rosa Boarding and Day School,-112.06097,32.35257
+359255577,2082,school,Santa Rosa School,-112.03819,32.32507
+359255583,2082,school,Sells Consolidated School,-111.88186,31.91347
+359275870,2082,school,Elgin School,-111.52455,31.66231
+3789753050,2083,kindergarten,Three Points Chilc Care Center,-111.29705,32.08373
+3789753052,2110,hospital,United Community Health Center,-111.30759,32.07825
+3793072318,2082,school,Open Doors Community School,-111.21659,32.45434
+359255264,2082,school,Marion Donaldson Elementary School,-111.01195,32.33366
+359255632,2082,school,Thornydale School,-111.05621,32.34591
+809086707,2501,supermarket,Walmart Supercenter,-111.01619,32.34418
+1651994559,2303,cafe,Starbucks,-111.01075,32.30675
+1651994864,2501,supermarket,Bashas',-111.01064,32.30689
+1653109086,2303,cafe,San Giorgi's Coffee,-111.04673,32.325
+2093010885,2501,supermarket,Bulldog Graphics,-111.05714,32.33555
+2405691134,2303,cafe,Starbucks,-111.01317,32.34337
+3157086906,2501,supermarket,Safeway,-111.04855,32.38223
+3789379510,2501,supermarket,Fry's Marketplace,-111.04502,32.42626
+3789379935,2303,cafe,Starbucks,-111.04537,32.42604
+3792937369,2501,supermarket,Basha's (vacant),-111.07802,32.42685
+4062731790,2303,cafe,Crying Onion Cafe,-111.04328,32.32434
+4117663272,2402,motel,Red Roof Inn Tucson North - Marana,-111.0704,32.33965
+4117663273,2402,motel,BEST WESTERN PLUS Gold Poppy Inn,-111.06983,32.33903
+4117663274,2402,motel,Travelodge Tucson Ina Rd,-111.0694,32.33856
+4162002879,2082,school,Lehman Academy of Excellence,-111.09609,32.34757
+4320516593,2082,school,Wilson K-8 School,-111.0183,32.41847
+5041685778,2303,cafe,Starbucks,-111.04836,32.33602
+5041685781,2082,school,Sentinel Peak High School,-111.05354,32.33584
+5249031321,2303,cafe,Starbucks,-111.01275,32.32267
+5509597518,2501,supermarket,Sprouts Farmers Market,-111.0436,32.32227
+5574788807,2110,hospital,Northwest Medical Emergency Center,-111.10071,32.37748
+5652471778,2082,school,Casas,-111.01758,32.403
+5652471779,2082,school,Ironwood Ridge High School,-111.02079,32.40863
+6553613453,2303,cafe,Dutch Bros. Coffee,-111.08654,32.3602
+6655953785,2303,cafe,Starbucks,-111.1015,32.37521
+1011602426,2501,supermarket,Safeway,-111.13674,32.37242
+2715621408,2501,supermarket,,-111.12182,32.35005
+3798785455,2082,school,Rattle Snake Ridge Elementary,-111.12301,32.36026
+3798785767,2303,cafe,Starbucks,-111.13668,32.3726
+3798785788,2082,school,Twin Peaks Elementary,-111.13366,32.37391
+359286861,2005,post_office,Mount Lemmon Post Office,-110.76028,32.44513
+449539850,2002,fire_station,Rincon Valley,-110.68825,32.09093
+453952030,2002,fire_station,Mt Lemmon Fire Department,-110.75468,32.44884
+1735987085,2002,fire_station,,-110.771,31.96019
+1735987088,2005,post_office,,-110.77183,31.95857
+359286865,2005,post_office,Sahuarita Post Office,-110.95676,31.9573
+1735987086,2002,fire_station,,-110.79779,31.93931
+3793345933,2007,library,Pima County Library (Sahuarita),-110.98022,31.95673
+3795580949,2001,police,Town of Sahuarita,-110.97499,31.95641
+3795588558,2008,town_hall,Town of Sahuarita,-110.97556,31.95599
+3795588559,2008,town_hall,Town of Sahuarita Municipal Courthouse,-110.97538,31.95705
+4751683705,2007,library,Pima County Library,-110.8734,32.27519
+3050165439,2002,fire_station,Drexel Heights Fire Station #405,-111.11327,32.12075
+3789480680,2001,police,Pascua Yaqui Police,-111.06369,32.10976
+3789659973,2002,fire_station,Drexel Heights Fire Station #402,-111.07239,32.1362
+4198142826,2002,fire_station,Drexel Heights Fire Station #403,-111.02925,32.14328
+6166903643,2002,fire_station,Drexel Heights Fire Station #404,-111.08899,32.18408
+6166952186,2002,fire_station,Drexel Heights Fire Station #401,-111.10641,32.16009
+6166978913,2005,post_office,U.S. Post Office,-111.06489,32.13473
+3839954520,2005,post_office,Mail Well Shipping,-110.92051,32.48284
+4313766046,2007,library,Sun City Oro Valley Library,-110.94891,32.4619
+4840545642,2005,post_office,United States Post Office Contract Unit,-110.84642,32.30946
+359286873,2005,post_office,College Station,-110.95919,32.23205
+410423207,2007,library,Arizona Health Sciences Library,-110.94678,32.24001
+359286870,2005,post_office,Speedway Post Office,-110.92065,32.23674
+3162369561,2005,post_office,,-110.99486,32.42267
+4318911374,2002,fire_station,Golder Ranch Fire District Station 375,-110.96793,32.42571
+359286854,2005,post_office,Kino Post Office,-110.97981,32.2473
+5546715883,2005,post_office,PostNet,-110.94274,32.26006
+5843323485,2005,post_office,The UPS Store,-110.96298,32.2511
+359286845,2005,post_office,,-110.87703,32.22924
+359286852,2005,post_office,Emery Park Post Office,-110.96204,32.14036
+359286849,2005,post_office,Downtown Post Office,-110.96838,32.22044
+373884492,2007,library,Pima County Public Library (Joel D. Valdez Main Branch),-110.97195,32.22357
+2576112116,2002,fire_station,Tuscon Fire Department Station 1,-110.97182,32.21799
+2576118880,2001,police,Tucson Police Station,-110.97104,32.21759
+4423184136,2007,library,Pima Community College Downtown Library,-110.97293,32.23666
+366219923,2001,police,Pima County Sheriffs Office,-112.85765,32.38339
+366219905,2001,police,Arizona State Highway Patrol,-110.96037,32.2073
+4802852066,2005,post_office,Cherrybell Station,-110.94587,32.2044
+5072218287,2002,fire_station,,-110.99858,32.19897
+304811068,2002,fire_station,Picture Rock Fire Department Maintenance Shop,-111.21863,32.32476
+359286858,2005,post_office,Marana Post Office,-111.23538,32.45952
+366219401,2099,public_building,Papago Indian Tribal Council,-111.88262,31.91397
+366219402,2099,public_building,Papago Indian Agency,-111.8829,31.91202
+366219921,2001,police,Marana Sheriffs Office,-111.23455,32.45979
+1011975271,2002,fire_station,PIcture Rocks Fire Station,-111.21718,32.3387
+2372875721,2005,post_office,Sasabe Post Office,-111.54289,31.4881
+3789458696,2002,fire_station,Three Points Fire District - Station 302,-111.21664,32.13451
+3789458698,2001,police,Pima County Sheriff Outpost,-111.21866,32.31848
+3793072315,2002,fire_station,Northwest Fire Station,-111.213,32.45134
+3793081080,2008,town_hall,Marana,-111.21097,32.44776
+3793113726,2002,fire_station,Avra Valley Fire Station #191,-111.30276,32.44443
+4149746118,2002,fire_station,Three Points Fire District - Station 301,-111.26353,32.01412
+4150002289,2002,fire_station,Three Points Fire District - Station 303,-111.31901,32.06282
+6166443922,2002,fire_station,Avra Valley Fire Station #192,-111.3208,32.32101
+2807664862,2002,fire_station,,-111.02845,32.3369
+3789357777,2002,fire_station,Northwest Fire Station,-111.08084,32.443
+3789394213,2002,fire_station,Northwest Fire Station #39,-111.04721,32.42624
+3814303479,2002,fire_station,Northwest Fire District - Station 38,-111.06798,32.36077
+5002588296,2005,post_office,us post office,-111.04792,32.35086
+5041582854,2005,post_office,The UPS Store,-111.09865,32.34991
+3798785801,2002,fire_station,Northwest Fire District - Station #34,-111.11378,32.35558
+6167041909,2002,fire_station,Northwest Fire Station #41,-111.18579,32.42557
