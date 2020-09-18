@@ -6,7 +6,7 @@
 // outoforder = optional message to display in top-left of county page, indicating that this county data are questionable
 // exceptlayers = skip these layers when loading the data profile, for counties to opt-out from individual layers
 const PARTICIPATING_COUNTIES = [
-    { countyfp:"001", name:"Apache", profile: 'full', outoforder:"Polling location modeling will be provided for this county soon", datafootnote:"", exceptlayers: [] },
+    { countyfp:"001", name:"Apache", profile: 'fullmodel', outoforder:"Polling location modeling will be provided for this county soon", datafootnote:"", exceptlayers: [] },
     { countyfp:"003", name:"Cochise", profile: 'lite', outoforder:"Polling location modeling will be provided for this county soon", datafootnote:"", exceptlayers: [] },
     { countyfp:"005", name:"Coconino", profile: 'lite', outoforder:"Polling location modeling will be provided for this county soon", datafootnote:"", exceptlayers: [] },
     { countyfp:"007", name:"Gila", profile: 'lite', outoforder:"Polling location modeling will be provided for this county soon", datafootnote:"", exceptlayers: [] },
