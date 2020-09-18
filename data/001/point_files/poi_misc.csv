@@ -1,0 +1,65 @@
+osm_id,code,fclass,name,lon,lat
+359243066,2082,school,Blue Gap School,-109.94678,36.17028
+359243815,2082,school,Canyon del Muerto School,-109.43649,36.18889
+359243857,2082,school,Carrizo Mission School,-109.10455,36.90361
+359244486,2082,school,College of Ganado,-109.54538,35.71196
+359244669,2082,school,Cove School,-109.21892,36.55872
+359246801,2082,school,Hunters Point Boarding School,-109.10389,35.59296
+359247539,2082,school,Kinlichee School,-109.44066,35.7439
+359248328,2082,school,Many Farms Boarding School,-109.62844,36.36611
+359250523,2082,school,Red Rock School,-109.05815,36.59806
+359250790,2082,school,Rock Point Boarding School,-109.62039,36.71695
+359250891,2082,school,Rough Rock Demonstration School,-109.86095,36.4075
+359251063,2082,school,Saint Isabel Mission,-109.2322,36.41841
+359252375,2082,school,Tegakwithan Mission,-109.21676,35.27725
+359252714,2082,school,Toyei School,-109.93762,35.70418
+359253108,2082,school,Valley High School,-109.33017,35.22155
+359257552,2082,school,Cottonwood Day School,-109.89116,36.07338
+359257591,2082,school,Fort Defiance Elementary School,-109.06843,35.74002
+359257593,2082,school,Fort Defiance Junior High School,-109.06648,35.73946
+359257600,2082,school,Ganado Elementary School,-109.53788,35.71057
+359257601,2082,school,Ganado High School,-109.53288,35.71224
+359257603,2082,school,Ganado Junior High School,-109.53585,35.71249
+359257616,2082,school,Headstart School,-109.21972,36.55852
+359257643,2082,school,Lukachukai Boarding School,-109.22969,36.4171
+359257648,2082,school,Many Farms Child Development Center,-109.62205,36.35417
+359257652,2082,school,Many Farms Elementary School,-109.62816,36.36583
+359257654,2082,school,Many Farms High School,-109.62539,36.37278
+359257656,2082,school,Many Farms Public School,-109.61872,36.34833
+359257701,2082,school,Navajo Community College,-109.21649,36.29334
+359257704,2082,school,Navajo Community College,-109.62622,36.37111
+359257720,2082,school,Puerco Elementary School,-109.33476,35.21936
+359257739,2082,school,Red Rock Boarding School,-109.05815,36.59833
+359257764,2082,school,Round Rock Day School,-109.47483,36.51388
+359257771,2110,hospital,Sage Memorial Hospital,-109.54356,35.71075
+359257817,2082,school,Teec Nos Pos Boarding School,-109.10826,36.90381
+359257829,2082,school,Tsaile Elementary School,-109.21149,36.30195
+359257832,2082,school,Tuller Pre School,-109.09565,35.65709
+359257855,2082,school,Window Rock High School,-109.06426,35.73918
+359286665,2082,school,Saint Michaels Indian School,-109.09648,35.64585
+3936682081,2082,school,Rough Rock Community School,-109.87257,36.41363
+4335066877,2501,supermarket,Bashas' Diné Market,-109.58594,36.16278
+359244615,2082,school,Coronado School,-109.36065,34.50754
+359249949,2082,school,Pioneer School,-109.36907,34.50632
+359257781,2082,school,Saint Johns High School,-109.36566,34.50726
+359272225,2082,school,Round Valley High School,-109.2887,34.12088
+359279559,2082,school,Alpine Elementary School,-109.14202,33.84727
+359279642,2082,school,Eagar Elementary School,-109.29231,34.10782
+359279798,2082,school,McNary Annex School,-109.85482,34.07643
+359279809,2082,school,McNary Elementary School,-109.85566,34.07532
+359279811,2082,school,McNary High School,-109.85566,34.07449
+359279951,2082,school,Springfield Elementary School,-109.27342,34.13227
+359280023,2110,hospital,White Mountain Regional Medical Center,-109.28535,34.13157
+359288338,2082,school,Round Valley Primary School,-109.27536,34.12477
+2417292985,2402,motel,Budget Inn,-109.36338,34.50651
+2417292995,2402,motel,Days Inn,-109.36231,34.50641
+2607325650,2402,motel,Sportsmans Lodge,-109.14615,33.85017
+3700398749,2402,motel,,-109.28815,34.13487
+4240118907,2402,motel,Escudilla Mountain Cabins,-109.13956,33.84858
+4240182637,2501,supermarket,Alpine Country Store,-109.14468,33.84871
+4241520989,2402,motel,Mountain Hi Lodge,-109.13809,33.84561
+4709323247,2402,motel,Lazy Trout Motel,-109.45067,34.02624
+4709323253,2012,community_centre,Greer Community Center,-109.45786,34.00792
+4709323254,2405,hostel,Little Ponderosa Cabin,-109.46083,34.00774
+4709323255,2405,hostel,Fishing Lodge Cabins,-109.4602,34.00764
+4709323256,2405,hostel,Lazy Bear Cabin,-109.46017,34.00704
