@@ -1,5 +1,6 @@
 osm_id,code,fclass,name,lon,lat
 359263929,2082,school,Chevelon Butte School,-110.91846,34.53586
+482812481,2082,school,Maine Consolidated School,-111.9495,35.26224
 1183477938,2402,motel,Grand Canyon Caverns Inn,-113.23105,35.52872
 1243925194,2402,motel,The Lodge on Route 66,-112.18569,35.25115
 3780735997,2303,cafe,Grand Canyon Coffee & Cafe,-112.18806,35.251
@@ -12,7 +13,7 @@ osm_id,code,fclass,name,lon,lat
 4120853101,2402,motel,Holiday Inn Express & Suites Williams,-112.1983,35.25119
 4120853102,2402,motel,La Quinta Inn & Suites Williams-Grand Canyon Area,-112.19732,35.25113
 4243844371,2303,cafe,Starbucks,-112.19396,35.24801
-4371611490,2402,motel,Grand Canyon Motel,-112.52564,36.9461
+6180591065,2303,cafe,,-111.93946,35.25735
 359256089,2082,school,Moenkopi Elementary School,-111.22097,36.10999
 359256134,2082,school,Page Elementary School,-111.45905,36.91249
 359256136,2082,school,Page High School,-111.45849,36.91304
@@ -23,16 +24,19 @@ osm_id,code,fclass,name,lon,lat
 4504562004,2402,motel,Greyhills Inn,-111.22006,36.12212
 4804791321,2303,cafe,Starbucks,-111.45812,36.91574
 5520557483,2303,cafe,Canyon Crepes Cafe,-111.45994,36.91695
-1433875712,2303,cafe,RP's Stage Stop,-112.12709,35.97351
-1820961652,2082,school,Grand Canyon Middle School,-112.13819,36.05165
-1820961832,2082,school,Grand Canyon High School,-112.13792,36.0521
-1824719726,2501,supermarket,,-111.82528,36.04271
-4797599433,2303,cafe,Harvey House Café,-112.14084,36.05701
-5629765829,2303,cafe,Starbucks,-112.1247,35.97552
-482812481,2082,school,Maine Consolidated School,-111.9495,35.26224
-4454260392,2405,hostel,,-111.82089,35.23834
-6180591065,2303,cafe,,-111.93946,35.25735
-4579387722,2402,motel,Jacob Lake Inn,-112.21687,36.71385
+4371611490,2402,motel,Grand Canyon Motel,-112.52564,36.9461
+2657105295,2402,motel,Oak Creek Terrace Resort,-111.73094,34.91867
+3344991663,2303,cafe,Theia's Cafe,-111.76034,34.87194
+4102572990,2402,motel,Cedars Resort,-111.76287,34.866
+4102572992,2402,motel,Star Motel,-111.76138,34.87036
+4102572993,2402,motel,The Orchards Inn of Sedona,-111.76028,34.86946
+4102572994,2402,motel,Rodeway Inn & Suites Iris Garden,-111.76085,34.87249
+4102572996,2402,motel,La Vista Motel,-111.75698,34.873
+4102572997,2402,motel,Red Rock Lodge,-111.75281,34.87742
+5625842425,2303,cafe,Pink Java Cafe,-111.76103,34.8688
+5832285387,2303,cafe,Sedona Memories,-111.76139,34.87089
+6262916185,2012,community_centre,Bloom dispensary,-111.76154,34.87372
+6415368585,2303,cafe,Starbucks,-111.76282,34.86691
 359268001,2082,school,Lura Kinsey Elementary School,-111.64877,35.18057
 2123027874,2082,school,Flagstaff Cooperative Preschool,-111.6481,35.19356
 2146091916,2303,cafe,Campus Coffee Bean and Grill,-111.66017,35.18216
@@ -45,7 +49,6 @@ osm_id,code,fclass,name,lon,lat
 5748227110,2303,cafe,Starbucks,-111.66384,35.18935
 5785428747,2303,cafe,,-111.66015,35.19317
 5788678510,2303,cafe,,-111.65806,35.19378
-5601072069,2303,cafe,Starbucks,-111.6675,35.17654
 359269690,2082,school,Mount Elden School,-111.61599,35.21084
 359274980,2082,school,Weitzel School,-111.61433,35.22057
 359277367,2082,school,Coconino High School,-111.62349,35.21612
@@ -64,11 +67,19 @@ osm_id,code,fclass,name,lon,lat
 5159517795,2303,cafe,Starbucks,-111.62807,35.19565
 5400806893,2402,motel,Mountain View Inn,-111.60386,35.21155
 5654913937,2082,school,Northland Preparatory Academy,-111.60648,35.2005
+4579387722,2402,motel,Jacob Lake Inn,-112.21687,36.71385
+1433875712,2303,cafe,RP's Stage Stop,-112.12709,35.97351
+1820961652,2082,school,Grand Canyon Middle School,-112.13819,36.05165
+1820961832,2082,school,Grand Canyon High School,-112.13792,36.0521
+1824719726,2501,supermarket,,-111.82528,36.04271
+4797599433,2303,cafe,Harvey House Café,-112.14084,36.05701
+5629765829,2303,cafe,Starbucks,-112.1247,35.97552
 1836793414,2402,motel,Whispering Winds,-111.63819,35.19449
 1836793424,2303,cafe,Macy's European Coffeehouse and Bakery,-111.65079,35.19636
 1836793430,2402,motel,Knights Inn,-111.65448,35.19535
 2157967240,2303,cafe,Single Speed Cafe,-111.65029,35.19686
 2884633301,2303,cafe,Late for the Train Cafe,-111.64736,35.19942
+4454260392,2405,hostel,,-111.82089,35.23834
 4462567792,2501,supermarket,Fry's Food & Drug,-111.63509,35.19513
 4499451646,2402,motel,Motel DuBeau,-111.65054,35.19663
 4502986879,2303,cafe,Toasted Owl,-111.65196,35.19691
@@ -77,20 +88,9 @@ osm_id,code,fclass,name,lon,lat
 5413356139,2303,cafe,Kickstand Cafe,-111.64823,35.20561
 5414716491,2402,motel,Hotel Aspen Inn Suites,-111.63741,35.19435
 5788673628,2084,college,College America,-111.65769,35.19446
+5601072069,2303,cafe,Starbucks,-111.6675,35.17654
 359255831,2082,school,Coal Mine Mesa School,-110.93976,35.95931
 359256001,2082,school,Kaibito Boarding School,-111.09292,36.58138
 359256130,2082,school,Old Kaibito Boarding School,-111.07487,36.59722
 359252633,2082,school,Tolani Lake Day School,-110.84264,35.4339
 359253627,2082,school,Winslow Job Corps Civilian Conservation Center,-110.83125,35.08168
-2657105295,2402,motel,Oak Creek Terrace Resort,-111.73094,34.91867
-3344991663,2303,cafe,Theia's Cafe,-111.76034,34.87194
-4102572990,2402,motel,Cedars Resort,-111.76287,34.866
-4102572992,2402,motel,Star Motel,-111.76138,34.87036
-4102572993,2402,motel,The Orchards Inn of Sedona,-111.76028,34.86946
-4102572994,2402,motel,Rodeway Inn & Suites Iris Garden,-111.76085,34.87249
-4102572996,2402,motel,La Vista Motel,-111.75698,34.873
-4102572997,2402,motel,Red Rock Lodge,-111.75281,34.87742
-5625842425,2303,cafe,Pink Java Cafe,-111.76103,34.8688
-5832285387,2303,cafe,Sedona Memories,-111.76139,34.87089
-6262916185,2012,community_centre,Bloom dispensary,-111.76154,34.87372
-6415368585,2303,cafe,Starbucks,-111.76282,34.86691

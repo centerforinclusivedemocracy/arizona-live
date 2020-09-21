@@ -9,14 +9,29 @@ osm_id,code,fclass,name,lon,lat
 3661315359,2303,cafe,Starbucks,-111.54439,33.41397
 6359224299,2083,kindergarten,Head Start,-111.55077,33.42356
 6426933333,2303,cafe,Table of Grace,-111.54533,33.40542
-683859830,2501,supermarket,Fry's Marketplace,-111.56578,33.2181
-6359224086,2083,kindergarten,J.O. Combs Head Start,-111.56123,33.21971
 359260402,2082,school,Community Service Center and School,-111.88486,33.11727
 359260489,2082,school,Maricopa High School,-112.05403,33.05394
 359260492,2082,school,Maricopa Unified School,-112.04986,33.05422
 1736709413,2501,supermarket,Basha's,-112.0468,33.07117
 3733400662,2082,school,,-112.021,33.08638
 3733418763,2082,school,,-112.01487,33.04722
+359244118,2082,school,Central School,-111.55306,32.75432
+359245444,2082,school,Eleven Mile Corner School,-111.56735,32.89256
+359247500,2082,school,Kenilworth School,-111.48207,32.97451
+359251221,2082,school,Santa Cruz Valley High School,-111.5554,32.75951
+359251930,2082,school,South School,-111.52124,32.97617
+359253358,2082,school,West School,-111.52929,32.97451
+359260388,2082,school,Blackwater Community Center and School,-111.59624,33.03173
+359260416,2082,school,Curiel Elementary School Annex,-111.55929,32.74034
+359260418,2082,school,Curiel School,-111.55999,32.75985
+359260431,2082,school,Eloy Intermediate Elementary School,-111.54818,32.75979
+359260434,2082,school,Eloy Junior High School,-111.54846,32.75645
+359260442,2082,school,Florence Elementary School,-111.38484,33.02784
+359260446,2082,school,Florence Union High School,-111.37151,33.02256
+359260544,2082,school,Picacho Elementary School,-111.4979,32.71729
+457057970,2501,supermarket,,-111.56018,33.16062
+672990484,2501,supermarket,Safeway,-111.52164,32.99385
+6359224122,2083,kindergarten,Head Start,-111.55644,32.74924
 198707526,2084,college,Central Arizona College Signal Peak Campus,-111.65222,32.95775
 359244123,2082,school,Central School,-111.75402,32.87895
 359245353,2082,school,East School,-111.7415,32.87308
@@ -52,28 +67,13 @@ osm_id,code,fclass,name,lon,lat
 4862372348,2303,cafe,West End Cafe,-110.91471,33.05342
 5326607254,2402,motel,San Manuel Lodge,-110.63182,32.61395
 6359224096,2083,kindergarten,Mammoth Head Start,-110.64999,32.72886
-359244118,2082,school,Central School,-111.55306,32.75432
-359245444,2082,school,Eleven Mile Corner School,-111.56735,32.89256
-359247500,2082,school,Kenilworth School,-111.48207,32.97451
-359251221,2082,school,Santa Cruz Valley High School,-111.5554,32.75951
-359251930,2082,school,South School,-111.52124,32.97617
-359253358,2082,school,West School,-111.52929,32.97451
-359260388,2082,school,Blackwater Community Center and School,-111.59624,33.03173
-359260416,2082,school,Curiel Elementary School Annex,-111.55929,32.74034
-359260418,2082,school,Curiel School,-111.55999,32.75985
-359260431,2082,school,Eloy Intermediate Elementary School,-111.54818,32.75979
-359260434,2082,school,Eloy Junior High School,-111.54846,32.75645
-359260442,2082,school,Florence Elementary School,-111.38484,33.02784
-359260446,2082,school,Florence Union High School,-111.37151,33.02256
-359260544,2082,school,Picacho Elementary School,-111.4979,32.71729
-457057970,2501,supermarket,,-111.56018,33.16062
-672990484,2501,supermarket,Safeway,-111.52164,32.99385
-6359224122,2083,kindergarten,Head Start,-111.55644,32.74924
+683859830,2501,supermarket,Fry's Marketplace,-111.56578,33.2181
+6359224086,2083,kindergarten,J.O. Combs Head Start,-111.56123,33.21971
 3218316183,2002,fire_station,,-111.46422,33.35453
-3047161500,2005,post_office,Postal Depot,-111.55096,33.41446
-3049352586,2008,town_hall,Apache Junction City Hall,-111.54286,33.42346
 913954079,2002,fire_station,Golder Ranch FD,-110.86666,32.55322
 3409870284,2001,police,Pinal County Sheriff's Office Saddlebrooke,-110.88763,32.53531
+3047161500,2005,post_office,Postal Depot,-111.55096,33.41446
+3049352586,2008,town_hall,Apache Junction City Hall,-111.54286,33.42346
 1806454393,2008,town_hall,City of Maricopa - Temporary Town Hall,-112.05309,33.06126
 3733388579,2008,town_hall,City of Maricopa City Hall,-111.99437,33.04662
 3733388585,2001,police,Maricopa Police Department,-111.99379,33.04599
@@ -81,6 +81,15 @@ osm_id,code,fclass,name,lon,lat
 5129896258,2002,fire_station,Maricopa Fire/Medical Department Station 574,-112.05032,33.048
 5129896259,2002,fire_station,Maricopa Fire/Medical Department Station 575,-112.0587,33.06505
 5483279878,2002,fire_station,Ak-Chin Firestation #561,-112.05549,33.02846
+366219441,2099,public_building,Bureau of Indian Affairs Coolidge Office,-111.51846,32.97617
+3591728183,2005,post_office,,-111.33087,32.58137
+4301466999,2007,library,Florence Community Library,-111.38812,33.03904
+4709997561,2002,fire_station,Avra Valley Fire Station #194,-111.34343,32.56836
+4719302853,2002,fire_station,Eloy Fire District,-111.55082,32.74142
+4960220416,2009,courthouse,Coolidge Municipal Court,-111.51649,32.97789
+4960220418,2008,town_hall,City Hall,-111.51684,32.97787
+6166458445,2002,fire_station,Avra Valley Fire Station #193,-111.24402,32.55532
+6970789221,2002,fire_station,,-111.48416,33.05209
 2531368487,2007,library,Family History Library,-111.72785,32.89164
 2627705073,2008,town_hall,District 4 Service Center,-111.80279,33.16145
 3160587762,2002,fire_station,,-111.72347,32.88199
@@ -94,12 +103,3 @@ osm_id,code,fclass,name,lon,lat
 4301467000,2001,police,Mammoth Police Department,-110.64136,32.72188
 4301467001,2007,library,Mammoth Public Library,-110.64117,32.72179
 4862371411,2005,post_office,Kearny Post Office,-110.90646,33.06021
-366219441,2099,public_building,Bureau of Indian Affairs Coolidge Office,-111.51846,32.97617
-3591728183,2005,post_office,,-111.33087,32.58137
-4301466999,2007,library,Florence Community Library,-111.38812,33.03904
-4709997561,2002,fire_station,Avra Valley Fire Station #194,-111.34343,32.56836
-4719302853,2002,fire_station,Eloy Fire District,-111.55082,32.74142
-4960220416,2009,courthouse,Coolidge Municipal Court,-111.51649,32.97789
-4960220418,2008,town_hall,City Hall,-111.51684,32.97787
-6166458445,2002,fire_station,Avra Valley Fire Station #193,-111.24402,32.55532
-6970789221,2002,fire_station,,-111.48416,33.05209

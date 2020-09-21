@@ -1,9 +1,9 @@
 ,osm_id,code,fclass,name,lon,lat
 0,3218316183,2002,fire_station,,-111.46422,33.35453
-1,3047161500,2005,post_office,Postal Depot,-111.55096,33.41446
-2,3049352586,2008,town_hall,Apache Junction City Hall,-111.54286,33.42346
-3,913954079,2002,fire_station,Golder Ranch FD,-110.86666,32.55322
-4,3409870284,2001,police,Pinal County Sheriff's Office Saddlebrooke,-110.88763,32.53531
+1,913954079,2002,fire_station,Golder Ranch FD,-110.86666,32.55322
+2,3409870284,2001,police,Pinal County Sheriff's Office Saddlebrooke,-110.88763,32.53531
+3,3047161500,2005,post_office,Postal Depot,-111.55096,33.41446
+4,3049352586,2008,town_hall,Apache Junction City Hall,-111.54286,33.42346
 5,1806454393,2008,town_hall,City of Maricopa - Temporary Town Hall,-112.05309,33.06126
 6,3733388579,2008,town_hall,City of Maricopa City Hall,-111.99437,33.04662
 7,3733388585,2001,police,Maricopa Police Department,-111.99379,33.04599
@@ -11,25 +11,25 @@
 9,5129896258,2002,fire_station,Maricopa Fire/Medical Department Station 574,-112.05032,33.048
 10,5129896259,2002,fire_station,Maricopa Fire/Medical Department Station 575,-112.0587,33.06505
 11,5483279878,2002,fire_station,Ak-Chin Firestation #561,-112.05549,33.02846
-12,2531368487,2007,library,Family History Library,-111.72785,32.89164
-13,2627705073,2008,town_hall,District 4 Service Center,-111.80279,33.16145
-14,3160587762,2002,fire_station,,-111.72347,32.88199
-15,3242616361,2005,post_office,United States Post Office,-111.75643,32.89657
-16,3409870278,2001,police,Pinal County Sheriff's Office Arizona City,-111.67166,32.75377
-17,3409870279,2001,police,Pinal County Sheriff's Office Casa Grande,-111.74275,32.89508
-18,4301467002,2007,library,Vista Grande Library,-111.71282,32.89366
-19,3409870281,2009,courthouse,Pinal County Court House Kearny,-110.9063,33.0592
-20,3409870283,2001,police,Pinal County Sheriff's Office Oracle,-110.7642,32.61409
-21,3409870285,2001,police,Pinal County Sheriff's Office San Manuel,-110.63031,32.61601
-22,4301467000,2001,police,Mammoth Police Department,-110.64136,32.72188
-23,4301467001,2007,library,Mammoth Public Library,-110.64117,32.72179
-24,4862371411,2005,post_office,Kearny Post Office,-110.90646,33.06021
-25,366219441,2099,public_building,Bureau of Indian Affairs Coolidge Office,-111.51846,32.97617
-26,3591728183,2005,post_office,,-111.33087,32.58137
-27,4301466999,2007,library,Florence Community Library,-111.38812,33.03904
-28,4709997561,2002,fire_station,Avra Valley Fire Station #194,-111.34343,32.56836
-29,4719302853,2002,fire_station,Eloy Fire District,-111.55082,32.74142
-30,4960220416,2009,courthouse,Coolidge Municipal Court,-111.51649,32.97789
-31,4960220418,2008,town_hall,City Hall,-111.51684,32.97787
-32,6166458445,2002,fire_station,Avra Valley Fire Station #193,-111.24402,32.55532
-33,6970789221,2002,fire_station,,-111.48416,33.05209
+12,366219441,2099,public_building,Bureau of Indian Affairs Coolidge Office,-111.51846,32.97617
+13,3591728183,2005,post_office,,-111.33087,32.58137
+14,4301466999,2007,library,Florence Community Library,-111.38812,33.03904
+15,4709997561,2002,fire_station,Avra Valley Fire Station #194,-111.34343,32.56836
+16,4719302853,2002,fire_station,Eloy Fire District,-111.55082,32.74142
+17,4960220416,2009,courthouse,Coolidge Municipal Court,-111.51649,32.97789
+18,4960220418,2008,town_hall,City Hall,-111.51684,32.97787
+19,6166458445,2002,fire_station,Avra Valley Fire Station #193,-111.24402,32.55532
+20,6970789221,2002,fire_station,,-111.48416,33.05209
+21,2531368487,2007,library,Family History Library,-111.72785,32.89164
+22,2627705073,2008,town_hall,District 4 Service Center,-111.80279,33.16145
+23,3160587762,2002,fire_station,,-111.72347,32.88199
+24,3242616361,2005,post_office,United States Post Office,-111.75643,32.89657
+25,3409870278,2001,police,Pinal County Sheriff's Office Arizona City,-111.67166,32.75377
+26,3409870279,2001,police,Pinal County Sheriff's Office Casa Grande,-111.74275,32.89508
+27,4301467002,2007,library,Vista Grande Library,-111.71282,32.89366
+28,3409870281,2009,courthouse,Pinal County Court House Kearny,-110.9063,33.0592
+29,3409870283,2001,police,Pinal County Sheriff's Office Oracle,-110.7642,32.61409
+30,3409870285,2001,police,Pinal County Sheriff's Office San Manuel,-110.63031,32.61601
+31,4301467000,2001,police,Mammoth Police Department,-110.64136,32.72188
+32,4301467001,2007,library,Mammoth Public Library,-110.64117,32.72179
+33,4862371411,2005,post_office,Kearny Post Office,-110.90646,33.06021

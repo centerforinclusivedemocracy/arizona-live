@@ -1,6 +1,11 @@
 osm_id,code,fclass,name,lon,lat
 359247042,2082,school,John F Kennedy School,-110.17177,33.89949
 359258545,2082,school,Rice Public School,-110.45288,33.35617
+359258489,2082,school,Hayden Unified School,-110.7715,32.99035
+359258509,2082,school,Leonor Hamble Junior High School,-110.77038,32.99395
+359258596,2082,school,Winkelman Elementary School,-110.77149,32.99034
+359285913,2082,school,Hayden High School,-110.77149,32.99312
+6359223863,2083,kindergarten,Winkelman Head Start,-110.77157,32.99013
 305490161,2402,motel,Days Inn,-111.32278,34.23837
 359258423,2082,school,Central Heights School,-110.8115,33.41311
 359271062,2082,school,Pleasant Valley School,-110.96457,34.10032
@@ -27,9 +32,4 @@ osm_id,code,fclass,name,lon,lat
 6078136665,2303,cafe,Starbucks,-110.81672,33.42011
 6078137103,2402,motel,El Rey Motel,-110.7751,33.3954
 6561476916,2303,cafe,Starbucks,-111.31975,34.2411
-359258489,2082,school,Hayden Unified School,-110.7715,32.99035
-359258509,2082,school,Leonor Hamble Junior High School,-110.77038,32.99395
-359258596,2082,school,Winkelman Elementary School,-110.77149,32.99034
-359285913,2082,school,Hayden High School,-110.77149,32.99312
-6359223863,2083,kindergarten,Winkelman Head Start,-110.77157,32.99013
 359280698,2082,school,Pine School,-111.45514,34.38781
