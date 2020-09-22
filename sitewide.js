@@ -212,7 +212,7 @@ DATA_LAYERS.pripoll2020 = {
     title: "2020 Presidential Primary Polling Place Locations",
     csvfile: 'point_files/primary_pollingplaces_2020.csv',
     circle: { radius: 10, color: 'black', fillColor: 'gray', fillOpacity: 0.6, opacity: 0.6, },
-    popupnamefield: 'address',
+    popupnamefield: 'name',
     popuptypetext: '2020 Presidential Primary Polling Place Location',
     downloadfile: 'point_files/primary_pollingplaces_2020.csv',
 };
@@ -439,7 +439,7 @@ DATA_PROFILES.fullmodel = {
         DATA_LAYERS.prc_black, DATA_LAYERS.prc_asian, DATA_LAYERS.prc_latino, DATA_LAYERS.prc_white,
     ],
     pointsofinterest: [
-        DATA_LAYERS.pricenter2020,
+        DATA_LAYERS.pripoll2020,
         DATA_LAYERS.triballands,
         DATA_LAYERS.poi_govish, DATA_LAYERS.poi_misc, DATA_LAYERS.poi,
     ],
