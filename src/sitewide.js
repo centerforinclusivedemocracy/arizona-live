@@ -47,12 +47,10 @@ const getParticipatingCountyInfo = function (countyfp) {
         });
     }
 
-    // county-specific data hacks; see also special support for "customgeojsonfile" layers
-    /*
-    if (countyfp == '000') {
-        returnme.datalayers.pointsofinterest.splice(1, 0, DATA_LAYERS.somenewthing);
+    // county-specific data hacks: Cochise County has no recognized tribal lands
+    if (countyfp == '003') {
+        returnme.datalayers.pointsofinterest = returnme.datalayers.pointsofinterest.filter(function (layerinfo) { return layerinfo.id != 'triballands'; });
     }
-   */
 
     // done
     return returnme;
