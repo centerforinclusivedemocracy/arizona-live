@@ -30,7 +30,7 @@
       </p>
 
 
-      <h3 id="suitable-areas">Suitable Areas</h3>
+      <h2 id="suitable-areas">Suitable Areas</h3>
       <p>
         We identified all areas that were potentially suitable for hosting a site. We created a grid made up of 0.5 mile cells covering the entire county, where each cell is a potential area to host a site. These “suitable areas” were determined using a combined approach for road density and “points of interest” density. A suitable area needed to contain either a sufficient density of roads or at least two points of interest, while also avoiding bodies of water. This means that suitable areas are areas that have some concentration of activity and therefore are more likely to have buildings and infrastructure. Note that we are not suggesting that all points of interest are suitable sites to host a vote center, but that the presence of a point of interest suggests a general concentration of infrastructure.
       </p>
@@ -39,7 +39,7 @@
       </p>
 
 
-      <h3 id="facility-location">Facility Location</h3>
+      <h2 id="facility-location">Facility Location</h3>
       <p>
         Arizona law allows county election officials the ability to choose the number of voting location and drop box sites for their jurisdiction. To generate suggested locations based on the number of sites each county has publically reported, we used a k-means model and a series of facility location models.
       </p>
@@ -56,7 +56,7 @@
         The model first selects a certain number of 14-day sites. These sites become fixed points for the 7-day site selection, and the sites from both the 14-day and 7-day selection are fixed when running the model to include additional sites. Proposed sites for vote centers and ballot drop boxes were calculated separately and allowed to overlap.
       </p>
 
-      <h3 id="scoring-model">Scoring Model</h3>
+      <h2 id="scoring-model">Scoring Model</h3>
       <p>
         The data were normalized and combined in a weighted average. The weighting schema is described below in the section Variable Weights. A higher score indicates that there were multiple priority characteristics, whereas a medium score indicates that this area has some priority characteristics, but not all. For example, an area with a higher rate of eligible non-registered voter population, a higher percent disabled population and a higher percent limited English proficient population would receive a score that is higher than an area with a lower rate of eligible non-registered voter population, lower percent disabled population, and lower percent limited English proficient population.
       </p>
@@ -261,7 +261,7 @@
           </ul>
 
 
-          <h3 id="weighting">Variable Weights</h3>
+          <h2 id="weighting">Variable Weights</h3>
           <p>
             In this prototype version variables were weighted equally with the exception of several variables that will receive additional weight due to being flagged as high priority. The variables that received higher weighting were voters with disabilities, voters with limited English proficiency, areas with high populations of eligible non-registered voters, areas with low VBM use for Latino and Youth voters, and areas with relatively high worker density. The variables that received the highest weight were areas with low total VBM use, areas close to public transit stops, and areas with relatively high population density.
           </p>
@@ -269,13 +269,13 @@
             The same weighting system was used for modeling optimal ballot drop box areas, with the exception of areas with eligible non-registered voters, which received no extra weight.
           </p>
 
-          <h3 id="gaps">Assessing Gaps in Vote Center Coverage</h3>
+          <h2 id="gaps">Assessing Gaps in Vote Center Coverage</h3>
           <p>
             After the model selects optimal areas for voting locations, we identify areas for additional siting coverage either by geographic distance or by additional need. These areas might be considered service gaps. We are interested in seeing where additional voting locations could be placed to minimize the number of people that are more than 20 minutes travel time distance from a voting location, or to minimize the overall travel cost of all voters. The number of additional suggested areas is 10% of the total minimum required facilities.
           </p>
 
 
-          <h3 id="reliability">Reliability of Estimates</h3>
+          <h2 id="reliability">Reliability of Estimates</h3>
           <p>
             Some data published by the American Community Survey (ACS) rely on small sample sizes, meaning that the resulting estimates can have a high degree of uncertainty. The coefficient of variation (CV) was calculated for every ACS-based variable, where the CV is equal to the standard error (associated with 90% confidence interval) divided by the estimate (see <a href="https://www.census.gov/content/dam/Census/library/publications/2008/acs/ACSGeneralHandbook.pdf" target="_blank">ACS documentation, Appendix 1</a>). Tract estimates with a CV over 40% were considered to have a high degree of uncertainty and are flagged visually on the web map with a gray square symbol.
           </p>
