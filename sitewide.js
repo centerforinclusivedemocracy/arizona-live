@@ -74,7 +74,7 @@ const BOUNDSTYLE_MOUSEOVER = { weight: 5, color: 'black', fillOpacity: 0.15 };
 const SINGLECOUNTY_STYLE = { fill: false, weight: 2, opacity: 1, color: 'black' };
 
 // for individual tracts in county view, the base style
-const CENSUSTRACT_STYLE = { color: 'black', weight: 1, opacity: 1, fillColor: 'transparent', fillOpacity: 0.8, interactive: false };
+const CENSUSTRACT_STYLE = { color: 'black', weight: 1, opacity: 0.25, fillColor: 'transparent', fillOpacity: 0.8, interactive: false };
 
 // for the squares indicating a tract with unreliable data, the style
 const UNRELIABLE_STYLE = { color: 'black', fillColor: 'black', fillOpacity: 0.8, stroke: false, interactive: false };
@@ -372,6 +372,14 @@ DATA_LAYERS.prc_white = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
 };
+DATA_LAYERS.prc_native = {
+    id: 'prc_native',
+    title: "Percent Native American Population",
+    scoresource: 'indicatordata', scorefield: 'prc_native',
+    quantilefield: 'prc_native', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+};
 DATA_LAYERS.poi_govish = {
     id: 'poi_govish',
     title: "Points of Interest (Government)",
@@ -432,7 +440,7 @@ DATA_PROFILES.fullmodel = {
         DATA_LAYERS.vbm_rate_tot, DATA_LAYERS.vbm_rate_asn, DATA_LAYERS.vbm_rate_lat, DATA_LAYERS.vbm_rate_youth,
     ],
     populationdata: [
-        DATA_LAYERS.prc_black, DATA_LAYERS.prc_asian, DATA_LAYERS.prc_latino, DATA_LAYERS.prc_white,
+        DATA_LAYERS.prc_black, DATA_LAYERS.prc_asian, DATA_LAYERS.prc_latino, DATA_LAYERS.prc_white, DATA_LAYERS.prc_native,
     ],
     pointsofinterest: [
         DATA_LAYERS.pricenter2020,
