@@ -1,6 +1,5 @@
 $(document).ready(function () {
     initStatewideMap();
-    initCountyListing();
 });
 
 
@@ -36,10 +35,19 @@ function initStatewideMap () {
     .addTo(MAP)
     .selectLayer(BASEMAP_OPTIONS[0].label);
 
-    new L.Control.StatewideMapLegend({
+    // a Select2-based typeahead "select" for picking a county
+    const select2countyoptions = PARTICIPATING_COUNTIES.map(function (countyinfo) {
+        return { id: countyinfo.countyfp, text: countyinfo.name };
+    });
+    new L.Control.CountyPicker({
+        position: 'topleft',
+        counties: select2countyoptions,
     }).addTo(MAP);
 
     // load the GeoJSON of county boundaries, add to the map, with a mouseover effect based on the county being in PARTICIPATING_COUNTIES
+    new L.Control.StatewideMapLegend({
+    }).addTo(MAP);
+
     $.get('data/counties.js', function (data) {
         MAP.COUNTYOVERLAY = L.geoJson(data, {
             style: function (feature) {
@@ -118,28 +126,4 @@ function initStatewideMap () {
         })
         .addTo(MAP);
     }, 'json');
-}
-
-
-function initCountyListing () {
-    const $countybuttondiv = $('#countybuttons');
-    const $filterinput = $('#countynamefilter');
-
-    PARTICIPATING_COUNTIES.forEach(function (countyinfo) {
-        const $button = $(`<a href="county.html?county=${countyinfo.countyfp}" class="btn btn-primary">${countyinfo.name}</a>`);
-        $(`<div class="mb-1 text-md-right" data-county-name="${countyinfo.name}" data-county-fips="${countyinfo.countyfp}"></div>`).append($button).appendTo($countybuttondiv);
-    });
-
-    $filterinput.on('input', function () {
-        const searchstring = $filterinput.val().trim().toUpperCase();
-
-        const $buttondivs = $countybuttondiv.children('div[data-county-name]');
-        const $matching = $buttondivs.filter(function () {
-            const countyname = $(this).attr('data-county-name').toUpperCase();
-            return searchstring ? countyname.indexOf(searchstring) != -1 : true;
-        });
-
-        $matching.removeClass('d-none');
-        $buttondivs.not($matching).addClass('d-none');
-    });
 }
