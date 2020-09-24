@@ -70,7 +70,7 @@ const BOUNDSTYLE_MOUSEOVER = { weight: 5, color: 'black', fillOpacity: 0.15 };
 const SINGLECOUNTY_STYLE = { fill: false, weight: 2, opacity: 1, color: 'black' };
 
 // for individual tracts in county view, the base style
-const CENSUSTRACT_STYLE = { color: 'black', weight: 1, opacity: 1, fillColor: 'transparent', fillOpacity: 0.8, interactive: false };
+const CENSUSTRACT_STYLE = { color: 'black', weight: 1, opacity: 0.25, fillColor: 'transparent', fillOpacity: 0.8, interactive: false };
 
 // for the squares indicating a tract with unreliable data, the style
 const UNRELIABLE_STYLE = { color: 'black', fillColor: 'black', fillOpacity: 0.8, stroke: false, interactive: false };
