@@ -10,17 +10,17 @@
 // outoforder = optional message to display in top-left of county page, indicating that this county data are questionable
 // exceptlayers = skip these layers when loading the data profile, for counties to opt-out from individual layers
 const PARTICIPATING_COUNTIES = [
-    { countyfp:"001", name:"Apache", profile: 'fullmodel', datafootnote:"", exceptlayers: [] },
-    { countyfp:"003", name:"Cochise", profile: 'fullmodel', exceptlayers: [] },
-    { countyfp:"005", name:"Coconino", profile: 'fullmodel', exceptlayers: [] },
-    { countyfp:"007", name:"Gila", profile: 'fullmodel', exceptlayers: [] },
-    { countyfp:"013", name:"Maricopa", profile: 'fullmodel', outoforder:"", datafootnote:"" , exceptlayers: []},
-    { countyfp:"015", name:"Mohave", profile: 'fullmodel', exceptlayers: [] },
-    { countyfp:"017", name:"Navajo", profile: 'fullmodel', exceptlayers: [] },
-    { countyfp:"019", name:"Pima", profile: 'fullmodel', exceptlayers: [] },
-    { countyfp:"021", name:"Pinal", profile: 'fullmodel', datafootnote:"", exceptlayers: [] },
-    { countyfp:"025", name:"Yavapai", profile: 'fullmodel', datafootnote:"", exceptlayers: [] },
-    { countyfp:"027", name:"Yuma", profile: 'fullmodel', datafootnote:"", exceptlayers: [] },
+    { countyfp:"001", name:"Apache", profile: 'fullmodelCID', datafootnote:"", exceptlayers: [] },
+    { countyfp:"003", name:"Cochise", profile: 'fullmodelCID', exceptlayers: [] },
+    { countyfp:"005", name:"Coconino", profile: 'fullmodelCID', exceptlayers: [] },
+    { countyfp:"007", name:"Gila", profile: 'fullmodelCID', exceptlayers: [] },
+    { countyfp:"013", name:"Maricopa", profile: 'fullmodelGIN', outoforder:"", datafootnote:"" , exceptlayers: []},
+    { countyfp:"015", name:"Mohave", profile: 'fullmodelCID', exceptlayers: [] },
+    { countyfp:"017", name:"Navajo", profile: 'fullmodelCID', exceptlayers: [] },
+    { countyfp:"019", name:"Pima", profile: 'fullmodelCID', exceptlayers: [] },
+    { countyfp:"021", name:"Pinal", profile: 'fullmodelCID', datafootnote:"", exceptlayers: [] },
+    { countyfp:"025", name:"Yavapai", profile: 'fullmodelCID', datafootnote:"", exceptlayers: [] },
+    { countyfp:"027", name:"Yuma", profile: 'fullmodelCID', datafootnote:"", exceptlayers: [] },
 ];
 
 
@@ -421,7 +421,7 @@ DATA_LAYERS.triballands = {
 // lite = all layers EXCEPT suggested areas
 const DATA_PROFILES = {};
 
-DATA_PROFILES.fullmodel = {
+DATA_PROFILES.fullmodelGIN = {
     suggestedareas: [
         DATA_LAYERS.seven_day_sites, DATA_LAYERS.fourteen_day_sites, DATA_LAYERS.dropbox_sites, DATA_LAYERS.all_sites_scored,
     ],
@@ -442,6 +442,32 @@ DATA_PROFILES.fullmodel = {
     ],
     pointsofinterest: [
         DATA_LAYERS.pricenter2020,
+        DATA_LAYERS.triballands,
+        DATA_LAYERS.poi_govish, DATA_LAYERS.poi_misc, DATA_LAYERS.poi,
+    ],
+};
+
+DATA_PROFILES.fullmodelCID = {
+    suggestedareas: [
+        DATA_LAYERS.seven_day_sites, DATA_LAYERS.fourteen_day_sites, DATA_LAYERS.dropbox_sites, DATA_LAYERS.all_sites_scored,
+    ],
+    additionalareas: [
+        DATA_LAYERS.additional_sites_model, DATA_LAYERS.additional_sites_distance,
+    ],
+    sitingcriteria: [
+        DATA_LAYERS.transit_stops,
+        DATA_LAYERS.cvapdens, DATA_LAYERS.job_dens,
+        DATA_LAYERS.tot_elignonreg_prc,
+        DATA_LAYERS.prcdisabled, DATA_LAYERS.prc_nonengprof, DATA_LAYERS.prc_caraccess_final, DATA_LAYERS.prc_pov_final, DATA_LAYERS.prc_youth_final,
+        DATA_LAYERS.pollvoter_dens,
+        DATA_LAYERS.popdens,
+        DATA_LAYERS.vbm_rate_tot, DATA_LAYERS.vbm_rate_asn, DATA_LAYERS.vbm_rate_lat, DATA_LAYERS.vbm_rate_youth,
+    ],
+    populationdata: [
+        DATA_LAYERS.prc_black, DATA_LAYERS.prc_asian, DATA_LAYERS.prc_latino, DATA_LAYERS.prc_white, DATA_LAYERS.prc_native,
+    ],
+    pointsofinterest: [
+        DATA_LAYERS.pripoll2020,
         DATA_LAYERS.triballands,
         DATA_LAYERS.poi_govish, DATA_LAYERS.poi_misc, DATA_LAYERS.poi,
     ],
