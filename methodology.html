@@ -75,9 +75,9 @@
 
     <!-- Sitewide styles and code; more for additional pages, will be included below -->
     <link rel="stylesheet" href="sitewide.css?cachebust-b2ff84c5cd" />
-    <script src="sitewide.js?cachebust-68e6b26382"></script>
+    <script src="sitewide.js?cachebust-db664c1cc9"></script>
     <link rel="stylesheet" href="methodology.css?cachebust-a7fc4f991f" />
-    <script src="methodology.js?cachebust-681fad034e"></script>
+    <script src="methodology.js?cachebust-def216f2c9"></script>
 </head>
 <body>
 
@@ -108,26 +108,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="col">
       <h1 id="purpose">Purpose</h1>
       <p>
-        The Voting Location Siting Tool is designed to help Arizona county election officials identify optimal sites for potential polling place, vote center and vote-by-mail drop box locations, as well provide visualization of demographic and voter data at the community level.
+        The Voting Location Siting Tool is designed to help Arizona county election officials identify optimal sites for potential polling place, voting location and vote-by-mail drop box locations, as well provide visualization of demographic and voter data at the community level.
       </p>
       <p>
         Please see the Siting Tool's current methodology below. For more details, see
         <a href="acknowledgments.html">CID's contact page</a>.
       </p>
 
-
       <h1 id="methodology">Scope</h1>
+      <p>
+        The Tool provides voting location and drop box location modeling, along with visualization of demographic and voter data for the following counties:
+      </p>
+      <ul class="card-columns">
+      <li>Apache</li>
+      <li>Cochise</li>
+      <li>Coconino</li>
+      <li>Gila </li>
+      <li>Maricopa</li>
+      <li>Mohave</li>
+      <li>Navajo</li>
+      <li>Pima </li>
+      <li>Pinal </li>
+      <li>Yavapai</li>
+      <li>Yuma</li>
+      </ul>
+
+      <!-- <h1 id="methodology">Scope</h1>
       <div class="row">
         <div class="col">
           The Tool provides vote center and drop box location modeling, along with visualization of demographic and voter data for the following counties:
-          <ul id="fullAnalysisCountyList" class="card-columns"><!-- county list filled in via initFillScopeLists() --></ul>
+          <ul id="fullAnalysisCountyList" class="card-columns"></ul>
         </div>
         <div class="col">
           The Tool provides visualization of demographic and voter data for the following counties:
           <ul id="liteAnalysisCountyList" class="card-columns"></ul>
         </div>
-      </div>
-
+      </div> -->
 
       <h1 id="methodology">Voting Location and Ballot Drop Box Location Modeling Methodology</h1>
       <p>
@@ -137,10 +153,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       <h2 id="suitable-areas">Suitable Areas</h3>
       <p>
-        We identified all areas that were potentially suitable for hosting a site. We created a grid made up of 0.5 mile cells covering the entire county, where each cell is a potential area to host a site. These “suitable areas” were determined using a combined approach for road density and “points of interest” density. A suitable area needed to contain either a sufficient density of roads or at least two points of interest, while also avoiding bodies of water. This means that suitable areas are areas that have some concentration of activity and therefore are more likely to have buildings and infrastructure. Note that we are not suggesting that all points of interest are suitable sites to host a vote center, but that the presence of a point of interest suggests a general concentration of infrastructure.
+        We identified all areas that were potentially suitable for hosting a site. We created a grid made up of 0.5 mile cells covering the entire county, where each cell is a potential area to host a site. These “suitable areas” were determined using a combined approach for road density and “points of interest” density. A suitable area needed to contain either a sufficient density of roads or at least two points of interest, while also avoiding bodies of water. This means that suitable areas are areas that have some concentration of activity and therefore are more likely to have buildings and infrastructure. Note that we are not suggesting that all points of interest are suitable sites to host a voting location, but that the presence of a point of interest suggests a general concentration of infrastructure.
       </p>
       <p>
-        Points of interest were sourced from OpenStreetMap and were defined by the research team to be both governmental and non-governmental buildings (shown as two different layers in the tool) that could serve as potential vote center or drop box sites.
+        Points of interest were sourced from OpenStreetMap and were defined by the research team to be both governmental and non-governmental buildings (shown as two different layers in the tool) that could serve as potential voting location or drop box sites.
       </p>
 
 
@@ -158,7 +174,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         The facility location model selected for both the highest gain (most voters served), and the lowest penalty (high travel time and low weighted scores). These scores were generated by the indicators listed in the Data section below, and weighted based on importance. The total score was defined as the sum of individual scores across indicators, multiplied by the weights. The facility location model prefers to locate potential voting areas on sites that are near a high number of voters and/or are near a site with a high score.
       </p>
       <p>
-        The model first selects a certain number of 14-day sites. These sites become fixed points for the 7-day site selection, and the sites from both the 14-day and 7-day selection are fixed when running the model to include additional sites. Proposed sites for vote centers and ballot drop boxes were calculated separately and allowed to overlap.
+        The model first selects a certain number of 14-day sites. These sites become fixed points for the 7-day site selection, and the sites from both the 14-day and 7-day selection are fixed when running the model to include additional sites. Proposed sites for voting locations and ballot drop boxes were calculated separately and allowed to overlap.
       </p>
 
       <h2 id="scoring-model">Scoring Model</h3>
@@ -374,7 +390,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             The same weighting system was used for modeling optimal ballot drop box areas, with the exception of areas with eligible non-registered voters, which received no extra weight.
           </p>
 
-          <h2 id="gaps">Assessing Gaps in Vote Center Coverage</h3>
+          <h2 id="gaps">Assessing Gaps in Voting Location Coverage</h3>
           <p>
             After the model selects optimal areas for voting locations, we identify areas for additional siting coverage either by geographic distance or by additional need. These areas might be considered service gaps. We are interested in seeing where additional voting locations could be placed to minimize the number of people that are more than 20 minutes travel time distance from a voting location, or to minimize the overall travel cost of all voters. The number of additional suggested areas is 10% of the total minimum required facilities.
           </p>
