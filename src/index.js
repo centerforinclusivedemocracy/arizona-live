@@ -60,6 +60,7 @@ function initStatewideMap () {
 
                 switch (countyinfo.profile) {
                     case 'fullmodelCID':
+                        return BOUNDSTYLE_FULL;
                     case 'fullmodelGIN':
                         return BOUNDSTYLE_FULL;
                     case 'lite':
@@ -81,6 +82,8 @@ function initStatewideMap () {
                 if (countyinfo) {
                     switch (countyinfo.profile) {
                         case 'fullmodelCID':
+                            message = 'Suggested Voting Locations';
+                            break;
                         case 'fullmodelGIN':
                             message = 'Suggested Voting Locations';
                             break;
