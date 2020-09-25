@@ -64,7 +64,7 @@ const getParticipatingCountyInfo = function (countyfp) {
 // with different styles for participating counties vs non-participiating, and the different data profiles
 const BOUNDSTYLE_DEFAULT = { fillColor: 'white', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5 };
 const BOUNDSTYLE_PARTICIPATING = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5 };
-const BOUNDSTYLE_FULL = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.75 };
+const BOUNDSTYLE_FULL = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65 };
 const BOUNDSTYLE_LITE = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.33 };
 const BOUNDSTYLE_MOUSEOVER = { weight: 5, color: 'black', fillOpacity: 0.15 };
 
@@ -143,7 +143,7 @@ const DATA_LAYERS = {};
 
 DATA_LAYERS.seven_day_sites = {
     id: 'seven_day_sites',
-    title: "Suggested Areas for 7 Day Vote Centers",
+    title: "Suggested Areas for 7 Day Voting Locations",
     csvfile: 'model_files/seven_day_sites.csv',
     circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
@@ -153,7 +153,7 @@ DATA_LAYERS.seven_day_sites = {
 };
 DATA_LAYERS.fourteen_day_sites = {
     id: 'fourteen_day_sites',
-    title: "Suggested Areas for 14 Day Vote Centers",
+    title: "Suggested Areas for 14 Day Voting Locations",
     csvfile: 'model_files/fourteen_day_sites.csv',
     circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
@@ -183,7 +183,7 @@ DATA_LAYERS.all_sites_scored = {
 };
 DATA_LAYERS.additional_sites_model = {
     id: 'additional_sites_model',
-    title: "Additional Vote Center Options Based on Model",
+    title: "Additional Voting Location Options Based on Model",
     csvfile: 'model_files/additional_sites_model.csv',
     circle: { radius: 400, opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
@@ -193,7 +193,7 @@ DATA_LAYERS.additional_sites_model = {
 };
 DATA_LAYERS.additional_sites_distance = {
     id: 'additional_sites_distance',
-    title: "Additional Vote Center Options Based on Distance",
+    title: "Additional Voting Location Options Based on Distance",
     csvfile: 'model_files/additional_sites_distance.csv',
     circle: { radius: 400, opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
@@ -212,11 +212,11 @@ DATA_LAYERS.pripoll2020 = {
 };
 DATA_LAYERS.pricenter2020 = {
     id: 'pricenter2020',
-    title: "2020 Presidential Primary Vote Center Locations",
+    title: "2020 Presidential Primary Voting Locations",
     csvfile: 'point_files/primary_votecenters_2020.csv',
     circle: { radius: 10, color: 'black', fillColor: 'gray', fillOpacity: 0.6, opacity: 0.6, },
     popupnamefield: 'name',
-    popuptypetext: '2020 Presidential Primary Vote Center Location',
+    popuptypetext: '2020 Presidential Primary Voting Location',
     downloadfile: 'point_files/primary_votecenters_2020.csv',
 };
 DATA_LAYERS.transit_stops = {

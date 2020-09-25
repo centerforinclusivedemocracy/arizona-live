@@ -71,13 +71,13 @@
     <script src="https://unpkg.com/url-search-params-polyfill@2.0.3/index.js" type="text/javascript"></script>
 
     <!-- statistics library to calculate Jenks breaks et al-->
-    <script src="simple_statistics.js?cachebust-d48c98f031"></script>
+    <script src="simple_statistics.js?CACHEBUST"></script>
 
     <!-- Sitewide styles and code; more for additional pages, will be included below -->
-    <link rel="stylesheet" href="sitewide.css?cachebust-b2ff84c5cd" />
-    <script src="sitewide.js?cachebust-68e6b26382"></script>
-    <link rel="stylesheet" href="county.css?cachebust-d7a6ec190f" />
-    <script src="county.js?cachebust-8411bffa25"></script>
+    <link rel="stylesheet" href="sitewide.css?CACHEBUST" />
+    <script src="sitewide.js?CACHEBUST"></script>
+    <link rel="stylesheet" href="county.css?CACHEBUST" />
+    <script src="county.js?CACHEBUST"></script>
 </head>
 <body>
 
@@ -114,13 +114,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <p id="outoforder" class="p-2"></p>
 
                 <div class="px-2 mb-3">
-                    <h2 class="m-0">Suggested Voting Locations Areas <i class="fa fa-info-circle" data-tooltip-content='#tooltips > div[data-tooltip="suggestedareas"]'></i></h2>
+                    <h2 class="m-0">Suggested Voting Locations <i class="fa fa-info-circle" data-tooltip-content='#tooltips > div[data-tooltip="suggestedareas"]'></i></h2>
                     <div data-section="suggestedareas" class="pl-3">
                     </div>
                 </div>
 
                 <div class="px-2 mb-3">
-                    <h2 class="m-0">Additional Vote Center Options <i class="fa fa-info-circle" data-tooltip-content='#tooltips > div[data-tooltip="additionalareas"]'></i></h2>
+                    <h2 class="m-0">Additional Voting Location Options <i class="fa fa-info-circle" data-tooltip-content='#tooltips > div[data-tooltip="additionalareas"]'></i></h2>
                     <div data-section="additionalareas" class="pl-3">
                     </div>
                 </div>
@@ -166,7 +166,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <b>Suggested Areas</b> based on the minimum number requirement established by the County.
     </div>
     <div data-tooltip="additionalareas">
-        <b>Additional Vote Center Options</b> are areas that can be considered beyond the minimum number requirement established by the County.
+        <b>Additional Voting Location Options</b> are areas that can be considered beyond the minimum number requirement established by the County.
     </div>
 </div>
 
@@ -186,7 +186,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img src="./images/usingthistool/click_menu.jpg" alt="Click Menu" class="img-fluid d-block ml-3 mb-3" />
                 </div>
                 <div class="mb-4">
-                    <b class="d-block">2. Select a suggested area option. <i>Note that some counties do not include suggested areas, and that vote center names may be slightly different than in this example.</i></b>
+                    <b class="d-block">2. Select a suggested area option. <i>Note that some counties do not include suggested areas, and that voting location names may be slightly different than in this example.</i></b>
                     <img src="./images/usingthistool/click_vote_site.jpg" alt="Select Areas" class="img-fluid d-block ml-3" />
                 </div>
                 <div class="mb-4">
@@ -224,7 +224,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 <h4>Data Descriptions</h4>
 
-                <h5>Suggested Vote Center Data</h5>
+                <h5>Suggested Voting Location Data</h5>
                 <p>Sites are colored based on their relative rank out of all potential sites as determined using  <a target="_blank" rel="nofollow" href="https://en.wikipedia.org/wiki/Jenks_natural_breaks_optimization"> natural breaks</a>. The individual components of the composite score are displayed in the legend as being either <b>High</b>, <b>Med</b> or <b>Low</b>. The <b>High/Med/Low</b> are based on the distribution of scores for each component and ranked using natural breaks.</p>
                 <ol>
                     <li><b>Suggested Sites</b>: Sites that have been identified as being strategically located to voters. This reflectes the minimum number of sites required. </li>
