@@ -15,9 +15,9 @@ function initFillScopeLists () {
             case 'fillmodelGIN':
                 $targetlist = $listing_full;
                 break;
-            case 'lite':
-                $targetlist = $listing_lite;
-                break;
+            // case 'lite':
+            //     $targetlist = $listing_lite;
+            //     break;
             default:
                 console.error(`County ${countyinfo.countyfp} has unknown profile '${countyinfo.profile}' for Scope list`);
                 break;
