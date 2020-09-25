@@ -141,7 +141,7 @@ const SITE_SCORING_FIELDS = [
 // radiogroup = layers matching the same radiogroup will behave similarly to radio buttons: turning on one will turn off others in this same group
 const DATA_LAYERS = {};
 
-DATA_LAYERS.seven_day_sites = {
+DATA_LAYERS.seven_day_sitesGIN = {
     id: 'seven_day_sites',
     title: "Suggested Areas for 7 Day Voting Locations",
     csvfile: 'model_files/seven_day_sites.csv',
@@ -151,9 +151,19 @@ DATA_LAYERS.seven_day_sites = {
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/seven_day_sites_shp.zip',
 };
+DATA_LAYERS.seven_day_sites = {
+    id: 'seven_day_sites',
+    title: "Suggested Areas for Election Day Voting Locations",
+    csvfile: 'model_files/seven_day_sites.csv',
+    circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
+    quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
+    mapzindex: 'high',
+    legendformat: 'lowtohigh',
+    downloadfile: 'model_files/seven_day_sites_shp.zip',
+};
 DATA_LAYERS.fourteen_day_sites = {
     id: 'fourteen_day_sites',
-    title: "Suggested Areas for 14 Day Voting Locations",
+    title: "Suggested Areas for 13 Day Voting Locations",
     csvfile: 'model_files/fourteen_day_sites.csv',
     circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
@@ -423,7 +433,7 @@ const DATA_PROFILES = {};
 
 DATA_PROFILES.fullmodelGIN = {
     suggestedareas: [
-        DATA_LAYERS.seven_day_sites, DATA_LAYERS.fourteen_day_sites, DATA_LAYERS.dropbox_sites, DATA_LAYERS.all_sites_scored,
+        DATA_LAYERS.seven_day_sitesGIN, DATA_LAYERS.fourteen_day_sites, DATA_LAYERS.dropbox_sites, DATA_LAYERS.all_sites_scored,
     ],
     additionalareas: [
         DATA_LAYERS.additional_sites_model, DATA_LAYERS.additional_sites_distance,
