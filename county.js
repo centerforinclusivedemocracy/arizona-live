@@ -21,6 +21,12 @@ $(document).ready(function () {
     initTooltips();
 });
 
+if (COUNTYINFO.profile === "fullmodel") {
+    $('#suggestedHeader').text("Suggested Voting and Drop Box Locations")
+    $('#suggestedAdditionalHeader').text("Additional Voting Location Options")
+    var replaced = $("body").html().replace(/Vote Center/g,'Voting Location');
+    $("body").html(replaced);
+  }
 
 function initCountyInfo () {
     // populate the global which we'll use often
