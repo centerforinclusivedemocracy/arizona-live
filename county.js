@@ -21,13 +21,6 @@ $(document).ready(function () {
     initTooltips();
 });
 
-if (COUNTYINFO.profile === "fullmodelGIN") {
-    $('#suggestedHeader').text("Suggested Vote Center and Drop Box Locations")
-    $('#suggestedAdditionalHeader').text("Additional Vote Center Options")
-    var replaced = $("body").html().replace(/Voting Location/g,'Vote Center');
-    $("body").html(replaced);
-  }
-
 function initCountyInfo () {
     // populate the global which we'll use often
     COUNTYINFO = getParticipatingCountyInfo((new URLSearchParams(window.location.search)).get('county'));
@@ -38,6 +31,13 @@ function initCountyInfo () {
     // if there is an Out Of Order message, fill in the explanation why the county is broken
     if (COUNTYINFO.outoforder) $('#outoforder').text(COUNTYINFO.outoforder);
     else $('#outoforder').remove();
+
+    if (COUNTYINFO.profile === "fullmodelGIN") {
+        $('#suggestedHeader').text("Suggested Vote Center and Drop Box Locations")
+        $('#suggestedAdditionalHeader').text("Additional Vote Center Options")
+        var replaced = $("body").html().replace(/Voting Location/g,'Vote Center');
+        $("body").html(replaced);
+      }
 }
 
 
