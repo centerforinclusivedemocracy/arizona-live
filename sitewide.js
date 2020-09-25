@@ -143,7 +143,7 @@ const DATA_LAYERS = {};
 
 DATA_LAYERS.seven_day_sitesGIN = {
     id: 'seven_day_sites',
-    title: "Suggested Areas for 7 Day Voting Locations",
+    title: "Suggested Areas for 7 Day Vote Centers",
     csvfile: 'model_files/seven_day_sites.csv',
     circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
@@ -161,9 +161,19 @@ DATA_LAYERS.seven_day_sites = {
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/seven_day_sites_shp.zip',
 };
+DATA_LAYERS.fourteen_day_sitesGIN = {
+    id: 'fourteen_day_sites',
+    title: "Suggested Areas for Early Vote Centers",
+    csvfile: 'model_files/fourteen_day_sites.csv',
+    circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
+    quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
+    mapzindex: 'high',
+    legendformat: 'lowtohigh',
+    downloadfile: 'model_files/fourteen_day_sites_shp.zip',
+};
 DATA_LAYERS.fourteen_day_sites = {
     id: 'fourteen_day_sites',
-    title: "Suggested Areas for 13 Day Voting Locations",
+    title: "Suggested Areas for Early Voting Locations",
     csvfile: 'model_files/fourteen_day_sites.csv',
     circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
@@ -191,6 +201,16 @@ DATA_LAYERS.all_sites_scored = {
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/all_sites_scored_shp.zip',
 };
+DATA_LAYERS.additional_sites_modelGIN = {
+    id: 'additional_sites_model',
+    title: "Additional Vote Center Options Based on Model",
+    csvfile: 'model_files/additional_sites_model.csv',
+    circle: { radius: 400, opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
+    quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
+    mapzindex: 'medium',
+    legendformat: 'lowtohigh',
+    downloadfile: 'model_files/additional_sites_model_shp.zip',
+};
 DATA_LAYERS.additional_sites_model = {
     id: 'additional_sites_model',
     title: "Additional Voting Location Options Based on Model",
@@ -200,6 +220,16 @@ DATA_LAYERS.additional_sites_model = {
     mapzindex: 'medium',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/additional_sites_model_shp.zip',
+};
+DATA_LAYERS.additional_sites_distanceGIN = {
+    id: 'additional_sites_distance',
+    title: "Additional Vote Center Options Based on Distance",
+    csvfile: 'model_files/additional_sites_distance.csv',
+    circle: { radius: 400, opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
+    quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
+    mapzindex: 'medium',
+    legendformat: 'lowtohigh',
+    downloadfile: 'model_files/additional_sites_distance_shp.zip',
 };
 DATA_LAYERS.additional_sites_distance = {
     id: 'additional_sites_distance',
@@ -433,10 +463,10 @@ const DATA_PROFILES = {};
 
 DATA_PROFILES.fullmodelGIN = {
     suggestedareas: [
-        DATA_LAYERS.seven_day_sitesGIN, DATA_LAYERS.fourteen_day_sites, DATA_LAYERS.dropbox_sites, DATA_LAYERS.all_sites_scored,
+        DATA_LAYERS.seven_day_sitesGIN, DATA_LAYERS.fourteen_day_sitesGIN, DATA_LAYERS.dropbox_sites, DATA_LAYERS.all_sites_scored,
     ],
     additionalareas: [
-        DATA_LAYERS.additional_sites_model, DATA_LAYERS.additional_sites_distance,
+        DATA_LAYERS.additional_sites_modelGIN, DATA_LAYERS.additional_sites_distanceGIN,
     ],
     sitingcriteria: [
         DATA_LAYERS.transit_stops,
