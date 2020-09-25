@@ -21,10 +21,10 @@ $(document).ready(function () {
     initTooltips();
 });
 
-if (COUNTYINFO.profile === "fullmodel") {
-    $('#suggestedHeader').text("Suggested Voting and Drop Box Locations")
-    $('#suggestedAdditionalHeader').text("Additional Voting Location Options")
-    var replaced = $("body").html().replace(/Vote Center/g,'Voting Location');
+if (COUNTYINFO.profile === "fullmodelGIN") {
+    $('#suggestedHeader').text("Suggested Vote Center and Drop Box Locations")
+    $('#suggestedAdditionalHeader').text("Additional Vote Center Options")
+    var replaced = $("body").html().replace(/Voting Location/g,'Vote Center');
     $("body").html(replaced);
   }
 
