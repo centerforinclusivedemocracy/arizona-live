@@ -163,7 +163,7 @@ DATA_LAYERS.seven_day_sites = {
 };
 DATA_LAYERS.fourteen_day_sitesGIN = {
     id: 'fourteen_day_sites',
-    title: "Suggested Areas for Early Vote Centers",
+    title: "Suggested Areas for 13 Day Vote Centers",
     csvfile: 'model_files/fourteen_day_sites.csv',
     circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
