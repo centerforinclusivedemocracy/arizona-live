@@ -6,17 +6,18 @@
 // outoforder = optional message to display in top-left of county page, indicating that this county data are questionable
 // exceptlayers = skip these layers when loading the data profile, for counties to opt-out from individual layers
 const PARTICIPATING_COUNTIES = [
-    { countyfp:"001", name:"Apache", profile: 'fullmodelCID', datafootnote:"", exceptlayers: [] },
-    { countyfp:"003", name:"Cochise", profile: 'fullmodelCID', exceptlayers: [] },
-    { countyfp:"005", name:"Coconino", profile: 'fullmodelCID', exceptlayers: [] },
-    { countyfp:"007", name:"Gila", profile: 'fullmodelCID', exceptlayers: [] },
-    { countyfp:"013", name:"Maricopa", profile: 'fullmodelGIN', outoforder:"", datafootnote:"" , exceptlayers: []},
-    { countyfp:"015", name:"Mohave", profile: 'fullmodelCID', exceptlayers: [] },
-    { countyfp:"017", name:"Navajo", profile: 'fullmodelCID', exceptlayers: [] },
-    { countyfp:"019", name:"Pima", profile: 'fullmodelCID', exceptlayers: [] },
-    { countyfp:"021", name:"Pinal", profile: 'fullmodelCID', datafootnote:"", exceptlayers: [] },
-    { countyfp:"025", name:"Yavapai", profile: 'fullmodelCID', datafootnote:"", exceptlayers: [] },
-    { countyfp:"027", name:"Yuma", profile: 'fullmodelCID', datafootnote:"", exceptlayers: [] },
+    //SSS// We have 2 classes for AZ: fullmodel_pp uses polling places, fullmodel_vc is for Maricopa with vote centers
+    { countyfp:"001", name:"Apache", profile: 'fullmodel_pp', datafootnote:"", exceptlayers: [] },
+    { countyfp:"003", name:"Cochise", profile: 'fullmodel_pp', exceptlayers: [] },
+    { countyfp:"005", name:"Coconino", profile: 'fullmodel_pp', exceptlayers: [] },
+    { countyfp:"007", name:"Gila", profile: 'fullmodel_pp', exceptlayers: [] },
+    { countyfp:"013", name:"Maricopa", profile: 'fullmodel_vc', outoforder:"", datafootnote:"" , exceptlayers: []},
+    { countyfp:"015", name:"Mohave", profile: 'fullmodel_pp', exceptlayers: [] },
+    { countyfp:"017", name:"Navajo", profile: 'fullmodel_pp', exceptlayers: [] },
+    { countyfp:"019", name:"Pima", profile: 'fullmodel_pp', exceptlayers: [] },
+    { countyfp:"021", name:"Pinal", profile: 'fullmodel_pp', datafootnote:"", exceptlayers: [] },
+    { countyfp:"025", name:"Yavapai", profile: 'fullmodel_pp', datafootnote:"", exceptlayers: [] },
+    { countyfp:"027", name:"Yuma", profile: 'fullmodel_pp', datafootnote:"", exceptlayers: [] },
 ];
 
 
@@ -137,7 +138,7 @@ const SITE_SCORING_FIELDS = [
 // radiogroup = layers matching the same radiogroup will behave similarly to radio buttons: turning on one will turn off others in this same group
 const DATA_LAYERS = {};
 
-DATA_LAYERS.seven_day_sites = {
+DATA_LAYERS.seven_day_sites_pp = {
     id: 'seven_day_sites',
     title: "Suggested Areas for Election Day Voting Locations",
     csvfile: 'model_files/seven_day_sites.csv',
@@ -147,7 +148,7 @@ DATA_LAYERS.seven_day_sites = {
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/seven_day_sites_shp.zip',
 };
-DATA_LAYERS.seven_day_sitesGIN = {
+DATA_LAYERS.seven_day_sites_vc = {
     id: 'seven_day_sites',
     title: "Suggested Areas for 7 Day Vote Centers",
     csvfile: 'model_files/seven_day_sites.csv',
@@ -157,7 +158,7 @@ DATA_LAYERS.seven_day_sitesGIN = {
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/seven_day_sites_shp.zip',
 };
-DATA_LAYERS.fourteen_day_sites = {
+DATA_LAYERS.fourteen_day_sites_pp = {
     id: 'fourteen_day_sites',
     title: "Suggested Areas for Early Voting Locations",
     csvfile: 'model_files/fourteen_day_sites.csv',
@@ -167,7 +168,7 @@ DATA_LAYERS.fourteen_day_sites = {
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/fourteen_day_sites_shp.zip',
 };
-DATA_LAYERS.fourteen_day_sitesGIN = {
+DATA_LAYERS.fourteen_day_sites_vc = {
     id: 'fourteen_day_sites',
     title: "Suggested Areas for 13 Day Vote Centers",
     csvfile: 'model_files/fourteen_day_sites.csv',
@@ -197,7 +198,7 @@ DATA_LAYERS.all_sites_scored = {
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/all_sites_scored_shp.zip',
 };
-DATA_LAYERS.additional_sites_model = {
+DATA_LAYERS.additional_sites_model_pp = {
     id: 'additional_sites_model',
     title: "Additional Voting Location Options Based on Model",
     csvfile: 'model_files/additional_sites_model.csv',
@@ -207,7 +208,7 @@ DATA_LAYERS.additional_sites_model = {
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/additional_sites_model_shp.zip',
 };
-DATA_LAYERS.additional_sites_modelGIN = {
+DATA_LAYERS.additional_sites_model_vc = {
     id: 'additional_sites_model',
     title: "Additional Vote Center Options Based on Model",
     csvfile: 'model_files/additional_sites_model.csv',
@@ -217,7 +218,7 @@ DATA_LAYERS.additional_sites_modelGIN = {
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/additional_sites_model_shp.zip',
 };
-DATA_LAYERS.additional_sites_distance = {
+DATA_LAYERS.additional_sites_distance_pp = {
     id: 'additional_sites_distance',
     title: "Additional Voting Location Options Based on Distance",
     csvfile: 'model_files/additional_sites_distance.csv',
@@ -227,7 +228,7 @@ DATA_LAYERS.additional_sites_distance = {
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/additional_sites_distance_shp.zip',
 };
-DATA_LAYERS.additional_sites_distanceGIN = {
+DATA_LAYERS.additional_sites_distance_vc = {
     id: 'additional_sites_distance',
     title: "Additional Vote Center Options Based on Distance",
     csvfile: 'model_files/additional_sites_distance.csv',
@@ -457,12 +458,13 @@ DATA_LAYERS.triballands = {
 // lite = all layers EXCEPT suggested areas
 const DATA_PROFILES = {};
 
-DATA_PROFILES.fullmodelGIN = {
+// Maricopa county profile with vote centers
+DATA_PROFILES.fullmodel_vc = {
     suggestedareas: [
-        DATA_LAYERS.seven_day_sitesGIN, DATA_LAYERS.fourteen_day_sitesGIN, DATA_LAYERS.dropbox_sites, DATA_LAYERS.all_sites_scored,
+        DATA_LAYERS.seven_day_sites_vc, DATA_LAYERS.fourteen_day_sites_vc, DATA_LAYERS.dropbox_sites, DATA_LAYERS.all_sites_scored,
     ],
     additionalareas: [
-        DATA_LAYERS.additional_sites_modelGIN, DATA_LAYERS.additional_sites_distanceGIN,
+        DATA_LAYERS.additional_sites_model_vc, DATA_LAYERS.additional_sites_distance_vc,
     ],
     sitingcriteria: [
         DATA_LAYERS.cvapdens, DATA_LAYERS.job_dens,
@@ -490,12 +492,13 @@ DATA_PROFILES.fullmodelGIN = {
     ],
 };
 
-DATA_PROFILES.fullmodelCID = {
+// Rest of AZ counties with polling places
+DATA_PROFILES.fullmodel_pp = {
     suggestedareas: [
-        DATA_LAYERS.seven_day_sites, DATA_LAYERS.fourteen_day_sites, DATA_LAYERS.dropbox_sites, DATA_LAYERS.all_sites_scored,
+        DATA_LAYERS.seven_day_sites_pp, DATA_LAYERS.fourteen_day_sites_pp, DATA_LAYERS.dropbox_sites, DATA_LAYERS.all_sites_scored,
     ],
     additionalareas: [
-        DATA_LAYERS.additional_sites_model, DATA_LAYERS.additional_sites_distance,
+        DATA_LAYERS.additional_sites_model_pp, DATA_LAYERS.additional_sites_distance_pp,
     ],
     sitingcriteria: [
         DATA_LAYERS.cvapdens, DATA_LAYERS.job_dens,
